@@ -1,0 +1,222 @@
+/* General Styles */
+body {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+/* Header styles */
+header {
+    background-color: #1a237e;
+    color: white;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.logo {
+    font-family: 'Yeseva One', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.search-icon {
+    font-size: 1.5rem;
+    color: white;
+    cursor: pointer;
+}
+
+/* Hero Section */
+.services-hero {
+    background-color: lightblue;
+    background-size: cover;
+    background-position: center;
+    padding: 5rem 0;
+    text-align: center;
+    color: white;
+}
+
+.services-hero h1 {
+    font-size: 3rem;
+    font-family: 'Yeseva One', cursive;
+}
+
+/* Labs Section */
+.labs-section {
+    max-width: 1200px;
+    margin: 4rem auto;
+    text-align: center;
+}
+
+.labs-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.labs-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+.lab-card {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+/* Ensure the images are square and properly scaled */
+.lab-card img {
+    width: 100%;
+    height: 250px; /* Fixed height to maintain square-like aspect ratio */
+    object-fit: contain; /* Ensures the image scales to fit without cropping */
+    border-radius: 10px;
+    background-color: #f0f0f0; /* Optional: Add a background color for any transparent areas */
+}
+
+.lab-card h3 {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+.lab-card p {
+    color: #666;
+}
+
+.book-appointment-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #1a237e;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.book-appointment-btn:hover {
+    background-color: #3949ab;
+}
+
+
+/* Contact Section */
+.contact-section {
+    padding: 4rem 0;
+    text-align: center;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+}
+
+.contact-box {
+    background-color: #f4f6f9;
+    padding: 2rem;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.contact-box i {
+    font-size: 2rem;
+    color: #1a237e;
+    margin-bottom: 1rem;
+}
+
+.contact-box h4 {
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+}
+
+/* Footer styles */
+footer {
+    background-color: #1a237e;
+    color: white;
+    padding: 3rem 0;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.footer-section h3 {
+    margin-bottom: 1rem;
+    font-family: 'Yeseva One', cursive;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-section ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #3949ab;
+}
+
+.social-icons i {
+    font-size: 1.5rem;
+    color: white;
+    margin: 0 0.5rem;
+    cursor: pointer;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+    .labs-grid, .doctors-grid, .contact-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+    }
+}
