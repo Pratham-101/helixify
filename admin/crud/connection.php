@@ -5,7 +5,7 @@ ini_set('display_errors', 1);
 
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "";  // Keep empty if no password for root
 $dbname = "appointment_form";
 
 // Create connection
