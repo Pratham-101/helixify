@@ -1,0 +1,399 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+/* Header styling */
+header {
+    background-color: #fff;
+    padding: 20px 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+header:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Logo styling */
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+/* Navbar links styling */
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.nav-links li {
+    position: relative;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+    border-radius: 5px;
+}
+
+.nav-links a:hover {
+    color: #fff;
+    background-color: #6a00ff;
+}
+
+/* Dropdown menu styling */
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: opacity 0.3s ease;
+}
+
+.nav-links li:hover .dropdown {
+    display: block;
+}
+
+.dropdown a {
+    display: block;
+    padding: 10px 20px;
+    color: #333;
+    white-space: nowrap;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown a:hover {
+    background-color: #f0f0f0;
+}
+
+/* Auth buttons */
+.auth-buttons {
+    display: flex;
+    gap: 15px;
+}
+
+.auth-buttons button {
+    padding: 10px 20px;
+    border: 1px solid #6a00ff;
+    border-radius: 20px;
+    background: transparent;
+    color: #6a00ff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 16px;
+}
+
+.auth-buttons .sign-in:hover {
+    background-color: #6a00ff;
+    color: #fff;
+}
+
+.auth-buttons .sign-up {
+    background-color: #6a00ff;
+    color: #fff;
+}
+
+.auth-buttons .sign-up:hover {
+    background-color: #5a00cc;
+}
+
+/* Hero section styling */
+.hero-section {
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+}
+
+.hero-text {
+    max-width: 50%;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero-text h1 span {
+    color: #6a00ff;
+}
+
+.hero-text p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+    color: #666;
+}
+
+.hero-buttons {
+    margin-bottom: 20px;
+}
+
+.appointment-btn {
+    padding: 15px 30px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: #6a00ff;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adjust gap between text and icon */
+    font-size: 16px; /* Adjust font size if necessary */
+}
+
+.appointment-btn i {
+    font-size: 18px; 
+    transition: transform 0.3s ease; 
+}
+
+.appointment-btn:hover i {
+    transform: translateX(5px); /* Slight move effect on hover */
+}
+
+
+/* Updated hero image and info cards styling */
+.hero-image {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-image img {
+    width: 400px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1; /* Ensures image stays on top of background effects */
+}
+
+.hero-image::before {
+    content: "";
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: #6a00ff;
+    opacity: 0.8;
+    z-index: 0; /* Background layer */
+}
+
+.info-cards {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    top: 20px;
+    left: 5%;
+    transform: translateX(-50%);
+    z-index: 2; /* On top of the circular background */
+}
+
+/* Individual card styling */
+.card1 {
+    background: #ffffff;
+    padding: 15px 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    max-width: 250px; /* Adjust based on design needs */
+    color: #3f1578;
+}
+
+.card2 {
+    background: #fff6e6;
+    padding: 15px 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 60%;
+    font-size: 14px;
+    max-width: 250px;
+    color: #ff8500;
+}
+
+.card3 {
+    background: #e6f7ff;
+    padding: 15px 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10%;
+    margin-left: 20%;
+    font-size: 14px;
+    max-width: 250px;
+    color: #007acc;
+}
+
+.info-cards .card1 span,
+.info-cards .card2 span,
+.info-cards .card3 span {
+    font-size: 20px;
+}
+
+/* CARDS */
+.clinics {
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.heading {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+.subheading {
+    font-size: 1.2rem;
+    color: #777;
+    margin-bottom: 2rem;
+}
+
+.clinicCardsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 1200px;
+}
+
+.clinicInfo {
+    background-color: white;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    width: calc(33.33% - 2rem);
+    max-width: 300px;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    overflow: hidden;
+    margin: 1rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.clinicInfo:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.imgContainer {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 1rem;
+}
+
+.imgContainer img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+    transition: opacity 0.3s ease;
+}
+
+.map {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.imgContainer:hover img {
+    opacity: 0;
+}
+
+.imgContainer:hover .map {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.clinicName {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+.clinicAddress,
+.clinicPhone {
+    font-size: 0.9rem;
+    color: #555;
+    margin-bottom: 0.5rem;
+}
+
+.bookAppointment,
+.bookAtHome {
+    display: inline-block;
+    width: 80%;
+    padding: 0.7rem 0;
+    margin: 0.5rem auto;
+    border: none;
+    border-radius: 50px;
+    background-color: #007bff;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-transform: uppercase;
+    box-shadow: 0px 4px 10px rgba(0, 123, 255, 0.3);
+}
+
+.bookAppointment:hover,
+.bookAtHome:hover {
+    background-color: #0056b3;
+}
+footer {
+    height: 100px;
+    background-color: #007bff;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

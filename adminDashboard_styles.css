@@ -1,0 +1,172 @@
+/* Container styling */
+.container {
+    width: 85%;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Header logo */
+.logo {
+    font-size: 32px;
+    font-weight: 700;
+    color: #2C3E50;
+    text-align: center;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* New Registration Button */
+.new-registration {
+    text-align: right;
+    margin-bottom: 30px;
+}
+
+.btn-register {
+    display: inline-block;
+    padding: 12px 25px;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn-register:hover {
+    background-color: #2980b9;
+    cursor: pointer;
+}
+
+/* Statistics styling */
+.stats {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.stat-card {
+    background-color: #ecf0f1;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    text-align: center;
+    width: 30%;
+    transition: all 0.3s ease;
+}
+
+.stat-card:hover {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.stat-number {
+    font-size: 42px;
+    font-weight: 600;
+    color: #16a085;
+}
+
+.stat-label {
+    font-size: 18px;
+    color: #7f8c8d;
+    margin-top: 10px;
+    font-weight: 500;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+    background-color: #ecf0f1;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+thead th {
+    background-color: #34495e;
+    color: #ecf0f1;
+    font-weight: 600;
+    padding: 15px;
+    border-bottom: 2px solid #2c3e50;
+    text-align: left;
+}
+
+tbody tr {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    transition: all 0.2s ease-in-out;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tbody tr:hover {
+    background-color: #bdc3c7;
+}
+
+tbody td {
+    padding: 15px;
+    color: #2c3e50;
+    font-weight: 500;
+    vertical-align: middle; /* Ensures content aligns vertically */
+    white-space: nowrap;    /* Prevents text and buttons from wrapping */
+    text-align: left;
+}
+
+/* Status badges */
+.status {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    text-transform: capitalize;
+}
+
+.status-successful {
+    background-color: #27ae60;
+}
+
+.status-cancelled {
+    background-color: #c0392b;
+}
+
+.status-pending {
+    background-color: #f39c12;
+}
+
+/* Action buttons */
+.btn-success, .btn-cancel, .btn-snp {
+    display: inline-block;
+    padding: 8px 12px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 5px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+}
+
+.btn-success {
+    color: #27ae60;
+}
+
+.btn-cancel {
+    color: #e74c3c;
+}
+
+.btn-snp {
+    color: #2980b9;
+}
+
+.btn-success:hover, .btn-cancel:hover, .btn-snp:hover {
+    background-color: #ecf0f1;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+td > a {
+    margin-right: 10px;
+}

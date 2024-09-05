@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital Website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<body>
+    <header>
+            <nav>
+                <div class="logo">
+                    <img src="Helixify-removebg-preview.png" alt=""> 
+                </div>
+                <ul class="nav-links">
+                    <li><a href="#">Home</a></li>
+                    <a href="#services-cards">Services</a>
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">Contact us</a></li>
+                </ul>
+            </nav>
+        </header>
+    
+        <section class="hero-section">
+            <div class="hero-text">
+                <h1>We <span>care</span> about your health</h1>
+                <p>Good health is the state of mental, physical, and social well-being and it does not just mean absence of diseases.</p>
+                <div class="hero-buttons">   
+
+                    <a href="http://localhost/crud/form.php" target="_blank">
+                      <button class="appointment-btn"> Book an appointment <i class="fa-solid fa-arrow-right"></i></button>
+                    </a>
+                  </div>
+                            <!-- Book an appointment <i class="fa-solid fa-arrow-right"></i> -->
+                        </button>
+                    </a>
+                </div>
+                
+                
+            </div>
+            <div class="hero-image">
+                <img src="doctor.png" alt="Doctors">
+                <div class="info-cards">
+                    <div class="card1">
+                        <span>🔍</span> Well Qualified doctors<br>Treat with care
+                    </div>
+                    <div class="card2">
+                        <span>📅</span> Book an appointment<br>Online appointment
+                    </div>
+                    <div class="card3">
+                        <span>📞</span> Contact no<br>+971528213225
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+        <div class="clinics" id="services-cards">
+            <h1 class="heading">Pathology Labs Partnered with Us</h1>
+            <p class="subheading">Access your DNA reports at our network of affiliated clinics.</p>
+            <div class="clinicCardsContainer">
+                <!-- Repeat these blocks for each clinic -->
+                <div class="clinicInfo" data-lat="19.062681" data-lng="72.881579">
+                    <div class="imgContainer">
+                        <img src="hospital.jpg" alt="Clinic Image">
+                        <div id="map1" class="map"></div>
+                    </div>
+                    <strong class="clinicName">XYZ Clinic</strong>
+                    <p class="clinicAddress">123, ABC Street, XYZ City</p>
+                    <p class="clinicPhone">Phone: 1234567890</p>
+                    <button class="bookAppointment">Book Appointment</button>
+                    <!-- <button class="bookAtHome">Book Home DNA Test</button> -->
+                </div>
+                <div class="clinicInfo" data-lat="48.8566" data-lng="2.3522">
+                    <div class="imgContainer">
+                        <img src="hospital.jpg" alt="Clinic Image">
+                        <div id="map2" class="map"></div>
+                    </div>
+                    <strong class="clinicName">ABC Clinic</strong>
+                    <p class="clinicAddress">Address: 456, DEF Street, Paris</p>
+                    <p class="clinicPhone">Phone: 9876543210</p>
+                    <button class="bookAppointment">Book Appointment</button>
+                    <!-- <button class="bookAtHome">Book Home DNA Test</button> -->
+                </div>
+                <div class="clinicInfo" data-lat="40.7128" data-lng="-74.0060">
+                    <div class="imgContainer">
+                        <img src="hospital.jpg" alt="Clinic Image">
+                        <div id="map3" class="map"></div>
+                    </div>
+                    <strong class="clinicName">LMN Clinic</strong>
+                    <p class="clinicAddress">Address: 789, GHI Street, New York</p>
+                    <p class="clinicPhone">Phone: 1122334455</p>
+                    <button class="bookAppointment">Book Appointment</button>
+                    <!-- <button class="bookAtHome">Book Home DNA Test</button> -->
+                </div>
+                <div class="clinicInfo" data-lat="35.6895" data-lng="139.6917">
+                    <div class="imgContainer">
+                        <img src="hospital.jpg" alt="Clinic Image">
+                        <div id="map4" class="map"></div>
+                    </div>
+                    <strong class="clinicName">OPQ Clinic</strong>
+                    <p class="clinicAddress">Address: 101, JKL Street, Tokyo</p>
+                    <p class="clinicPhone">Phone: 6677889900</p>
+                    <button class="bookAppointment">Book Appointment</button>
+                    <!-- <button class="bookAtHome">Book Home DNA Test</button> -->
+                </div>
+                <div class="clinicInfo" data-lat="55.7558" data-lng="37.6173">
+                    <div class="imgContainer">
+                        <img src="hospital.jpg" alt="Clinic Image">
+                        <div id="map5" class="map"></div>
+                    </div>
+                    <strong class="clinicName">QRS Clinic</strong>
+                    <p class="clinicAddress">Address: 234, MNO Street, Moscow</p>
+                    <p class="clinicPhone">Phone: 7788990011</p>
+                    <button class="bookAppointment">Book Appointment</button>
+                    <!-- <button class="bookAtHome">Book Home DNA Test</button> -->
+                </div>
+                <div class="clinicInfo" data-lat="-33.8688" data-lng="151.2093">
+                    <div class="imgContainer">
+                        <img src="hospital.jpg" alt="Clinic Image">
+                        <div id="map6" class="map"></div>
+                    </div>
+                    <strong class="clinicName">TUV Clinic</strong>
+                    <p class="clinicAddress">Address: 345, PQR Street, Sydney</p>
+                    <p class="clinicPhone">Phone: 9988776655</p>
+                    <button class="bookAppointment">Book Appointment</button>
+                    <!-- <button class="bookAtHome">Book Home DNA Test</button> -->
+                </div>
+                <!-- Add more clinics here -->
+            </div>
+        </div>
+    
+        <footer>
+            <p>&copy; 2024 Helixify . All rights reserved.</p>
+        </footer>
+    
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+        <script>
+            document.querySelectorAll('.clinicInfo').forEach((card, index) => {
+                const lat = card.dataset.lat;
+                const lng = card.dataset.lng;
+                const mapId = `map${index + 1}`;
+                const mapElement = document.getElementById(mapId);
+    
+                const map = L.map(mapElement).setView([lat, lng], 13);
+    
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    maxZoom: 19,
+                }).addTo(map);
+    
+                L.marker([lat, lng]).addTo(map)
+                    .bindPopup(card.querySelector('.clinicName').textContent)
+                    .openPopup();
+    
+                mapElement.style.pointerEvents = 'none';
+    
+                card.querySelector('.imgContainer').addEventListener('mouseenter', () => {
+                    mapElement.style.pointerEvents = 'auto';
+                });
+    
+                card.querySelector('.imgContainer').addEventListener('mouseleave', () => {
+                    mapElement.style.pointerEvents = 'none';
+                });
+    
+                card.querySelector('.imgContainer').addEventListener('click', () => {
+                    const url = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lng}#map=19/${lat}/${lng}`;
+                    window.open(url, '_blank');
+                });
+            });
+        </script>
+    </body>
+    
+    </html>
+    
