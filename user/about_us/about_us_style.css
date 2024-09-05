@@ -52,11 +52,11 @@ nav ul li a {
 
 /* Hero section */
 .hero {
-    background-image: url('doctor.png');
+    background-color: lightblue;
     background-size: cover;
     background-position: center;
     color: white;
-    text-align: left;
+    text-align: center;
     padding: 6rem;
 }
 
