@@ -1,0 +1,202 @@
+/* General styles */
+body {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background-color: #1a237e;
+    color: white;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.logo {
+    font-family: 'Yeseva One', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.search-icon {
+    font-size: 1.5rem;
+    color: white;
+    cursor: pointer;
+}
+
+/* Hero section */
+.hero {
+    background-color: lightblue;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 6rem;
+}
+
+.hero h1 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #1a237e;
+}
+
+.hero p.subheading {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    color: #7986cb;
+}
+
+/* Main content */
+.main-content {
+    width: 85%;
+    margin: 4rem auto;
+}
+
+.section-title {
+    font-family: 'Yeseva One', cursive;
+    font-size: 2.5rem;
+    color: #1a237e;
+    margin-bottom: 1.5rem;
+}
+
+.about-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+}
+
+/* Quote section */
+.quote-section {
+    background-color: #e8eaf6;
+    padding: 3rem;
+    margin: 3rem 0;
+    border-radius: 10px;
+}
+
+.quote-text {
+    font-size: 1.5rem;
+    font-style: italic;
+    color: #1a237e;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.quote-author {
+    font-weight: bold;
+    text-align: right;
+    color: #5c6bc0;
+}
+
+/* Decode section */
+.decode-section {
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    margin: 3rem 0;
+}
+
+.decode-image {
+    flex: 1;
+}
+
+.decode-image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.decode-content {
+    flex: 1;
+}
+
+.decode-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.decode-list li {
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.decode-list li:before {
+    content: "\f00c";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    color: #5c6bc0;
+    margin-right: 1rem;
+}
+
+/* Footer styles */
+footer {
+    background-color: #1a237e;
+    color: white;
+    padding: 3rem 0;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.footer-section h3 {
+    margin-bottom: 1rem;
+    font-family: 'Yeseva One', cursive;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-section ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #3949ab;
+}
+
+.social-icons i {
+    font-size: 1.5rem;
+    color: white;
+    margin: 0 0.5rem;
+    cursor: pointer;
+}

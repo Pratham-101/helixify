@@ -1,19 +1,64 @@
-/* Container styling */
+/* General container styling */
 .container {
     width: 85%;
     margin: 0 auto;
     font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Header logo */
-.logo {
-    font-size: 32px;
-    font-weight: 700;
+/* Animated Logo styling */
+.animated-logo {
+    font-size: 48px;
+    font-weight: 900;
     color: #2C3E50;
     text-align: center;
     margin-bottom: 40px;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 3px;
+    background: linear-gradient(45deg, #3498db, #2ecc71);
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: colorShift 4s infinite;
+    cursor: pointer;
+    position: relative;
+    padding: 5px;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+}
+
+.animated-logo:hover {
+    transform: scale(1.1);
+}
+
+/* Keyframe Animation */
+@keyframes colorShift {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Welcome section */
+h1 {
+    font-size: 28px;
+    color: #2C3E50;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 16px;
+    color: #7f8c8d;
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 /* New Registration Button */
@@ -25,52 +70,18 @@
 .btn-register {
     display: inline-block;
     padding: 12px 25px;
-    background-color: #3498db;
+    background: linear-gradient(135deg, #3498db, #2c3e50);
     color: white;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 8px;
     font-size: 18px;
     font-weight: bold;
-    transition: background-color 0.3s;
-}
-
-.btn-register:hover {
-    background-color: #2980b9;
-    cursor: pointer;
-}
-
-/* Statistics styling */
-.stats {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 40px;
-}
-
-.stat-card {
-    background-color: #ecf0f1;
-    border-radius: 10px;
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
-    padding: 30px;
-    text-align: center;
-    width: 30%;
     transition: all 0.3s ease;
 }
 
-.stat-card:hover {
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-}
-
-.stat-number {
-    font-size: 42px;
-    font-weight: 600;
-    color: #16a085;
-}
-
-.stat-label {
-    font-size: 18px;
-    color: #7f8c8d;
-    margin-top: 10px;
-    font-weight: 500;
+.btn-register:hover {
+    background: linear-gradient(135deg, #2980b9, #1a252f);
+    cursor: pointer;
 }
 
 /* Table styling */
@@ -78,7 +89,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 30px;
-    background-color: #ecf0f1;
+    background-color: #fff;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -88,31 +99,26 @@ thead th {
     color: #ecf0f1;
     font-weight: 600;
     padding: 15px;
-    border-bottom: 2px solid #2c3e50;
     text-align: left;
+    text-transform: uppercase;
 }
 
 tbody tr {
     background-color: #fff;
     border-bottom: 1px solid #ddd;
-    transition: all 0.2s ease-in-out;
-}
-
-tbody tr:nth-child(even) {
-    background-color: #f2f2f2;
+    transition: background-color 0.3s ease-in-out;
 }
 
 tbody tr:hover {
-    background-color: #bdc3c7;
+    background-color: #f2f2f2;
 }
 
 tbody td {
     padding: 15px;
     color: #2c3e50;
     font-weight: 500;
-    vertical-align: middle; /* Ensures content aligns vertically */
-    white-space: nowrap;    /* Prevents text and buttons from wrapping */
     text-align: left;
+    white-space: nowrap;
 }
 
 /* Status badges */
@@ -147,6 +153,7 @@ tbody td {
     margin-right: 5px;
     background-color: #f9f9f9;
     border: 1px solid #ddd;
+    transition: all 0.3s ease;
 }
 
 .btn-success {
@@ -163,10 +170,26 @@ tbody td {
 
 .btn-success:hover, .btn-cancel:hover, .btn-snp:hover {
     background-color: #ecf0f1;
-    text-decoration: underline;
     cursor: pointer;
 }
 
-td > a {
-    margin-right: 10px;
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .btn-register {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    thead th, tbody td {
+        padding: 10px;
+    }
 }
