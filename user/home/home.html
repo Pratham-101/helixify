@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">   
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="stylesheet" href="home_style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> <!-- Font Awesome -->
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500&family=Yeseva+One&display=swap" rel="stylesheet"> <!-- Google Fonts -->
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </head>
 <body>
     <header>
@@ -19,29 +21,27 @@
                 <li><a href="#news">News</a></li>
                 <li><a href="../contact/contact.html">Contact</a></li>
             </ul>
-            <div class="search-icon"><i class="fas fa-search"></i></div>
+            <div class="search-icon"></div>
         </nav>
     </header>
 
-    <main>
+    <main role="main">
+        <div id="particles-js"></div>
         <section class="hero">
-            <!-- <p class="subheading">CARING FOR LIFE</p> -->
             <h1>Revolutionizing Health, One Gene at a Time</h1>
-            <h2 class="services-heading">Our Services</h2> <!-- Heading for the service section -->
-            <div class="hero-buttons-wrapper">
-                <div class="hero-buttons-row">
-                    <button class="main-btn" id="appointment-btn">
-                        <a href="../services/services.html">
-                            <i class="fas fa-calendar-alt fa-2x"></i>
-                            Book an Appointment
-                        </a>
-                    </button>                    
-                    <button class="main-btn" id="insights-btn">
-                        <i class="fas fa-chart-line fa-2x"></i> <!-- Insights Icon -->
-                        <a href="#">Get health insights</a>
-                    </button>
-                </div>
-            </div>
+            <h2 id="our-services" class="services-heading">Our Services</h2>
+            <div class="hero-buttons-row">
+                <button class="main-btn" id="appointment-btn">
+                    <a href="../services/services.html">
+                        <i class="fas fa-calendar-alt fa-2x"></i>
+                        Book an Appointment
+                    </a>
+                </button>                    
+                <button class="main-btn" id="insights-btn">
+                    <i class="fas fa-chart-line fa-2x"></i> <!-- Insights Icon -->
+                    <a href="#">Get health insights</a>
+                </button>
+            </div>
         </section>
     </main>
 
