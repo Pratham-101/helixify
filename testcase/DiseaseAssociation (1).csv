@@ -1,0 +1,4245 @@
+association_id,disease_name,rsid,risk_allele,p_value,odds_ratio
+1,Alzheimer's,rs7185636,T,2e-08,1.0869565
+2,Alzheimer's,rs593742,A,7e-09,1.0752687
+3,Alzheimer's,rs2830500,C,3e-08,1.0752687
+4,Alzheimer's,rs4735340,T,9e-08,1.0638298
+5,Alzheimer's,rs10467994,T,4e-07,1.0638298
+6,Alzheimer's,rs2632516,G,5e-08,1.0638298
+7,Alzheimer's,rs7295246,G,4e-07,1.06
+8,Alzheimer's,rs7920721,G,2e-11,1.08
+9,Alzheimer's,rs138190086,A,5e-09,1.3
+10,Alzheimer's,rs114812713,C,2e-13,1.32
+11,Alzheimer's,rs62039712,A,4e-08,1.16
+12,Alzheimer's,rs35868327,T,3e-07,1.4705882
+13,Alzheimer's,rs71618613,A,3e-07,1.4084507
+14,Alzheimer's,rs116530595,T,9e-06,
+15,Alzheimer's,rs147582129,T,9e-06,
+16,Alzheimer's,rs72998574,T,2e-06,
+17,Alzheimer's,rs144471255,A,3e-06,
+18,Alzheimer's,rs144216026,A,8e-06,
+19,Alzheimer's,rs137869973,T,2e-07,
+20,Alzheimer's,rs72840936,C,5e-07,
+21,Alzheimer's,rs148587130,T,7e-06,
+22,Alzheimer's,rs185126971,A,8e-06,
+23,Alzheimer's,rs73239797,A,2e-06,
+24,Alzheimer's,rs113884973,C,8e-06,
+25,Alzheimer's,rs182972826,T,4e-06,
+26,Alzheimer's,rs112920270,A,9e-06,
+27,Alzheimer's,rs141104697,A,8e-06,
+28,Alzheimer's,rs144464515,C,2e-06,
+29,Alzheimer's,rs191707442,T,6e-06,
+30,Alzheimer's,rs150269952,T,6e-06,
+31,Alzheimer's,rs144998240,A,8e-07,
+32,Alzheimer's,rs138543081,T,1e-06,
+33,Alzheimer's,rs192013290,T,1e-06,
+34,Alzheimer's,rs144077517,A,2e-06,
+35,Alzheimer's,rs142835438,A,8e-07,
+36,Alzheimer's,rs184695264,T,4e-06,
+37,Alzheimer's,rs921390,T,1e-06,
+38,Alzheimer's,rs150291119,A,3e-06,
+39,Alzheimer's,rs8077028,T,1e-06,
+40,Alzheimer's,rs2244526,T,6e-06,
+41,Alzheimer's,rs17022021,T,8e-06,
+42,Alzheimer's,rs1034435,A,3e-06,
+43,Alzheimer's,rs4760243,A,8e-06,
+44,Alzheimer's,rs7260181,T,8e-06,
+45,Alzheimer's,rs12716755,A,6e-06,
+46,Alzheimer's,rs3820443,T,1e-06,
+47,Alzheimer's,rs846858,A,3e-06,
+48,Alzheimer's,rs5771225,T,5e-06,
+49,Alzheimer's,rs7313581,T,8e-07,
+50,Alzheimer's,rs2699450,A,4e-06,
+51,Alzheimer's,rs6945197,T,6e-06,
+52,Alzheimer's,rs184992198,T,2e-06,
+53,Alzheimer's,rs115972394,A,6e-06,
+54,Alzheimer's,rs73215707,T,8e-06,
+55,Alzheimer's,rs79926713,T,8e-06,
+56,Alzheimer's,rs73732514,A,2e-06,
+57,Alzheimer's,rs62177277,T,2e-06,
+58,Alzheimer's,rs73681522,A,4e-06,
+59,Alzheimer's,rs2234017,C,7e-06,
+60,Alzheimer's,rs147597631,T,2e-06,
+61,Alzheimer's,rs145848414,A,3e-06,
+62,Alzheimer's,rs147985478,A,3e-06,
+63,Alzheimer's,rs116050881,T,6e-07,
+64,Alzheimer's,rs144573434,T,5e-07,
+65,Alzheimer's,rs181228315,A,2e-06,
+66,Alzheimer's,rs147285445,T,4e-06,
+67,Alzheimer's,rs187295598,T,6e-06,
+68,Alzheimer's,rs141976661,A,5e-07,
+69,Alzheimer's,rs77544685,T,5e-06,
+70,Alzheimer's,rs185170954,A,9e-06,
+71,Alzheimer's,rs75635567,T,5e-06,
+72,Alzheimer's,rs181696879,A,4e-07,
+73,Alzheimer's,rs146322114,A,2e-06,
+74,Alzheimer's,rs141846544,T,9e-06,
+75,Alzheimer's,rs186588455,A,6e-06,
+76,Alzheimer's,rs140587050,C,5e-06,
+77,Alzheimer's,rs114179644,T,8e-06,
+78,Alzheimer's,rs145840463,A,6e-06,
+79,Alzheimer's,rs10075047,A,5e-06,
+80,Alzheimer's,rs10060040,A,8e-06,
+81,Alzheimer's,rs62179067,T,8e-07,
+82,Alzheimer's,rs56249755,A,5e-07,
+83,Alzheimer's,rs115317194,T,2e-06,
+84,Alzheimer's,rs75770912,A,8e-06,
+85,Alzheimer's,rs7698880,C,2e-06,
+86,Alzheimer's,rs76816469,T,1e-06,
+87,Alzheimer's,rs61233297,A,8e-06,
+88,Alzheimer's,rs853656,T,4e-06,
+89,Alzheimer's,rs181990369,A,4e-06,
+90,Alzheimer's,rs145282773,T,2e-06,
+91,Alzheimer's,rs147150305,A,4e-07,
+92,Alzheimer's,rs186891871,C,9e-06,
+93,Alzheimer's,rs142660142,T,2e-06,
+94,Alzheimer's,rs139638356,T,2e-06,
+95,Alzheimer's,rs144167489,T,2e-06,
+96,Alzheimer's,rs115798104,A,9e-07,
+97,Alzheimer's,rs146997164,C,9e-06,
+98,Alzheimer's,rs138449900,C,3e-06,
+99,Alzheimer's,rs12661302,C,3e-06,
+100,Alzheimer's,rs117022236,A,4e-06,
+101,Alzheimer's,rs115443594,T,4e-06,
+102,Alzheimer's,rs183291664,T,3e-06,
+103,Alzheimer's,rs142076474,A,4e-06,
+104,Alzheimer's,rs181299481,A,4e-06,
+105,Alzheimer's,rs191404864,A,5e-06,
+106,Alzheimer's,rs112404845,A,4e-08,
+107,Alzheimer's,rs183256737,A,2e-06,
+108,Alzheimer's,rs79930850,A,3e-06,
+109,Alzheimer's,rs143261188,C,3e-06,
+110,Alzheimer's,rs115078773,A,7e-06,
+111,Alzheimer's,rs139195876,A,2e-06,
+112,Alzheimer's,rs16961023,C,5e-08,
+113,Alzheimer's,rs72842919,A,5e-07,
+114,Alzheimer's,rs186542490,A,8e-06,
+115,Alzheimer's,rs186076999,T,7e-06,
+116,Alzheimer's,rs141521929,T,4e-06,
+117,Alzheimer's,rs73865608,A,1e-06,
+118,Alzheimer's,rs184614511,T,6e-06,
+119,Alzheimer's,rs193129245,A,1e-06,
+120,Alzheimer's,rs150061627,T,5e-06,
+121,Alzheimer's,rs190457471,A,5e-06,
+122,Alzheimer's,rs141387448,T,4e-06,
+123,Alzheimer's,rs117760708,T,3e-06,
+124,Alzheimer's,rs187423924,A,4e-06,
+125,Alzheimer's,rs181634374,T,8e-06,
+126,Alzheimer's,rs145228677,C,7e-06,
+127,Alzheimer's,rs188699384,A,5e-06,
+128,Alzheimer's,rs148003968,A,5e-06,
+129,Alzheimer's,rs185867524,A,5e-06,
+130,Alzheimer's,rs117756856,A,9e-06,
+131,Alzheimer's,rs184457411,A,8e-06,
+132,Alzheimer's,rs180751169,T,5e-06,
+133,Alzheimer's,rs188392327,A,2e-06,
+134,Alzheimer's,rs192232892,T,3e-06,
+135,Alzheimer's,rs149839710,A,9e-06,
+136,Alzheimer's,rs150631144,T,1e-07,
+137,Alzheimer's,rs143332484,T,2e-14,1.6665556
+138,Alzheimer's,rs616338,T,5e-10,1.4296066
+139,Alzheimer's,rs75932628,T,5e-24,2.4557426
+140,Alzheimer's,rs11828907,C,2e-07,4.4935546
+141,Alzheimer's,rs139967528,G,6e-10,6.119662
+142,Alzheimer's,rs201850688,G,9e-06,1.804889
+143,Alzheimer's,rs2075650,G,9e-116,4.48
+144,Alzheimer's,rs249153,C,4e-07,1.41
+145,Alzheimer's,rs13178362,T,7e-07,1.3333
+146,Alzheimer's,rs474951,T,1e-06,1.2658
+147,Alzheimer's,rs1552244,A,2e-06,1.32
+148,Alzheimer's,rs4937314,C,7e-06,
+149,Alzheimer's,rs11848070,C,6e-06,
+150,Alzheimer's,rs6085820,A,9e-06,
+151,Alzheimer's,rs4145462,T,1e-06,
+152,Alzheimer's,rs41458646,G,8e-06,
+153,Alzheimer's,rs6738181,A,5e-06,
+154,Alzheimer's,rs7638995,A,2e-06,
+155,Alzheimer's,rs11983798,T,1e-06,
+156,Alzheimer's,rs6468852,G,1e-06,
+157,Alzheimer's,rs9969729,A,2e-06,
+158,Alzheimer's,rs12361953,C,8e-07,
+159,Alzheimer's,rs472926,C,3e-06,
+160,Alzheimer's,rs17767225,T,8e-06,
+161,Alzheimer's,rs10792832,G,4e-06,1.14
+162,Alzheimer's,rs679515,T,4e-09,1.22
+163,Alzheimer's,rs6733839,T,1e-09,1.2
+164,Alzheimer's,rs1125355,A,4e-06,1.16
+165,Alzheimer's,rs17366218,A,2e-06,1.5384616
+166,Alzheimer's,rs178585,C,4e-06,1.13
+167,Alzheimer's,rs71316816,C,9e-06,1.25
+168,Alzheimer's,rs9869689,T,3e-06,1.21
+169,Alzheimer's,rs10018288,G,4e-06,1.16
+170,Alzheimer's,rs2876189,G,6e-06,1.14
+171,Alzheimer's,rs1129187,T,7e-06,1.13
+172,Alzheimer's,rs59406683,A,6e-06,1.2048193
+173,Alzheimer's,rs9331896,T,3e-09,1.1904762
+174,Alzheimer's,rs639012,G,1e-07,1.1627907
+175,Alzheimer's,rs471470,A,3e-08,1.1627907
+176,Alzheimer's,rs2854437,G,2e-06,1.2345679
+177,Alzheimer's,rs721146,A,4e-06,1.17
+178,Alzheimer's,rs2271920,A,8e-06,1.11
+179,Alzheimer's,rs11218343,T,9e-06,1.3
+180,Alzheimer's,rs16830122,A,2e-06,1.17
+181,Alzheimer's,rs4663105,C,2e-12,1.19
+182,Alzheimer's,rs16847609,A,5e-07,1.19
+183,Alzheimer's,rs13146780,C,3e-06,1.23
+184,Alzheimer's,rs78538083,C,8e-06,1.32
+185,Alzheimer's,rs71636213,G,9e-06,1.18
+186,Alzheimer's,rs382216,C,2e-07,1.1494253
+187,Alzheimer's,rs6890695,G,6e-07,1.1494253
+188,Alzheimer's,rs758324,T,4e-07,1.1627907
+189,Alzheimer's,rs142958719,G,3e-07,1.1627907
+190,Alzheimer's,rs476428,G,2e-07,1.1627907
+191,Alzheimer's,rs11168036,T,3e-07,1.12
+192,Alzheimer's,rs11761441,G,2e-06,1.12
+193,Alzheimer's,rs10807828,C,7e-06,1.098901
+194,Alzheimer's,rs75045569,T,8e-06,1.1494253
+195,Alzheimer's,rs2279590,C,2e-06,1.1235955
+196,Alzheimer's,rs59616746,C,1e-06,1.2987013
+197,Alzheimer's,rs61310603,T,8e-06,1.1904762
+198,Alzheimer's,rs1582763,G,2e-09,1.1494253
+199,Alzheimer's,rs3851179,C,2e-06,1.1235955
+200,Alzheimer's,rs10498633,G,4e-07,1.1494253
+201,Alzheimer's,rs7207400,T,5e-06,1.1363636
+202,Alzheimer's,rs2732703,T,6e-09,1.369863
+203,Alzheimer's,rs199499,C,6e-06,1.1627907
+204,Alzheimer's,rs71380849,A,9e-07,1.47
+205,Alzheimer's,rs6110969,T,3e-06,1.2
+206,Alzheimer's,rs4298437,A,2e-06,
+207,Alzheimer's,rs62209,C,2e-07,2.04
+208,Alzheimer's,rs4676049,A,4e-08,1.76
+209,Alzheimer's,rs6859,A,1e-07,1.41
+210,Alzheimer's,rs11754661,A,2e-10,2.1
+211,Alzheimer's,rs17006206,G,2e-06,2.05
+212,Alzheimer's,rs956225,A,9e-06,3.33
+213,Alzheimer's,rs11889338,A,9e-06,1.55
+214,Alzheimer's,rs1923775,T,6e-06,1.6
+215,Alzheimer's,rs10273775,G,9e-06,1.52
+216,Alzheimer's,rs17511627,C,5e-06,1.75
+217,Alzheimer's,rs9832461,A,4e-06,
+218,Alzheimer's,rs1448284,T,2e-06,
+219,Alzheimer's,rs11055612,C,3e-06,
+220,Alzheimer's,rs7155434,A,8e-06,
+221,Alzheimer's,rs2456930,G,3e-07,
+222,Alzheimer's,rs519113,G,5.0000000000000005e-39,2.09
+223,Alzheimer's,rs115550680,G,2e-09,1.79
+224,Alzheimer's,rs727153,C,3e-06,1.63
+225,Alzheimer's,rs2373115,G,1e-10,4.06
+226,Alzheimer's,rs3865444,C,3e-06,1.06
+227,Alzheimer's,rs2718058,A,5e-09,1.0753
+228,Alzheimer's,rs7274581,T,3e-08,1.1364
+229,Alzheimer's,rs6656401,A,6e-24,1.18
+230,Alzheimer's,rs10948363,G,5e-11,1.1
+231,Alzheimer's,rs11771145,G,1e-13,1.1111
+232,Alzheimer's,rs983392,A,6e-16,1.1111
+233,Alzheimer's,rs4147929,A,1e-15,1.15
+234,Alzheimer's,rs35349669,T,3e-08,1.08
+235,Alzheimer's,rs190982,A,3e-08,1.0753
+236,Alzheimer's,rs1476679,T,6e-10,1.0989
+237,Alzheimer's,rs10838725,C,1e-08,1.08
+238,Alzheimer's,rs17125944,C,8e-09,1.14
+239,Alzheimer's,rs9271192,C,3e-12,1.11
+240,Alzheimer's,rs28834970,C,7e-14,1.1
+241,Alzheimer's,rs6678275,C,3e-07,1.09
+242,Alzheimer's,rs6448799,T,7e-08,1.08
+243,Alzheimer's,rs72807343,T,7e-07,1.35
+244,Alzheimer's,rs9381040,C,6e-07,1.0753
+245,Alzheimer's,rs7818382,T,8e-08,1.07
+246,Alzheimer's,rs10751667,T,6e-07,1.0753
+247,Alzheimer's,rs2337406,C,3e-07,1.1494
+248,Alzheimer's,rs8035452,T,3e-07,1.0753
+249,Alzheimer's,rs74615166,C,4e-07,1.29
+250,Alzheimer's,rs7225151,A,4e-07,1.1
+251,Alzheimer's,rs7561528,A,4e-14,1.17
+252,Alzheimer's,rs6701713,A,5e-10,1.16
+253,Alzheimer's,rs3752246,G,6e-07,1.15
+254,Alzheimer's,rs9349407,C,9e-09,1.11
+255,Alzheimer's,rs12358692,T,3e-08,1.0869565
+256,Alzheimer's,rs283811,G,7e-09,1.34
+257,Alzheimer's,rs483082,T,1e-15,2.8
+258,Alzheimer's,rs6857,T,6e-07,1.27
+259,Alzheimer's,rs9749589,T,2e-08,1.3157895
+260,Alzheimer's,rs11257238,T,5e-09,1.14
+261,Alzheimer's,rs1992269,A,1e-06,1.66
+262,Alzheimer's,rs802571,T,1e-06,1.923077
+263,Alzheimer's,rs11613092,G,7e-06,1.64
+264,Alzheimer's,rs75002042,T,5e-08,1.59
+265,Alzheimer's,rs7431992,A,2e-06,1.46
+266,Alzheimer's,rs394819,T,8e-11,1.89
+267,Alzheimer's,rs429358,C,3e-07,2.256
+268,Alzheimer's,rs920608,C,5e-09,0.65
+269,Alzheimer's,rs17249850,T,4e-06,0.55
+270,Alzheimer's,rs4073601,G,7e-06,0.83
+271,Alzheimer's,rs4972634,T,4e-06,1.31
+272,Alzheimer's,rs11708767,A,3e-07,1.33
+273,Alzheimer's,rs4533991,T,2e-06,1.32
+274,Alzheimer's,rs78358979,A,5e-07,1.76
+275,Alzheimer's,rs6978679,A,2e-06,1.36
+276,Alzheimer's,rs72839770,T,4e-06,1.31
+277,Alzheimer's,rs7264688,T,5e-06,1.47
+278,Alzheimer's,rs41289512,G,3e-194,
+279,Alzheimer's,rs6014724,G,9e-08,
+280,Alzheimer's,rs9381563,C,5e-09,
+281,Alzheimer's,rs4236673,A,6e-20,
+282,Alzheimer's,rs11257242,C,2e-08,
+283,Alzheimer's,rs11763230,T,3e-11,
+284,Alzheimer's,rs9269853,A,3e-08,
+285,Alzheimer's,rs7657553,A,2e-08,
+286,Alzheimer's,rs10933431,G,2e-06,
+287,Alzheimer's,rs7935829,G,8e-13,
+288,Alzheimer's,rs113260531,A,3e-06,
+289,Alzheimer's,rs12590654,A,2e-08,
+290,Alzheimer's,rs8093731,T,5e-08,
+291,Alzheimer's,rs1859788,A,6e-09,
+292,Alzheimer's,rs243034,C,1e-06,1.521
+293,Alzheimer's,rs10968750,T,2e-06,2.633
+294,Alzheimer's,rs12444183,A,7e-12,0.95
+295,Alzheimer's,rs17645935,A,9e-08,1.06
+296,Alzheimer's,rs1892676,C,7e-08,1.04
+297,Alzheimer's,rs2154481,C,1e-11,0.95
+298,Alzheimer's,rs3109899,A,3e-06,0.96
+299,Alzheimer's,rs35139934,A,3e-08,1.1
+300,Alzheimer's,rs4351014,C,9e-12,0.94
+301,Alzheimer's,rs4985556,A,4e-10,1.08
+302,Alzheimer's,rs7153315,C,9e-07,0.94
+303,Alzheimer's,rs72835061,A,2e-10,1.09
+304,Alzheimer's,rs7342692,T,6e-09,1.08
+305,Alzheimer's,rs77501143,T,2e-06,1.11
+306,Alzheimer's,rs79832570,C,4e-13,1.13
+307,Alzheimer's,rs876461,A,1e-09,1.07
+308,Alzheimer's,rs440446,C,6.9999999999999995e-25,0.654
+309,Alzheimer's,rs4803764,C,6e-17,1.466
+310,Alzheimer's,rs7412,T,6e-15,0.527
+311,Alzheimer's,rs28399664,G,3e-09,2.568
+312,Alzheimer's,rs138607350,G,3e-08,2.733
+313,Alzheimer's,rs449647,T,4e-08,0.702
+314,Alzheimer's,rs6431220,A,5e-10,0.811
+315,Alzheimer's,rs4748424,G,3e-09,0.682
+316,Alzheimer's,rs405509,G,3e-38,0.683
+317,Alzheimer's,rs28399637,A,3.9999999999999997e-25,1.535
+318,Alzheimer's,rs11668327,C,4e-20,0.65
+319,Alzheimer's,rs60049679,C,6e-15,2.034
+320,Alzheimer's,rs2927468,A,1e-12,0.785
+321,Alzheimer's,rs8103315,A,8e-11,1.35
+322,Alzheimer's,rs2967668,G,2e-09,0.725
+323,Alzheimer's,rs111371860,T,6e-09,0.642
+324,Alzheimer's,rs10409808,G,1e-08,1.487
+325,Alzheimer's,rs2927439,G,1e-08,0.84
+326,Alzheimer's,rs74846209,T,3e-08,1.3
+327,Alzheimer's,rs79701229,A,3e-08,3.326
+328,Alzheimer's,rs78986976,G,5e-08,1.5384616
+329,Alzheimer's,rs35568738,G,9e-10,1.4925373
+330,Alzheimer's,rs71352239,C,3e-14,1.4492754
+331,Alzheimer's,rs76692773,C,4e-09,1.4084507
+332,Alzheimer's,rs640345,T,8e-09,1.3157895
+333,Alzheimer's,rs4803748,C,3e-16,1.2820514
+334,Alzheimer's,rs13025717,T,8e-10,1.2
+335,Alzheimer's,rs3818361,A,5e-09,1.21
+336,Alzheimer's,rs35336243,T,2e-09,1.24
+337,Alzheimer's,rs79638902,T,1e-10,1.33
+338,Alzheimer's,rs192775394,C,8e-09,1.88
+339,Alzheimer's,rs144261139,A,1e-10,2.37
+340,Alzheimer's,rs141441332,A,1e-11,2.57
+341,Alzheimer's,rs7259620,G,6e-16,1.665856
+342,Alzheimer's,rs1160985,C,4e-16,1.669499
+343,Alzheimer's,rs1172922,A,5e-06,1.407788
+344,Alzheimer's,rs769450,G,3e-13,1.604012
+345,Alzheimer's,rs8106922,A,6e-14,1.62673
+346,Alzheimer's,rs5969117,C,1e-06,1.490488
+347,Alzheimer's,rs10426423,C,3e-06,1.265674
+348,Alzheimer's,rs1871047,A,2e-06,1.270037
+349,Alzheimer's,rs440277,G,2e-07,1.321105
+350,Alzheimer's,rs35242772,C,1e-06,1.230973
+351,Alzheimer's,rs912322,A,1e-06,1.259729
+352,Alzheimer's,rs283814,G,9e-06,1.588872
+353,Alzheimer's,rs77657034,G,5e-06,6.912992
+354,Alzheimer's,rs73223431,T,3e-15,
+355,Alzheimer's,rs17020490,T,4e-06,
+356,Alzheimer's,rs150622102,C,3e-08,
+357,Alzheimer's,rs7912495,A,1e-13,
+358,Alzheimer's,rs9837978,G,2e-07,
+359,Alzheimer's,rs1902660,C,1e-15,
+360,Alzheimer's,rs4690221,T,4e-08,
+361,Alzheimer's,rs7908662,A,3e-07,
+362,Alzheimer's,rs2245466,C,4e-09,
+363,Alzheimer's,rs7232,A,1.9999999999999998e-26,
+364,Alzheimer's,rs871269,T,5e-07,
+365,Alzheimer's,rs117807585,A,3e-19,
+366,Alzheimer's,rs6489896,T,2e-07,
+367,Alzheimer's,rs9394766,A,2e-14,
+368,Alzheimer's,rs1997649,A,4e-08,
+369,Alzheimer's,rs10131280,A,5e-07,
+370,Alzheimer's,rs10952097,T,3e-06,
+371,Alzheimer's,rs13237518,A,2e-08,
+372,Alzheimer's,rs67250450,T,1e-08,
+373,Alzheimer's,rs74504435,A,2e-09,
+374,Alzheimer's,rs7384878,T,2e-17,
+375,Alzheimer's,rs4575098,A,2e-08,
+376,Alzheimer's,rs1065712,C,6e-09,
+377,Alzheimer's,rs72777026,A,1e-06,
+378,Alzheimer's,rs1532276,T,2e-37,
+379,Alzheimer's,rs1800978,C,3e-07,
+380,Alzheimer's,rs7068231,T,2e-09,
+381,Alzheimer's,rs9867455,A,7e-08,
+382,Alzheimer's,rs6584063,A,7e-07,
+383,Alzheimer's,rs6827852,T,2e-13,
+384,Alzheimer's,rs4434960,A,1e-12,
+385,Alzheimer's,rs62374257,T,2e-12,
+386,Alzheimer's,rs113706587,A,2e-11,
+387,Alzheimer's,rs6605556,A,8e-16,
+388,Alzheimer's,rs74825460,T,1e-10,
+389,Alzheimer's,rs7754282,C,8e-14,
+390,Alzheimer's,rs74093831,A,1e-08,
+391,Alzheimer's,rs6943429,T,1e-07,
+392,Alzheimer's,rs602602,A,1e-12,
+393,Alzheimer's,rs117618017,T,4e-20,
+394,Alzheimer's,rs3848143,A,1e-06,
+395,Alzheimer's,rs12592898,A,1e-05,
+396,Alzheimer's,rs1140239,T,2e-11,
+397,Alzheimer's,rs78924645,A,5e-09,
+398,Alzheimer's,rs450674,T,2e-07,
+399,Alzheimer's,rs4407053,A,1e-10,
+400,Alzheimer's,rs16941239,A,4e-06,
+401,Alzheimer's,rs56407236,A,8e-13,
+402,Alzheimer's,rs57402520,A,5e-14,
+403,Alzheimer's,rs5848,T,2e-15,
+404,Alzheimer's,rs199498,T,3e-12,
+405,Alzheimer's,rs2526377,A,1e-06,
+406,Alzheimer's,rs4311,T,2e-15,
+407,Alzheimer's,rs12151021,A,3.9999999999999997e-32,
+408,Alzheimer's,rs732310,T,1e-08,
+409,Alzheimer's,rs5167,T,4e-51,
+410,Alzheimer's,rs9304690,T,7e-06,
+411,Alzheimer's,rs12984029,A,7e-09,
+412,Alzheimer's,rs1358782,A,3e-07,
+413,Alzheimer's,rs6742,T,9e-07,
+414,Alzheimer's,rs2830489,T,9e-08,
+415,Alzheimer's,rs112437613,T,5e-09,2.28
+416,Alzheimer's,rs1160871,G,1e-08,0.95
+417,Alzheimer's,rs6966331,T,5e-10,0.96
+418,Alzheimer's,rs76928645,T,2e-10,0.93
+419,Alzheimer's,rs11787077,T,2e-44,0.91
+420,Alzheimer's,rs34173062,A,2e-16,1.13
+421,Alzheimer's,rs6586028,C,2e-19,0.93
+422,Alzheimer's,rs141749679,C,8e-09,1.38
+423,Alzheimer's,rs139643391,T,1e-08,0.94
+424,Alzheimer's,rs16824536,A,4e-08,0.92
+425,Alzheimer's,rs17125924,G,8e-16,1.1
+426,Alzheimer's,rs7401792,G,5e-08,1.04
+427,Alzheimer's,rs10437655,A,5e-14,1.06
+428,Alzheimer's,rs143080277,C,2e-13,1.47
+429,Alzheimer's,rs74685827,G,3e-11,1.19
+430,Alzheimer's,rs61762319,G,2e-11,1.16
+431,Alzheimer's,rs3822030,G,8e-12,0.95
+432,Alzheimer's,rs6846529,C,2e-17,1.07
+433,Alzheimer's,rs112403360,A,2e-09,1.09
+434,Alzheimer's,rs10947943,A,1e-09,0.94
+435,Alzheimer's,rs60755019,G,2e-08,1.55
+436,Alzheimer's,rs7767350,T,8e-22,1.08
+437,Alzheimer's,rs785129,T,2e-09,1.04
+438,Alzheimer's,rs7157106,A,2e-08,1.05
+439,Alzheimer's,rs8025980,G,1e-08,0.96
+440,Alzheimer's,rs889555,T,2e-11,0.95
+441,Alzheimer's,rs12446759,G,1e-13,0.95
+442,Alzheimer's,rs72824905,G,8e-12,0.74
+443,Alzheimer's,rs35048651,T,8e-11,1.06
+444,Alzheimer's,rs2242595,A,1e-09,0.94
+445,Alzheimer's,rs199515,G,9e-13,0.94
+446,Alzheimer's,rs4277405,C,9e-20,0.94
+447,Alzheimer's,rs149080927,G,5e-10,1.05
+448,Alzheimer's,rs587709,C,4e-11,1.05
+449,Alzheimer's,rs11591206,T,2e-08,1.04
+450,Alzheimer's,rs535347112,T,4e-08,2.02
+451,Alzheimer's,rs13276936,T,2e-09,1.04
+452,Alzheimer's,rs138799625,T,1e-09,1.28
+453,Alzheimer's,rs58840546,T,5e-08,0.92
+454,Alzheimer's,rs112131072,A,2e-09,0.93
+455,Alzheimer's,rs2345589,A,4e-08,2.4
+456,Alzheimer's,rs11680911,C,2e-08,1.21
+457,Alzheimer's,rs12775171,G,5e-08,1.44
+458,Alzheimer's,rs111278892,G,7e-08,1.3
+459,Alzheimer's,rs390082,G,7e-15,0.58
+460,Alzheimer's,rs1338764,C,3e-09,2.72
+461,Alzheimer's,rs116668122,T,2e-09,1.87
+462,Alzheimer's,rs34673573,T,1e-07,2.01
+463,Alzheimer's,rs34710518,A,1e-10,2.43
+464,Alzheimer's,rs6555748,G,4e-08,2.4
+465,Alzheimer's,rs36076521,A,4e-08,2.4
+466,Alzheimer's,rs972600,G,3e-09,2.72
+467,Alzheimer's,rs6978419,A,3e-09,2.72
+468,Alzheimer's,rs372758,A,3e-09,2.72
+469,Alzheimer's,rs12256016,G,2e-14,2.02
+470,Alzheimer's,rs72838408,A,3e-09,2.72
+471,Alzheimer's,rs12785292,A,1e-09,2.44
+472,Alzheimer's,rs76970324,C,4e-08,2.4
+473,Alzheimer's,rs7301563,T,4e-08,2.4
+474,Alzheimer's,rs896559,C,8e-10,2.44
+475,Alzheimer's,rs11246969,A,8e-10,2.44
+476,Alzheimer's,rs61950331,C,4e-08,2.4
+477,Alzheimer's,rs7155666,A,8e-10,2.44
+478,Alzheimer's,rs150987621,T,5e-08,1.8
+479,Alzheimer's,rs2457270,C,5e-08,2.39
+480,Alzheimer's,rs2358973,T,5e-08,2.39
+481,Alzheimer's,rs148377161,T,2e-08,3.312
+482,Alzheimer's,rs10169262,T,5e-08,0.95
+483,Alzheimer's,rs376291994,A,4e-08,0.65
+484,Alzheimer's,rs1531681,A,4e-08,0.96
+485,Alzheimer's,rs115038899,T,3e-08,1.08
+486,Alzheimer's,rs11849532,A,5e-08,0.93
+487,Alzheimer's,rs61392417,T,4e-08,0.95
+488,Alzheimer's,rs2820864,C,8e-06,0.68
+489,Alzheimer's,rs36039096,A,3e-06,0.6
+490,Alzheimer's,rs35392935,T,5e-06,3.49
+491,Alzheimer's,rs7595509,A,3e-06,0.63
+492,Alzheimer's,rs12465126,A,2e-06,1.6
+493,Alzheimer's,rs553467,A,5e-07,1.6
+494,Alzheimer's,rs29745,A,8e-06,0.52
+495,Alzheimer's,rs7016182,C,4e-06,1.71
+496,Alzheimer's,rs74457370,A,1e-06,0.52
+497,Alzheimer's,rs2805792,T,1e-05,0.61
+498,Alzheimer's,rs57464688,A,7e-06,2.44
+499,Alzheimer's,rs9566005,C,9e-06,0.58
+500,Alzheimer's,rs949937,A,6e-06,0.59
+501,Alzheimer's,rs8103283,A,8e-06,0.61
+502,Alzheimer's,rs34532322,A,1e-06,1.59
+503,Alzheimer's,rs117834366,A,2e-08,6.03
+504,Alzheimer's,rs59043219,A,9e-06,1.19
+505,Alzheimer's,rs1936246,T,2e-13,1.04
+506,Alzheimer's,rs116139393,C,3e-08,1.098901
+507,Alzheimer's,rs1595014,T,4e-06,1.1904762
+508,Alzheimer's,rs56131196,A,4e-12,
+509,Alzheimer's,rs59007384,T,7e-09,
+510,Alzheimer's,rs7702276,T,1e-06,
+511,Alzheimer's,rs24449894,A,2e-06,
+512,Alzheimer's,rs7039300,G,2e-06,
+513,Alzheimer's,rs9384488,A,3e-06,
+514,Alzheimer's,rs10219670,C,4e-06,
+515,Alzheimer's,rs509208,G,3e-08,
+516,Alzheimer's,rs113524839,T,8e-07,
+517,Alzheimer's,rs1422438,G,6e-07,
+518,Alzheimer's,rs9877502,A,5e-09,
+519,Alzheimer's,rs769449,A,2e-16,
+520,Alzheimer's,rs514716,G,1e-08,
+521,Alzheimer's,rs6922617,A,4e-08,
+522,Alzheimer's,rs62076840,A,8e-07,
+523,Alzheimer's,rs183708309,T,6e-07,
+524,Alzheimer's,rs142176337,T,8e-08,
+525,Alzheimer's,rs138098194,A,4e-07,
+526,Alzheimer's,rs148273964,A,8e-07,
+527,Alzheimer's,rs9304861,A,4e-07,
+528,Alzheimer's,rs2927694,C,8e-07,
+529,Alzheimer's,rs113118940,T,1e-08,
+530,Alzheimer's,rs147525344,T,5e-09,
+531,Alzheimer's,rs115786578,A,6e-07,
+532,Alzheimer's,rs147775533,T,6e-07,
+533,Alzheimer's,rs2409317,T,4e-07,
+534,Alzheimer's,rs147991290,T,3e-09,
+535,Alzheimer's,rs189677472,A,1e-07,
+536,Alzheimer's,rs857551,A,7e-07,
+537,Alzheimer's,rs79985863,T,8e-07,
+538,Alzheimer's,rs141503849,T,5e-07,
+539,Alzheimer's,rs117496069,T,5e-07,
+540,Alzheimer's,rs150927461,T,4e-07,
+541,Alzheimer's,rs4420638,A,2e-16,
+542,Alzheimer's,rs17639982,C,8e-09,
+543,Alzheimer's,rs1347297,T,5e-08,
+544,Alzheimer's,rs6927354,T,5e-08,
+545,Alzheimer's,rs16887604,T,3e-08,
+546,Alzheimer's,rs183826639,T,1e-12,
+547,Alzheimer's,rs56146971,A,8e-07,
+548,Alzheimer's,rs117161928,A,1e-07,
+549,Alzheimer's,rs57602116,A,3e-07,
+550,Alzheimer's,rs150511909,T,4e-09,
+551,Alzheimer's,rs8033755,A,1e-07,
+552,Alzheimer's,rs149916999,A,1e-07,
+553,Alzheimer's,rs142200609,T,3e-07,
+554,Alzheimer's,rs62013859,T,4e-07,
+555,Alzheimer's,rs189794920,A,6e-07,
+556,Alzheimer's,rs118099348,T,1e-09,
+557,Alzheimer's,rs145049847,C,8e-09,
+558,Alzheimer's,rs77414823,T,2e-07,
+559,Alzheimer's,rs150252171,A,2e-07,
+560,Alzheimer's,rs79358781,A,1e-07,
+561,Alzheimer's,rs137967137,A,1e-07,
+562,Alzheimer's,rs77894924,A,2e-07,
+563,Alzheimer's,rs78910009,T,5e-07,
+564,Alzheimer's,rs111816999,T,7e-07,
+565,Alzheimer's,rs139471609,A,6e-08,
+566,Alzheimer's,rs56176358,T,6e-07,
+567,Alzheimer's,rs79480822,T,7e-07,
+568,Alzheimer's,rs34111070,T,1e-06,
+569,Alzheimer's,rs71377714,T,3e-07,
+570,Alzheimer's,rs16973424,A,3e-07,
+571,Alzheimer's,rs149464898,T,3e-07,
+572,Alzheimer's,rs3850930,A,6e-07,
+573,Alzheimer's,rs2313143,A,2e-07,
+574,Alzheimer's,rs141218484,T,9e-08,
+575,Alzheimer's,rs117983694,A,7e-08,
+576,Alzheimer's,rs3911569,A,3e-07,
+577,Alzheimer's,rs188168326,T,9e-08,
+578,Alzheimer's,rs11220271,A,5e-07,
+579,Alzheimer's,rs11062987,A,7e-07,
+580,Alzheimer's,rs116938548,T,2e-07,
+581,Alzheimer's,rs3794318,A,5e-07,
+582,Alzheimer's,rs117154046,A,6e-07,
+583,Alzheimer's,rs79335261,T,7e-08,
+584,Alzheimer's,rs187293782,T,7e-09,
+585,Alzheimer's,rs190909796,T,5e-07,
+586,Alzheimer's,rs117483990,T,1e-09,
+587,Alzheimer's,rs185806653,A,8e-07,
+588,Alzheimer's,rs144288546,A,2e-08,
+589,Alzheimer's,rs61960582,A,8e-07,
+590,Alzheimer's,rs61956285,T,1e-06,
+591,Alzheimer's,rs189465671,T,2e-07,
+592,Alzheimer's,rs9546312,T,9e-07,
+593,Alzheimer's,rs6491411,A,9e-07,
+594,Alzheimer's,rs117969561,T,9e-07,
+595,Alzheimer's,rs115694210,A,1e-07,
+596,Alzheimer's,rs150813880,A,1e-06,
+597,Alzheimer's,rs189590409,A,2e-07,
+598,Alzheimer's,rs149038799,A,7e-08,
+599,Alzheimer's,rs118152978,A,2e-10,
+600,Alzheimer's,rs10975167,T,8e-07,
+601,Alzheimer's,rs147338646,A,5e-07,
+602,Alzheimer's,rs78496360,A,5e-07,
+603,Alzheimer's,rs147213018,A,2e-07,
+604,Alzheimer's,rs7047415,T,3e-07,
+605,Alzheimer's,rs12378800,A,2e-07,
+606,Alzheimer's,rs1774093,A,7e-07,
+607,Alzheimer's,rs139090762,A,8e-08,
+608,Alzheimer's,rs181666690,T,1e-07,
+609,Alzheimer's,rs146650065,A,4e-08,
+610,Alzheimer's,rs211257,C,2e-08,
+611,Alzheimer's,rs117850870,C,1e-06,
+612,Alzheimer's,rs61860854,T,3e-11,
+613,Alzheimer's,rs79538733,A,5e-07,
+614,Alzheimer's,rs190780914,T,5e-08,
+615,Alzheimer's,rs73320584,A,7e-07,
+616,Alzheimer's,rs73310256,T,3e-07,
+617,Alzheimer's,rs117792039,A,2e-07,
+618,Alzheimer's,rs188188267,T,5e-07,
+619,Alzheimer's,rs117250828,A,3e-07,
+620,Alzheimer's,rs115514216,T,3e-09,
+621,Alzheimer's,rs139675748,T,2e-09,
+622,Alzheimer's,rs79781504,A,2e-08,
+623,Alzheimer's,rs146168866,A,9e-08,
+624,Alzheimer's,rs75885813,A,4e-10,
+625,Alzheimer's,rs144191434,A,2e-07,
+626,Alzheimer's,rs2445130,A,8e-07,
+627,Alzheimer's,rs56039743,T,3e-07,
+628,Alzheimer's,rs12041233,A,6e-09,
+629,Alzheimer's,rs182798940,T,7e-07,
+630,Alzheimer's,rs143083071,A,1e-08,
+631,Alzheimer's,rs11588387,T,1e-06,
+632,Alzheimer's,rs79036927,A,1e-06,
+633,Alzheimer's,rs181424343,A,8e-08,
+634,Alzheimer's,rs36060340,A,7e-07,
+635,Alzheimer's,rs148822902,C,1e-06,
+636,Alzheimer's,rs75009721,T,2e-08,
+637,Alzheimer's,rs183562580,A,6e-07,
+638,Alzheimer's,rs186552003,A,8e-07,
+639,Alzheimer's,rs186166314,A,9e-08,
+640,Alzheimer's,rs191975838,T,5e-08,
+641,Alzheimer's,rs115291397,A,2e-09,
+642,Alzheimer's,rs182928794,T,8e-07,
+643,Alzheimer's,rs140661185,A,1e-06,
+644,Alzheimer's,rs2970989,T,4e-08,
+645,Alzheimer's,rs186971130,A,1e-07,
+646,Alzheimer's,rs982100,A,4e-07,
+647,Alzheimer's,rs140009341,A,2e-07,
+648,Alzheimer's,rs116677506,A,7e-07,
+649,Alzheimer's,rs75286889,A,7e-08,
+650,Alzheimer's,rs1443024,A,6e-07,
+651,Alzheimer's,rs187402274,C,1e-07,
+652,Alzheimer's,rs59904869,C,4e-07,
+653,Alzheimer's,rs148471206,T,5e-07,
+654,Alzheimer's,rs7374058,T,3e-07,
+655,Alzheimer's,rs181319480,T,4e-07,
+656,Alzheimer's,rs7609954,T,4e-08,
+657,Alzheimer's,rs58920042,T,8e-07,
+658,Alzheimer's,rs142710255,A,3e-07,
+659,Alzheimer's,rs190500289,A,8e-07,
+660,Alzheimer's,rs28582745,A,9e-07,
+661,Alzheimer's,rs189421534,A,2e-08,
+662,Alzheimer's,rs147028191,A,1e-09,
+663,Alzheimer's,rs183757472,A,1e-09,
+664,Alzheimer's,rs115809613,A,1e-08,
+665,Alzheimer's,rs115641191,T,2e-07,
+666,Alzheimer's,rs72728723,A,2e-07,
+667,Alzheimer's,rs143638193,T,4e-09,
+668,Alzheimer's,rs3931397,T,6e-07,
+669,Alzheimer's,rs13133687,A,7e-07,
+670,Alzheimer's,rs9994441,C,6e-07,
+671,Alzheimer's,rs76930906,A,3e-11,
+672,Alzheimer's,rs75718659,T,4e-07,
+673,Alzheimer's,rs11749176,A,2e-07,
+674,Alzheimer's,rs11742761,A,3e-07,
+675,Alzheimer's,rs17062407,A,2e-07,
+676,Alzheimer's,rs116300850,T,7e-07,
+677,Alzheimer's,rs17069431,T,6e-07,
+678,Alzheimer's,rs141568462,T,2e-07,
+679,Alzheimer's,rs116886320,A,3e-07,
+680,Alzheimer's,rs183600932,T,1e-08,
+681,Alzheimer's,rs4705644,A,9e-07,
+682,Alzheimer's,rs56357845,A,7e-07,
+683,Alzheimer's,rs190338033,A,2e-07,
+684,Alzheimer's,rs7702102,A,5e-07,
+685,Alzheimer's,rs188951355,T,9e-07,
+686,Alzheimer's,rs118071777,A,7e-07,
+687,Alzheimer's,rs75290158,A,8e-07,
+688,Alzheimer's,rs62496419,A,5e-07,
+689,Alzheimer's,rs12706411,T,8e-07,
+690,Alzheimer's,rs62400067,T,4e-07,
+691,Alzheimer's,rs116932763,A,2e-07,
+692,Alzheimer's,rs185968827,A,2e-07,
+693,Alzheimer's,rs61510607,T,5e-07,
+694,Alzheimer's,rs36099249,T,7e-08,
+695,Alzheimer's,rs4557697,A,8e-09,
+696,Alzheimer's,rs140633572,A,5e-07,
+697,Alzheimer's,rs182838111,T,2e-07,
+698,Alzheimer's,rs192093332,A,2e-07,
+699,Alzheimer's,rs76070545,T,1e-07,
+700,Alzheimer's,rs11961710,A,7e-07,
+701,Alzheimer's,rs190204665,T,1e-07,
+702,Alzheimer's,rs4896030,A,6e-07,
+703,Alzheimer's,rs186292051,T,2e-07,
+704,Alzheimer's,rs34804891,T,6e-08,
+705,Alzheimer's,rs9293513,A,5e-07,
+706,Alzheimer's,rs77780208,A,9e-07,
+707,Alzheimer's,rs12374991,T,5e-07,
+708,Alzheimer's,rs77296444,A,2e-07,
+709,Alzheimer's,rs138090874,A,4e-08,
+710,Alzheimer's,rs11773349,A,6e-07,
+711,Alzheimer's,rs2962508,T,4e-08,
+712,Alzheimer's,rs186127414,A,2e-07,
+713,Alzheimer's,rs143766413,C,5e-07,
+714,Alzheimer's,rs61142792,T,4e-07,
+715,Alzheimer's,rs188911996,A,2e-08,
+716,Alzheimer's,rs71574743,T,1e-07,
+717,Alzheimer's,rs543844,A,1e-07,
+718,Alzheimer's,rs191603973,C,7e-07,
+719,Alzheimer's,rs140996952,T,9e-07,
+720,Alzheimer's,rs188420713,T,2e-10,
+721,Alzheimer's,rs6908580,T,3e-07,
+722,Alzheimer's,rs191342285,A,2e-07,
+723,Alzheimer's,rs847012,C,3e-07,
+724,Alzheimer's,rs1977412,C,6e-07,1.5625
+725,Alzheimer's,rs9937469,T,2e-06,2.14
+726,Alzheimer's,rs28715896,G,4e-06,1.5873016
+727,Alzheimer's,rs75337321,T,5e-06,2.21
+728,Alzheimer's,rs13374908,A,2e-06,1.59
+729,Alzheimer's,rs10222981,T,1e-06,2.06
+730,Alzheimer's,rs61835453,C,8e-07,2.173913
+731,Alzheimer's,rs365521,G,1e-06,1.5873016
+732,Alzheimer's,rs2795228,T,6e-07,1.6949153
+733,Alzheimer's,rs484947,C,2e-06,1.5625
+734,Alzheimer's,rs16839220,G,5e-06,1.8867927
+735,Alzheimer's,rs2289506,T,3e-07,1.61
+736,Alzheimer's,rs9369477,C,2e-07,2.0408163
+737,Alzheimer's,rs9372110,A,2e-07,2.16
+738,Alzheimer's,rs2046197,C,3e-07,1.66
+739,Alzheimer's,rs8021600,G,3e-06,1.9607843
+740,Alzheimer's,rs8091629,G,2e-06,1.8518518
+741,Alzheimer's,rs698842,A,2e-06,1.96
+742,Alzheimer's,rs10175975,T,3e-06,1.99
+743,Alzheimer's,rs78872508,C,2e-06,2.2222223
+744,Alzheimer's,rs4348488,C,3e-06,1.97
+745,Alzheimer's,rs17089546,A,3e-06,1.86
+746,Alzheimer's,rs74717330,A,2e-06,3.09
+747,Alzheimer's,rs191325450,G,2e-06,2.3255813
+748,Alzheimer's,rs4543939,A,4e-06,2.43
+749,Alzheimer's,rs8059356,A,6e-07,2.23
+750,Alzheimer's,rs10496731,G,2e-08,
+751,Alzheimer's,rs442495,T,2e-10,
+752,Alzheimer's,rs4308,G,7e-15,
+753,Alzheimer's,rs144867634,T,8e-08,
+754,Alzheimer's,rs12595082,C,3e-08,
+755,Alzheimer's,rs11642612,A,2e-08,
+756,Alzheimer's,rs1160984,T,2e-20,
+757,Alzheimer's,rs11665676,T,1e-19,
+758,Alzheimer's,rs561654715,A,9e-19,
+759,Alzheimer's,rs55840414,A,5e-18,
+760,Alzheimer's,rs112481437,A,1e-17,
+761,Alzheimer's,rs203709,A,4e-17,
+762,Alzheimer's,rs11881756,C,5e-17,
+763,Alzheimer's,rs76856627,G,1e-16,
+764,Alzheimer's,rs60239918,T,2e-15,
+765,Alzheimer's,rs41290100,T,2e-15,
+766,Alzheimer's,rs846876,C,1e-14,
+767,Alzheimer's,rs147188206,C,3e-14,
+768,Alzheimer's,rs2965164,T,1e-13,
+769,Alzheimer's,rs41290108,C,3e-13,
+770,Alzheimer's,rs547509922,T,3e-13,
+771,Alzheimer's,rs62118504,G,5e-13,
+772,Alzheimer's,rs35194383,T,8e-13,
+773,Alzheimer's,rs80257887,A,1e-12,
+774,Alzheimer's,rs75161053,A,2e-12,
+775,Alzheimer's,rs142412517,T,2e-12,
+776,Alzheimer's,rs12461144,T,4e-12,
+777,Alzheimer's,rs142092405,G,6e-12,
+778,Alzheimer's,rs150820726,T,1e-11,
+779,Alzheimer's,rs183321458,A,2e-11,
+780,Alzheimer's,rs539159088,C,2e-11,
+781,Alzheimer's,rs576651896,G,2e-11,
+782,Alzheimer's,rs186110295,T,4e-11,
+783,Alzheimer's,rs204907,G,9e-11,
+784,Alzheimer's,rs9469112,T,1e-10,
+785,Alzheimer's,rs141864196,A,3e-10,
+786,Alzheimer's,rs114036675,A,3e-10,
+787,Alzheimer's,rs3752241,G,4e-10,
+788,Alzheimer's,rs11083743,C,1e-09,
+789,Alzheimer's,rs34181358,A,3e-09,
+790,Alzheimer's,rs204480,T,6e-09,
+791,Alzheimer's,rs10421247,C,7e-09,
+792,Alzheimer's,rs419010,C,8e-09,
+793,Alzheimer's,rs9653111,T,1e-08,
+794,Alzheimer's,rs769452,C,2e-08,
+795,Alzheimer's,rs4727449,T,3e-08,
+796,Alzheimer's,rs123187,A,4e-08,
+797,Alzheimer's,rs1081105,C,1e-231,
+798,Alzheimer's,rs157580,G,8e-220,
+799,Alzheimer's,rs2081545,A,2e-15,
+800,Alzheimer's,rs28394864,A,2e-08,
+801,Alzheimer's,rs7810606,T,4e-11,
+802,Alzheimer's,rs10407439,A,1e-58,
+803,Alzheimer's,rs2965169,C,3e-57,
+804,Alzheimer's,rs116949436,A,7e-50,
+805,Alzheimer's,rs55923289,C,2.9999999999999997e-44,
+806,Alzheimer's,rs28469095,C,2e-38,
+807,Alzheimer's,rs11672748,G,1.0000000000000001e-23,
+808,Alzheimer's,rs595290,C,7.000000000000001e-23,
+809,Alzheimer's,rs346757,C,2e-22,
+810,Alzheimer's,rs34874378,A,9e-22,
+811,Alzheimer's,rs183427010,A,3e-21,
+812,Alzheimer's,rs111740474,A,5e-21,
+813,Alzheimer's,rs114360492,T,2e-09,
+814,Alzheimer's,rs184384746,T,1e-08,
+815,Alzheimer's,rs187370608,A,1e-16,
+816,Alzheimer's,rs76726049,C,3e-08,
+817,Alzheimer's,rs76320948,T,5e-08,
+818,Alzheimer's,rs6931277,T,8e-11,
+819,Alzheimer's,rs2093760,A,1e-18,
+820,Alzheimer's,rs6448453,A,2e-09,
+821,Alzheimer's,rs59735493,A,4e-08,
+822,Alzheimer's,rs867611,G,2e-18,
+823,Alzheimer's,rs3774745,T,2e-09,
+824,Alzheimer's,rs2597302,T,2e-07,
+825,Alzheimer's,rs117501883,A,9e-09,
+826,Alzheimer's,rs12488237,C,3e-07,
+827,Alzheimer's,rs1132899,T,1e-08,
+828,Alzheimer's,rs2231884,T,3e-07,
+829,Alzheimer's,rs4147104,A,3e-07,
+830,Alzheimer's,rs11083749,T,3e-08,
+831,Alzheimer's,rs8067459,C,3e-08,
+832,Alzheimer's,rs2503185,G,3e-08,
+833,Alzheimer's,rs76692930,T,4e-08,
+834,Alzheimer's,rs545753812,G,5e-08,
+835,Alzheimer's,rs4255357,G,6e-08,
+836,Alzheimer's,rs7225787,C,6e-08,
+837,Alzheimer's,rs10753964,G,7e-08,
+838,Alzheimer's,rs4803766,A,8e-08,
+839,Alzheimer's,rs9831967,C,8e-08,
+840,Alzheimer's,rs2008877,G,8e-08,
+841,Alzheimer's,rs12952749,A,9e-08,
+842,Alzheimer's,rs9749077,G,9e-08,
+843,Alzheimer's,rs12311304,C,1e-07,
+844,Alzheimer's,rs6125601,A,1e-07,
+845,Alzheimer's,rs139290129,C,1e-07,
+846,Alzheimer's,rs6024927,T,2e-07,
+847,Alzheimer's,rs3859570,C,2e-07,
+848,Alzheimer's,rs3009868,A,2e-07,
+849,Alzheimer's,rs2584662,C,8e-09,
+850,Alzheimer's,rs55650463,G,2e-07,
+851,Alzheimer's,rs12058296,A,1e-08,
+852,Alzheimer's,rs7531270,A,3e-07,
+853,Alzheimer's,rs12561863,A,2e-08,
+854,Alzheimer's,rs28895026,C,2e-08,
+855,Alzheimer's,rs146817114,A,3e-07,
+856,Alzheimer's,rs7656438,T,3e-07,
+857,Alzheimer's,rs9401134,C,4e-07,
+858,Alzheimer's,rs11065822,T,4e-07,
+859,Alzheimer's,rs55715017,C,4e-07,
+860,Alzheimer's,rs2584663,A,4e-07,
+861,Alzheimer's,rs17779809,A,4e-07,
+862,Alzheimer's,rs11670136,C,4e-07,
+863,Alzheimer's,rs7251460,T,4e-07,
+864,Alzheimer's,rs117944015,T,4e-07,
+865,Alzheimer's,rs67693285,G,4e-07,
+866,Alzheimer's,rs34565850,A,4e-07,
+867,Alzheimer's,rs4889490,T,5e-07,
+868,Alzheimer's,rs201269048,G,5e-07,
+869,Alzheimer's,rs6465759,T,5e-07,
+870,Alzheimer's,rs111677930,G,5e-07,
+871,Alzheimer's,rs10929072,T,6e-07,
+872,Alzheimer's,rs73169236,T,2e-06,
+873,Alzheimer's,rs80295492,T,2e-06,
+874,Alzheimer's,rs34068189,C,2e-06,
+875,Alzheimer's,rs76981546,C,2e-06,
+876,Alzheimer's,rs12926985,C,2e-06,
+877,Alzheimer's,rs7623497,A,2e-06,
+878,Alzheimer's,rs2337988,G,3e-06,
+879,Alzheimer's,rs75824242,T,3e-06,
+880,Alzheimer's,rs2469226,A,3e-06,
+881,Alzheimer's,rs34626131,C,3e-06,
+882,Alzheimer's,rs377531843,C,3e-06,
+883,Alzheimer's,rs2565067,A,3e-06,
+884,Alzheimer's,rs77342107,T,3e-06,
+885,Alzheimer's,rs7517289,C,3e-06,
+886,Alzheimer's,rs12744291,G,3e-06,
+887,Alzheimer's,rs12601665,G,3e-06,
+888,Alzheimer's,rs4737840,G,3e-06,
+889,Alzheimer's,rs112280548,A,3e-06,
+890,Alzheimer's,rs11195329,T,3e-06,
+891,Alzheimer's,rs17206516,G,3e-06,
+892,Alzheimer's,rs150689437,G,3e-06,
+893,Alzheimer's,rs4902175,G,3e-06,
+894,Alzheimer's,rs200971,T,4e-06,
+895,Alzheimer's,rs7006811,G,4e-06,
+896,Alzheimer's,rs76757485,T,4e-06,
+897,Alzheimer's,rs850522,G,1e-06,
+898,Alzheimer's,rs10490031,T,1e-06,
+899,Alzheimer's,rs2469204,G,1e-06,
+900,Alzheimer's,rs79971615,T,1e-06,
+901,Alzheimer's,rs11736765,A,1e-06,
+902,Alzheimer's,rs116949260,T,1e-06,
+903,Alzheimer's,rs11633890,T,1e-06,
+904,Alzheimer's,rs2271960,C,1e-06,
+905,Alzheimer's,rs13337451,A,1e-06,
+906,Alzheimer's,rs9425664,A,1e-06,
+907,Alzheimer's,rs2705608,A,1e-06,
+908,Alzheimer's,rs13161502,C,2e-06,
+909,Alzheimer's,rs2969211,G,2e-06,
+910,Alzheimer's,rs1974701,T,2e-06,
+911,Alzheimer's,rs9462027,A,2e-06,
+912,Alzheimer's,rs58696272,T,2e-06,
+913,Alzheimer's,rs149676605,C,2e-06,
+914,Alzheimer's,rs72874964,A,2e-06,
+915,Alzheimer's,rs61702591,T,2e-06,
+916,Alzheimer's,rs1993638,C,2e-06,
+917,Alzheimer's,rs41295942,T,2e-06,
+918,Alzheimer's,rs117077746,T,2e-06,
+919,Alzheimer's,rs10950394,T,2e-06,
+920,Alzheimer's,rs1452213,T,2e-06,
+921,Alzheimer's,rs17123293,G,6e-07,
+922,Alzheimer's,rs13399760,G,6e-07,
+923,Alzheimer's,rs773116,A,7e-07,
+924,Alzheimer's,rs2343702,G,7e-07,
+925,Alzheimer's,rs113934205,A,7e-07,
+926,Alzheimer's,rs117783785,G,7e-07,
+927,Alzheimer's,rs35135015,A,8e-07,
+928,Alzheimer's,rs146264265,A,8e-07,
+929,Alzheimer's,rs12983940,G,8e-07,
+930,Alzheimer's,rs7154692,A,8e-07,
+931,Alzheimer's,rs35385129,A,8e-07,
+932,Alzheimer's,rs148663018,G,8e-07,
+933,Alzheimer's,rs10105117,G,9e-07,
+934,Alzheimer's,rs77262239,G,9e-07,
+935,Alzheimer's,rs2840677,A,9e-07,
+936,Alzheimer's,rs4885712,G,9e-07,
+937,Alzheimer's,rs6698744,C,1e-06,
+938,Alzheimer's,rs71430765,G,1e-06,
+939,Alzheimer's,rs12038685,T,1e-06,
+940,Alzheimer's,rs28534573,A,1e-06,
+941,Alzheimer's,rs34815052,T,1e-06,
+942,Alzheimer's,rs9896800,C,1e-06,
+943,Alzheimer's,rs10900828,T,1e-06,
+944,Alzheimer's,rs35021135,A,1e-06,
+945,Alzheimer's,rs72993680,G,1e-06,
+946,Alzheimer's,rs76738189,C,8e-07,
+947,Alzheimer's,rs7781047,A,9e-07,
+948,Alzheimer's,rs36165346,G,1e-06,
+949,Alzheimer's,rs58751240,T,1e-06,
+950,Alzheimer's,rs10902231,T,2e-06,
+951,Alzheimer's,rs4489574,T,2e-06,
+952,Alzheimer's,rs6741388,T,2e-06,
+953,Alzheimer's,rs9579135,G,4e-06,
+954,Alzheimer's,rs6427184,G,5e-06,
+955,Alzheimer's,rs72807345,T,6e-06,
+956,Alzheimer's,rs56366200,C,7e-06,
+957,Alzheimer's,rs145836704,G,7e-06,
+958,Alzheimer's,rs148149389,T,8e-06,
+959,Alzheimer's,rs2929182,A,8e-06,
+960,Alzheimer's,rs7160967,T,8e-06,
+961,Alzheimer's,rs11129169,A,1e-05,
+962,Alzheimer's,rs58440677,C,4e-06,
+963,Alzheimer's,rs75311711,T,4e-06,
+964,Alzheimer's,rs12900395,G,4e-06,
+965,Alzheimer's,rs1362828,C,4e-06,
+966,Alzheimer's,rs79898116,C,4e-06,
+967,Alzheimer's,rs1297211,C,4e-06,
+968,Alzheimer's,rs73036524,C,4e-06,
+969,Alzheimer's,rs75360143,A,4e-06,
+970,Alzheimer's,rs11887534,C,4e-06,
+971,Alzheimer's,rs6801977,A,4e-06,
+972,Alzheimer's,rs150757052,T,4e-06,
+973,Alzheimer's,rs61829244,G,4e-06,
+974,Alzheimer's,rs775631,A,5e-06,
+975,Alzheimer's,rs12979278,C,5e-06,
+976,Alzheimer's,rs9897429,G,5e-06,
+977,Alzheimer's,rs511490,T,5e-06,
+978,Alzheimer's,rs113701968,A,5e-06,
+979,Alzheimer's,rs10798083,C,6e-06,
+980,Alzheimer's,rs10008844,A,6e-06,
+981,Alzheimer's,rs76825012,T,6e-06,
+982,Alzheimer's,rs8084367,G,6e-06,
+983,Alzheimer's,rs76124729,G,6e-06,
+984,Alzheimer's,rs2297508,C,6e-06,
+985,Alzheimer's,rs366437,T,6e-06,
+986,Alzheimer's,rs79221452,C,6e-06,
+987,Alzheimer's,rs2288912,G,6e-06,
+988,Alzheimer's,rs7537669,C,6e-06,
+989,Alzheimer's,rs56193389,G,6e-06,
+990,Alzheimer's,rs9972911,T,6e-06,
+991,Alzheimer's,rs4957096,C,7e-06,
+992,Alzheimer's,rs12116805,A,7e-06,
+993,Alzheimer's,rs368196,C,7e-06,
+994,Alzheimer's,rs2270288,T,7e-06,
+995,Alzheimer's,rs79616419,A,7e-06,
+996,Alzheimer's,rs467207,A,7e-06,
+997,Alzheimer's,rs7915681,A,7e-06,
+998,Alzheimer's,rs7245939,C,7e-06,
+999,Alzheimer's,rs4559697,A,8e-06,
+1000,Alzheimer's,rs4416738,G,8e-06,
+1001,Alzheimer's,rs8004563,G,8e-06,
+1002,Alzheimer's,rs116133272,G,8e-06,
+1003,Alzheimer's,rs139992005,A,8e-06,
+1004,Alzheimer's,rs55919244,T,8e-06,
+1005,Alzheimer's,rs141703432,A,8e-06,
+1006,Alzheimer's,rs76792388,C,8e-06,
+1007,Alzheimer's,rs111278137,A,8e-06,
+1008,Alzheimer's,rs4479315,G,8e-06,
+1009,Alzheimer's,rs67193874,T,8e-06,
+1010,Alzheimer's,rs4906063,T,8e-06,
+1011,Alzheimer's,rs1690543,C,9e-06,
+1012,Alzheimer's,rs34843303,C,9e-06,
+1013,Alzheimer's,rs28719480,C,9e-06,
+1014,Alzheimer's,rs8112940,A,9e-06,
+1015,Alzheimer's,rs7431380,G,9e-06,
+1016,Alzheimer's,rs117342224,A,9e-06,
+1017,Alzheimer's,rs10281070,A,1e-05,
+1018,Alzheimer's,rs149024127,C,1e-05,
+1019,Alzheimer's,rs72928904,G,1e-05,
+1020,Alzheimer's,rs10854166,G,1e-05,
+1021,Alzheimer's,rs9772671,A,1e-05,
+1022,Alzheimer's,rs76842537,A,1e-05,
+1023,Alzheimer's,rs9270599,G,9e-09,
+1024,Alzheimer's,rs28363848,T,1e-08,
+1025,Alzheimer's,rs73976310,A,1e-08,
+1026,Alzheimer's,rs36133610,A,1e-08,
+1027,Alzheimer's,rs3852865,A,2e-08,
+1028,Alzheimer's,rs530324,C,2e-08,
+1029,Alzheimer's,rs7245846,A,2e-08,
+1030,Alzheimer's,rs11880948,C,6e-08,
+1031,Alzheimer's,rs10902233,A,6e-08,
+1032,Alzheimer's,rs111566368,C,9e-08,
+1033,Alzheimer's,rs4732732,A,3e-07,
+1034,Alzheimer's,rs7577360,A,3e-07,
+1035,Alzheimer's,rs12981072,G,6e-07,
+1036,Alzheimer's,rs9983207,A,7e-07,
+1037,Alzheimer's,rs17504614,T,4e-08,
+1038,Alzheimer's,rs1606979,A,2e-07,
+1039,Alzheimer's,rs7599488,T,1e-11,
+1040,Alzheimer's,rs268134,A,3e-08,
+1041,Alzheimer's,rs12987662,A,2e-17,
+1042,Alzheimer's,rs2241809,T,4e-08,
+1043,Alzheimer's,rs77609760,A,1e-07,
+1044,Alzheimer's,rs17824247,T,1e-11,
+1045,Alzheimer's,rs13421974,T,2e-07,
+1046,Alzheimer's,rs16845580,T,5e-10,
+1047,Alzheimer's,rs2268894,T,1e-08,
+1048,Alzheimer's,rs10172113,T,2e-07,
+1049,Alzheimer's,rs11687170,T,1e-08,
+1050,Alzheimer's,rs1603981,A,1e-06,
+1051,Alzheimer's,rs17785248,A,2e-06,
+1052,Alzheimer's,rs1665982,A,3e-07,
+1053,Alzheimer's,rs73078304,A,3e-08,
+1054,Alzheimer's,rs3172494,T,2e-11,
+1055,Alzheimer's,rs73082337,C,4e-09,
+1056,Alzheimer's,rs34759087,T,1e-09,
+1057,Alzheimer's,rs148734725,A,5e-22,
+1058,Alzheimer's,rs7630869,T,3e-21,
+1059,Alzheimer's,rs7614725,A,2e-20,
+1060,Alzheimer's,rs3811695,T,2e-15,
+1061,Alzheimer's,rs11130222,A,1.0000000000000001e-23,
+1062,Alzheimer's,rs1138536,T,2e-19,
+1063,Alzheimer's,rs10446472,A,1e-06,
+1064,Alzheimer's,rs62263923,A,3e-08,
+1065,Alzheimer's,rs4974424,A,1e-07,
+1066,Alzheimer's,rs73079609,A,2e-06,
+1067,Alzheimer's,rs3095075,A,6e-07,
+1068,Alzheimer's,rs10012882,T,2e-06,
+1069,Alzheimer's,rs6839705,A,4e-10,
+1070,Alzheimer's,rs10006235,T,4e-07,
+1071,Alzheimer's,rs4863692,T,6e-11,
+1072,Alzheimer's,rs11726992,T,3e-07,
+1073,Alzheimer's,rs4493682,C,4e-07,
+1074,Alzheimer's,rs861347,A,6e-08,
+1075,Alzheimer's,rs61160187,A,2e-12,
+1076,Alzheimer's,rs6449512,A,7e-12,
+1077,Alzheimer's,rs10939881,A,6e-12,
+1078,Alzheimer's,rs113474297,T,1e-09,
+1079,Alzheimer's,rs10223052,A,2e-11,
+1080,Alzheimer's,rs10071982,A,1e-06,
+1081,Alzheimer's,rs7737179,A,2e-08,
+1082,Alzheimer's,rs6882046,A,3e-14,
+1083,Alzheimer's,rs3850651,T,2e-11,
+1084,Alzheimer's,rs152602,C,7e-07,
+1085,Alzheimer's,rs12514965,T,4e-09,
+1086,Alzheimer's,rs9527702,A,2e-15,
+1087,Alzheimer's,rs9556958,T,5e-09,
+1088,Alzheimer's,rs34344888,A,3e-09,
+1089,Alzheimer's,rs10483349,A,1e-08,
+1090,Alzheimer's,rs7146434,A,4e-07,
+1091,Alzheimer's,rs28730549,A,1e-06,
+1092,Alzheimer's,rs1378214,T,4e-10,
+1093,Alzheimer's,rs3131610,A,4e-06,
+1094,Alzheimer's,rs113294283,A,3e-06,
+1095,Alzheimer's,rs147704873,A,3e-07,
+1096,Alzheimer's,rs34571450,T,3e-07,
+1097,Alzheimer's,rs12900061,A,4e-09,
+1098,Alzheimer's,rs4468571,A,2e-07,
+1099,Alzheimer's,rs28420834,A,3e-09,
+1100,Alzheimer's,rs1035578,A,4e-07,
+1101,Alzheimer's,rs8049439,T,1e-08,
+1102,Alzheimer's,rs143982995,T,6e-07,
+1103,Alzheimer's,rs150180355,A,4e-07,
+1104,Alzheimer's,rs111609130,A,2e-07,
+1105,Alzheimer's,rs113568679,A,7e-09,
+1106,Alzheimer's,rs143364530,A,3e-08,
+1107,Alzheimer's,rs199503,A,2e-08,
+1108,Alzheimer's,rs4800490,A,2e-08,
+1109,Alzheimer's,rs12969294,A,2e-10,
+1110,Alzheimer's,rs4986228,A,2e-07,
+1111,Alzheimer's,rs12962421,A,3e-07,
+1112,Alzheimer's,rs62100767,A,2e-08,
+1113,Alzheimer's,rs1382358,T,1e-07,
+1114,Alzheimer's,rs73046410,A,6e-08,
+1115,Alzheimer's,rs113321260,A,4e-20,
+1116,Alzheimer's,rs12611358,A,1e-06,
+1117,Alzheimer's,rs140589268,T,3e-07,
+1118,Alzheimer's,rs141979783,T,4e-08,
+1119,Alzheimer's,rs2837992,T,1e-07,
+1120,Alzheimer's,rs9616906,A,3e-08,
+1121,Alzheimer's,rs3824874,T,5e-09,
+1122,Alzheimer's,rs111321694,T,7e-07,
+1123,Alzheimer's,rs2819336,T,1e-09,
+1124,Alzheimer's,rs12410444,A,3e-10,
+1125,Alzheimer's,rs34305371,A,1e-15,
+1126,Alzheimer's,rs1008078,T,6e-11,
+1127,Alzheimer's,rs237436,T,6e-08,
+1128,Alzheimer's,rs2154402,T,2e-07,
+1129,Alzheimer's,rs2477432,A,8e-07,
+1130,Alzheimer's,rs12036042,T,2e-08,
+1131,Alzheimer's,rs11588857,A,2e-11,
+1132,Alzheimer's,rs1752684,A,7e-14,
+1133,Alzheimer's,rs61848607,A,4e-08,
+1134,Alzheimer's,rs35771425,T,6e-09,
+1135,Alzheimer's,rs71537331,T,3e-10,
+1136,Alzheimer's,rs11222416,T,4e-09,
+1137,Alzheimer's,rs10772644,C,6e-07,
+1138,Alzheimer's,rs7964899,A,2e-10,
+1139,Alzheimer's,rs2456973,A,2e-11,
+1140,Alzheimer's,rs55742290,T,1e-13,
+1141,Alzheimer's,rs1727302,A,7e-16,
+1142,Alzheimer's,rs1969355,A,6e-16,
+1143,Alzheimer's,rs6576,T,6e-12,
+1144,Alzheimer's,rs9509558,T,4e-06,
+1145,Alzheimer's,rs7757476,A,9e-09,
+1146,Alzheimer's,rs76154441,T,1e-06,
+1147,Alzheimer's,rs766406,T,1e-07,
+1148,Alzheimer's,rs139325018,A,3e-06,
+1149,Alzheimer's,rs140677956,T,3e-07,
+1150,Alzheimer's,rs138002663,T,5e-09,
+1151,Alzheimer's,rs77212406,T,5e-10,
+1152,Alzheimer's,rs115795926,A,2e-08,
+1153,Alzheimer's,rs9357551,T,1e-06,
+1154,Alzheimer's,rs9401593,A,1e-20,
+1155,Alzheimer's,rs1761608,A,1e-07,
+1156,Alzheimer's,rs1533827,T,1e-06,
+1157,Alzheimer's,rs6952006,T,4e-08,
+1158,Alzheimer's,rs2188179,A,3e-08,
+1159,Alzheimer's,rs12705979,T,2e-06,
+1160,Alzheimer's,rs1424580,T,4e-08,
+1161,Alzheimer's,rs320700,A,2e-08,
+1162,Alzheimer's,rs10808026,A,2e-10,
+1163,Alzheimer's,rs7982,A,3e-16,
+1164,Alzheimer's,rs35927132,T,3e-06,
+1165,Alzheimer's,rs12675931,T,6e-07,
+1166,Alzheimer's,rs13266268,T,3e-10,
+1167,Alzheimer's,rs11774212,T,2e-08,
+1168,Alzheimer's,rs9792504,A,8e-11,
+1169,Alzheimer's,rs12006296,C,2e-06,
+1170,Alzheimer's,rs4741351,A,2e-08,
+1171,Alzheimer's,rs7029201,A,5e-22,
+1172,Alzheimer's,rs7033137,C,3e-07,
+1173,Alzheimer's,rs17425572,A,7e-07,
+1174,Alzheimer's,rs4240470,C,4e-08,
+1175,Alzheimer's,rs10822125,T,5e-08,
+1176,Alzheimer's,rs7924036,T,5e-08,
+1177,Alzheimer's,rs12247907,C,2e-07,
+1178,Alzheimer's,rs2305192,T,6e-10,
+1179,Alzheimer's,rs11191193,A,2e-11,
+1180,Alzheimer's,rs10786662,C,3e-11,
+1181,Alzheimer's,rs55970842,A,4e-10,
+1182,Alzheimer's,rs12219346,T,1e-07,
+1183,Alzheimer's,rs56118554,T,3e-07,
+1184,Alzheimer's,rs3890065,C,1e-09,
+1185,Alzheimer's,rs4600211,T,2e-06,
+1186,Alzheimer's,rs72924659,T,5e-12,
+1187,Alzheimer's,rs286043,T,3e-06,
+1188,Alzheimer's,rs7948975,T,5e-08,
+1189,Alzheimer's,rs535819,T,5e-08,
+1190,Alzheimer's,rs116443000,T,2e-07,2.22
+1191,Alzheimer's,rs11610873,C,3e-07,0.75
+1192,Alzheimer's,rs34197461,A,3e-07,1.33
+1193,Alzheimer's,rs202380,T,3e-07,0.86
+1194,Alzheimer's,rs146777408,T,3e-07,1.34
+1195,Alzheimer's,rs181518405,A,4e-07,1.85
+1196,Alzheimer's,rs73650172,G,4e-07,1.22
+1197,Alzheimer's,rs4968782,G,4e-12,
+1198,Alzheimer's,rs61812598,G,6e-63,
+1199,Alzheimer's,rs6808835,G,2e-13,
+1200,Alzheimer's,rs573521,A,2e-44,
+1201,Alzheimer's,rs2228467,G,4e-18,
+1202,Alzheimer's,rs2858331,G,3e-10,
+1203,Alzheimer's,rs6695557,A,8e-09,
+1204,Alzheimer's,rs34644948,T,2e-08,
+1205,Alzheimer's,rs7642934,A,3e-08,
+1206,Alzheimer's,rs709210,A,4e-08,
+1207,Alzheimer's,rs28732222,C,1e-07,
+1208,Alzheimer's,rs17206350,C,1e-07,
+1209,Alzheimer's,rs73505251,A,3e-10,
+1210,Alzheimer's,rs7738720,T,1e-09,
+1211,Alzheimer's,rs73427293,A,3e-09,
+1212,Alzheimer's,rs11919682,C,2e-08,
+1213,Alzheimer's,rs4607615,C,7e-08,
+1214,Alzheimer's,rs192764155,A,2e-07,
+1215,Alzheimer's,rs148433063,T,2e-07,
+1216,Alzheimer's,rs569876967,A,2e-07,
+1217,Alzheimer's,rs115837776,T,2e-07,
+1218,Alzheimer's,rs2234253,T,2e-07,
+1219,Alzheimer's,rs10197243,T,2e-07,
+1220,Alzheimer's,rs567572378,A,2e-07,
+1221,Alzheimer's,rs112395375,A,3e-07,
+1222,Alzheimer's,rs76427927,A,3e-07,
+1223,Alzheimer's,rs114681435,T,4e-07,
+1224,Alzheimer's,rs117435266,A,4e-07,
+1225,Alzheimer's,rs74852218,A,4e-07,
+1226,Alzheimer's,rs58443395,A,5e-07,
+1227,Alzheimer's,rs509334,A,9e-07,
+1228,Alzheimer's,rs116620371,A,2e-06,
+1229,Alzheimer's,rs16894668,T,3e-06,
+1230,Alzheimer's,rs116329346,A,4e-06,
+1231,Alzheimer's,rs145008711,A,5e-06,
+1232,Alzheimer's,rs73581622,A,5e-06,
+1233,Alzheimer's,rs570487962,A,2e-09,
+1234,Alzheimer's,rs73427289,T,8e-08,
+1235,Alzheimer's,rs569584007,T,9e-08,
+1236,Alzheimer's,rs10955908,A,3e-07,
+1237,Alzheimer's,rs141610415,T,4e-07,
+1238,Alzheimer's,rs9893381,A,5e-07,
+1239,Alzheimer's,rs114572990,A,5e-07,
+1240,Breast Cancer,rs2981579,T,5e-07,1.23
+1241,Breast Cancer,rs3125719,G,1.9999999999999998e-30,0.58
+1242,Breast Cancer,rs8051542,C,2e-08,1.43
+1243,Breast Cancer,rs36013457,A,1e-08,2.39
+1244,Breast Cancer,rs76893106,G,5e-11,1.37
+1245,Breast Cancer,rs2026659,A,1e-08,0.69
+1246,Breast Cancer,rs8113308,G,6e-07,1.69
+1247,Breast Cancer,rs3757322,G,6e-09,1.26
+1248,Breast Cancer,rs9397437,A,5e-09,1.5
+1249,Breast Cancer,rs9383938,T,3e-09,1.47
+1250,Breast Cancer,rs2183271,C,3e-07,1.22
+1251,Breast Cancer,rs78540526,T,1e-11,1.61
+1252,Breast Cancer,rs554219,G,3e-11,1.45
+1253,Breast Cancer,rs75915166,A,8e-08,1.53
+1254,Breast Cancer,rs4245739,C,4e-06,1.19
+1255,Breast Cancer,rs10069690,A,1e-07,1.24
+1256,Breast Cancer,rs3757318,A,9e-06,1.33
+1257,Breast Cancer,rs2363956,C,2e-08,1.2195
+1258,Breast Cancer,rs10771399,G,2e-08,1.3889
+1259,Breast Cancer,rs17215231,C,9e-13,1.1764705
+1260,Breast Cancer,rs2464195,G,3e-08,1.0752687
+1261,Breast Cancer,rs78378222,T,1e-08,1.4492754
+1262,Breast Cancer,rs76664032,A,4e-10,1.3
+1263,Breast Cancer,rs12974508,C,1.0000000000000001e-23,1.38
+1264,Breast Cancer,rs60538652,A,6e-07,1.26
+1265,Breast Cancer,rs11154838,C,1e-06,1.27
+1266,Breast Cancer,rs9383936,A,1e-10,1.35
+1267,Breast Cancer,rs10953105,G,1e-06,1.37
+1268,Breast Cancer,rs2350923,T,8e-07,1.28
+1269,Breast Cancer,rs78545330,A,3e-06,1.26
+1270,Breast Cancer,rs10814070,T,2e-06,1.26
+1271,Breast Cancer,rs2912774,T,6e-07,1.25
+1272,Breast Cancer,rs9418690,C,1e-06,1.28
+1273,Breast Cancer,rs4964006,T,2e-06,1.96
+1274,Breast Cancer,rs67129489,G,9e-07,1.36
+1275,Breast Cancer,rs278050,C,4e-06,1.28
+1276,Breast Cancer,rs4784227,T,9e-09,1.31
+1277,Breast Cancer,rs4969001,T,7e-06,1.32
+1278,Breast Cancer,rs73107564,A,2e-07,1.43
+1279,Breast Cancer,rs6788895,G,2e-06,1.23
+1280,Breast Cancer,rs2046210,A,1e-09,1.3
+1281,Breast Cancer,rs2981575,G,2e-08,1.27
+1282,Breast Cancer,rs12998806,G,2e-08,1.34
+1283,Breast Cancer,rs17024629,T,1e-06,0.95
+1284,Breast Cancer,rs2522057,C,3e-07,0.96
+1285,Breast Cancer,rs1869959,A,6e-08,0.96
+1286,Breast Cancer,rs940672,A,2e-08,1.12
+1287,Breast Cancer,rs2372943,G,3e-11,1.21
+1288,Breast Cancer,rs61751053,T,1e-10,1.69
+1289,Breast Cancer,rs2981578,C,6e-10,1.2
+1290,Breast Cancer,rs4575439,G,1e-08,1.12
+1291,Breast Cancer,rs10853615,A,2e-08,1.15
+1292,Breast Cancer,rs16856925,A,7e-10,1.19
+1293,Breast Cancer,rs13074711,T,2e-08,1.29
+1294,Breast Cancer,rs999737,C,3e-08,1.0869565
+1295,Breast Cancer,rs2747652,C,2e-18,1.098901
+1296,Breast Cancer,rs6562760,G,9e-10,1.0869565
+1297,Breast Cancer,rs6678914,G,3e-12,1.0869565
+1298,Breast Cancer,rs4577244,C,2e-09,1.0869565
+1299,Breast Cancer,rs12710696,T,7e-08,1.06
+1300,Breast Cancer,rs11075995,A,1e-10,1.09
+1301,Breast Cancer,rs67397200,G,3e-37,1.17
+1302,Breast Cancer,rs11076805,C,2e-08,1.0869565
+1303,Breast Cancer,rs6569648,T,4e-08,1.0752687
+1304,Breast Cancer,rs11374964,G,4e-08,1.0638298
+1305,Breast Cancer,rs36194942,A,3e-07,1.0638298
+1306,Breast Cancer,rs113701136,T,2e-07,1.07
+1307,Breast Cancer,rs17350191,T,2e-08,1.07
+1308,Breast Cancer,rs66823261,C,6e-09,1.09
+1309,Breast Cancer,rs74911261,G,2e-06,1.2195122
+1310,Breast Cancer,rs117618124,T,5e-06,1.1904762
+1311,Breast Cancer,rs4442975,G,3e-06,1.0638298
+1312,Breast Cancer,rs1011970,T,5e-07,1.05
+1313,Breast Cancer,rs10995201,A,2e-09,1.0752687
+1314,Breast Cancer,rs11571833,T,2e-13,1.58
+1315,Breast Cancer,rs11627032,T,2e-06,1.0526316
+1316,Breast Cancer,rs11820646,C,2e-07,1.0638298
+1317,Breast Cancer,rs13281615,G,9e-06,1.07
+1318,Breast Cancer,rs13365225,A,1e-10,1.1111112
+1319,Breast Cancer,rs1432679,C,1e-10,1.08
+1320,Breast Cancer,rs16857609,T,2e-08,1.07
+1321,Breast Cancer,rs17356907,A,2e-08,1.0638298
+1322,Breast Cancer,rs17529111,C,2e-06,1.06
+1323,Breast Cancer,rs17817449,T,2e-10,1.0752687
+1324,Breast Cancer,rs1830298,C,7e-07,1.08
+1325,Breast Cancer,rs2943559,G,3e-06,1.1
+1326,Breast Cancer,rs3215401,A,6e-21,1.1363636
+1327,Breast Cancer,rs3760982,A,5e-08,1.08
+1328,Breast Cancer,rs4808801,A,6e-06,1.0416667
+1329,Breast Cancer,rs4849887,C,4e-09,1.1764705
+1330,Breast Cancer,rs6001930,C,2e-11,1.14
+1331,Breast Cancer,rs616488,A,4e-18,1.1235955
+1332,Breast Cancer,rs62355902,T,2e-06,1.06
+1333,Breast Cancer,rs7297051,C,8.999999999999998e-25,1.1494253
+1334,Breast Cancer,rs7904519,G,8e-10,1.08
+1335,Breast Cancer,rs67931591,G,4e-08,0.94
+1336,Breast Cancer,rs1637365,T,1e-08,1.08
+1337,Breast Cancer,rs61494113,A,3e-21,1.26
+1338,Breast Cancer,rs56084662,A,4e-09,
+1339,Breast Cancer,rs1057941,A,2e-07,1.1
+1340,Breast Cancer,rs2974935,T,2e-07,1.1
+1341,Breast Cancer,rs11119608,T,1e-07,1.1111112
+1342,Breast Cancer,rs75316749,G,2e-07,1.1
+1343,Breast Cancer,rs115707823,A,2e-06,1.1
+1344,Breast Cancer,rs115392158,G,9e-06,1.1
+1345,Breast Cancer,rs147527678,C,5e-07,1.1
+1346,Breast Cancer,rs4604234,C,6e-06,1.1
+1347,Breast Cancer,rs12349081,A,6e-06,1.1
+1348,Breast Cancer,rs3184504,C,2e-06,1.1
+1349,Breast Cancer,rs12601991,T,1e-09,1.1
+1350,Breast Cancer,rs4808075,C,4e-07,1.1
+1351,Breast Cancer,rs11907546,C,3e-09,1.1111112
+1352,Breast Cancer,rs56404467,A,1e-07,1.2
+1353,Breast Cancer,rs2300206,G,2e-08,1.1111112
+1354,Breast Cancer,rs11200014,A,8e-35,
+1355,Breast Cancer,rs7931342,G,4e-14,
+1356,Breast Cancer,rs148883465,G,3e-08,
+1357,Breast Cancer,rs11168936,C,9e-07,
+1358,Breast Cancer,rs73110464,T,2e-15,
+1359,Breast Cancer,rs11571818,C,5e-10,
+1360,Breast Cancer,rs11844632,A,3e-10,
+1361,Breast Cancer,rs141752671,G,1e-07,
+1362,Breast Cancer,rs11065979,T,5e-06,
+1363,Breast Cancer,rs186507655,A,5e-10,
+1364,Breast Cancer,rs2075570,T,5e-06,
+1365,Breast Cancer,rs481519,T,2e-09,
+1366,Breast Cancer,rs7679673,A,1e-10,
+1367,Breast Cancer,rs7725218,A,2e-10,
+1368,Breast Cancer,rs1862626,T,4e-12,
+1369,Breast Cancer,rs147680653,G,1e-06,
+1370,Breast Cancer,rs145543257,C,4e-08,
+1371,Breast Cancer,rs147384928,G,8e-08,
+1372,Breast Cancer,rs114003206,A,2e-09,
+1373,Breast Cancer,rs144423980,T,1e-08,
+1374,Breast Cancer,rs142410477,A,4e-08,
+1375,Breast Cancer,rs213051,T,8e-07,0.667
+1376,Breast Cancer,rs10814138,C,3e-06,0.753
+1377,Breast Cancer,rs74122632,T,2e-07,0.636
+1378,Breast Cancer,rs62078064,G,3e-06,0.683
+1379,Breast Cancer,rs9913021,A,2e-06,1.324
+1380,Breast Cancer,rs11910276,C,2e-06,0.644
+1381,Breast Cancer,rs4391763,C,5e-09,0.83
+1382,Breast Cancer,rs35668161,A,5e-13,1.32
+1383,Breast Cancer,rs2837148,A,6e-12,0.51
+1384,Breast Cancer,rs9613774,G,8.000000000000001e-28,0.7
+1385,Breast Cancer,rs12173562,T,6e-15,1.3
+1386,Breast Cancer,rs147358466,A,6e-12,1.49
+1387,Breast Cancer,rs2634458,T,9e-13,1.27
+1388,Breast Cancer,rs114421152,T,1e-06,
+1389,Breast Cancer,rs531841397,A,1e-06,
+1390,Breast Cancer,rs551688984,T,1e-06,
+1391,Breast Cancer,rs147872430,T,1e-06,
+1392,Breast Cancer,rs536722518,A,1e-06,
+1393,Breast Cancer,rs9963956,C,1e-06,
+1394,Breast Cancer,rs116704502,A,1e-06,
+1395,Breast Cancer,rs144628417,A,1e-06,
+1396,Breast Cancer,rs182472538,C,1e-06,
+1397,Breast Cancer,rs759522921,T,1e-06,
+1398,Breast Cancer,rs79943813,A,1e-06,
+1399,Breast Cancer,rs147901403,C,1e-06,
+1400,Breast Cancer,rs751566099,G,1e-06,
+1401,Breast Cancer,rs148414598,G,1e-06,
+1402,Breast Cancer,rs567220340,G,1e-06,
+1403,Breast Cancer,rs570788995,T,1e-06,
+1404,Breast Cancer,rs574179305,T,2e-06,
+1405,Breast Cancer,rs142170255,C,2e-06,
+1406,Breast Cancer,rs776369508,A,2e-06,
+1407,Breast Cancer,rs11826597,C,2e-06,
+1408,Breast Cancer,rs12050726,T,2e-06,
+1409,Breast Cancer,rs574854947,C,2e-06,
+1410,Breast Cancer,rs150519299,C,2e-06,
+1411,Breast Cancer,rs72751949,T,2e-06,
+1412,Breast Cancer,rs576433878,A,2e-06,
+1413,Breast Cancer,rs805510,C,5e-07,
+1414,Breast Cancer,rs555011672,C,5e-07,
+1415,Breast Cancer,rs111653746,C,5e-07,
+1416,Breast Cancer,rs12922061,T,2e-33,
+1417,Breast Cancer,rs62237617,T,2e-20,
+1418,Breast Cancer,rs35311825,C,5e-07,
+1419,Breast Cancer,rs62237573,T,5e-07,
+1420,Breast Cancer,rs148341416,T,5e-07,
+1421,Breast Cancer,rs574631597,G,5e-07,
+1422,Breast Cancer,rs61953555,A,6e-07,
+1423,Breast Cancer,rs569445737,G,6e-07,
+1424,Breast Cancer,rs1422798,G,6e-07,
+1425,Breast Cancer,rs28778330,A,7e-07,
+1426,Breast Cancer,rs185441036,A,7e-07,
+1427,Breast Cancer,rs34701722,T,7e-07,
+1428,Breast Cancer,rs72927565,T,6e-19,
+1429,Breast Cancer,rs13412666,A,2e-17,
+1430,Breast Cancer,rs12465506,A,1e-16,
+1431,Breast Cancer,rs12653202,C,8e-15,
+1432,Breast Cancer,rs10941679,G,7e-14,
+1433,Breast Cancer,rs11715126,A,5e-13,
+1434,Breast Cancer,rs73169072,T,3e-11,
+1435,Breast Cancer,rs6451770,G,4e-11,
+1436,Breast Cancer,rs4752575,A,9e-11,
+1437,Breast Cancer,rs61938093,T,1e-10,
+1438,Breast Cancer,rs7716600,C,2e-10,
+1439,Breast Cancer,rs6929137,A,3e-10,
+1440,Breast Cancer,rs1851366,C,8e-10,
+1441,Breast Cancer,rs6001932,A,2e-09,
+1442,Breast Cancer,rs1121980,A,2e-09,
+1443,Breast Cancer,rs10043344,T,3e-09,
+1444,Breast Cancer,rs777570833,G,3e-09,
+1445,Breast Cancer,rs73920866,C,8e-09,
+1446,Breast Cancer,rs548980,T,1e-08,
+1447,Breast Cancer,rs873994,C,1e-08,
+1448,Breast Cancer,rs78374001,G,1e-08,
+1449,Breast Cancer,rs62235681,G,1e-08,
+1450,Breast Cancer,rs62235635,A,1e-08,
+1451,Breast Cancer,rs1292011,G,2e-08,
+1452,Breast Cancer,rs12332693,A,2e-08,
+1453,Breast Cancer,rs776309300,T,2e-08,
+1454,Breast Cancer,rs11249433,G,2e-08,
+1455,Breast Cancer,rs1427933,G,4e-08,
+1456,Breast Cancer,rs10816634,C,4e-08,
+1457,Breast Cancer,rs1445998,G,4e-08,
+1458,Breast Cancer,rs550717896,G,7e-08,
+1459,Breast Cancer,rs544778895,T,7e-08,
+1460,Breast Cancer,rs73167022,T,7e-08,
+1461,Breast Cancer,rs192249,G,8e-08,
+1462,Breast Cancer,rs78325711,A,8e-08,
+1463,Breast Cancer,rs531538665,G,1e-07,
+1464,Breast Cancer,rs12297628,G,1e-07,
+1465,Breast Cancer,rs543903011,G,1e-07,
+1466,Breast Cancer,rs10995193,T,1e-07,
+1467,Breast Cancer,rs183480050,C,1e-07,
+1468,Breast Cancer,rs752737912,G,2e-07,
+1469,Breast Cancer,rs35661976,T,2e-07,
+1470,Breast Cancer,rs767834471,A,2e-07,
+1471,Breast Cancer,rs17621185,G,2e-07,
+1472,Breast Cancer,rs6776467,G,3e-07,
+1473,Breast Cancer,rs750192694,C,3e-07,
+1474,Breast Cancer,rs577734745,A,3e-07,
+1475,Breast Cancer,rs180848123,A,3e-07,
+1476,Breast Cancer,rs770647864,T,3e-07,
+1477,Breast Cancer,rs16886113,G,3e-07,
+1478,Breast Cancer,rs181250097,A,3e-07,
+1479,Breast Cancer,rs7913694,G,4e-07,
+1480,Breast Cancer,rs118001702,G,4e-07,
+1481,Breast Cancer,rs3135758,T,4e-07,
+1482,Breast Cancer,rs758704171,C,4e-07,
+1483,Breast Cancer,rs746870036,C,7e-07,
+1484,Breast Cancer,rs12483853,C,2e-06,
+1485,Breast Cancer,rs571427036,A,2e-06,
+1486,Breast Cancer,rs772650301,A,2e-06,
+1487,Breast Cancer,rs2604206,G,2e-06,
+1488,Breast Cancer,rs11695910,G,2e-06,
+1489,Breast Cancer,rs192468096,G,2e-06,
+1490,Breast Cancer,rs780555751,G,2e-06,
+1491,Breast Cancer,rs143319753,T,2e-06,
+1492,Breast Cancer,rs146034150,A,2e-06,
+1493,Breast Cancer,rs545094080,A,2e-06,
+1494,Breast Cancer,rs72955675,C,2e-06,
+1495,Breast Cancer,rs142394206,A,2e-06,
+1496,Breast Cancer,rs768332763,G,2e-06,
+1497,Breast Cancer,rs561353165,A,2e-06,
+1498,Breast Cancer,rs758005001,T,2e-06,
+1499,Breast Cancer,rs567916262,A,2e-06,
+1500,Breast Cancer,rs77464740,T,2e-06,
+1501,Breast Cancer,rs760267320,T,2e-06,
+1502,Breast Cancer,rs75307626,C,2e-06,
+1503,Breast Cancer,rs192161881,C,3e-06,
+1504,Breast Cancer,rs188123247,G,3e-06,
+1505,Breast Cancer,rs35702223,G,3e-06,
+1506,Breast Cancer,rs544631609,A,3e-06,
+1507,Breast Cancer,rs9777802,T,3e-06,
+1508,Breast Cancer,rs191852767,G,3e-06,
+1509,Breast Cancer,rs10197246,C,3e-06,
+1510,Breast Cancer,rs543085697,C,3e-06,
+1511,Breast Cancer,rs75102400,A,3e-06,
+1512,Breast Cancer,rs553299623,G,3e-06,
+1513,Breast Cancer,rs542669100,T,3e-06,
+1514,Breast Cancer,rs191269196,T,3e-06,
+1515,Breast Cancer,rs187507208,C,3e-06,
+1516,Breast Cancer,rs142433260,T,3e-06,
+1517,Breast Cancer,rs573689035,T,3e-06,
+1518,Breast Cancer,rs72960863,C,7e-07,
+1519,Breast Cancer,rs529453294,A,8e-07,
+1520,Breast Cancer,rs180916265,T,8e-07,
+1521,Breast Cancer,rs372729286,T,8e-07,
+1522,Breast Cancer,rs540194202,T,8e-07,
+1523,Breast Cancer,rs2065107,T,8e-07,
+1524,Breast Cancer,rs775132830,C,9e-07,
+1525,Breast Cancer,rs751892221,G,9e-07,
+1526,Breast Cancer,rs76929631,G,9e-07,
+1527,Breast Cancer,rs35009862,C,9e-07,
+1528,Breast Cancer,rs113663609,A,1e-06,
+1529,Breast Cancer,rs534705294,C,1e-06,
+1530,Breast Cancer,rs6750813,C,7e-09,1.13
+1531,Breast Cancer,rs35240111,C,2e-08,1.1
+1532,Breast Cancer,rs17542768,A,2e-08,1.24
+1533,Breast Cancer,rs16963205,T,2e-11,1.13
+1534,Breast Cancer,rs56069439,A,1e-11,1.13
+1535,Breast Cancer,rs10211615,G,2e-06,1.08
+1536,Breast Cancer,rs2736098,C,1e-07,1.15
+1537,Breast Cancer,rs57456888,G,8e-08,1.11
+1538,Breast Cancer,rs6762558,A,5e-06,
+1539,Breast Cancer,rs7190396,T,2e-06,
+1540,Breast Cancer,rs10035564,A,1e-27,
+1541,Breast Cancer,rs67981811,C,5e-42,
+1542,Breast Cancer,rs6805189,T,6e-14,
+1543,Breast Cancer,rs7447717,A,8e-16,
+1544,Breast Cancer,rs13198474,G,1.9999999999999998e-25,
+1545,Breast Cancer,rs13195402,G,3e-39,
+1546,Breast Cancer,rs13195636,A,1e-43,
+1547,Breast Cancer,rs9257566,C,5.9999999999999996e-40,
+1548,Breast Cancer,rs2957468,A,2e-13,
+1549,Breast Cancer,rs75905550,G,6e-14,
+1550,Breast Cancer,rs4702,G,1e-22,
+1551,Breast Cancer,rs1724390,C,2e-14,
+1552,Breast Cancer,rs2532363,G,4e-15,
+1553,Breast Cancer,rs2965183,G,2e-21,
+1554,Breast Cancer,rs4865721,G,4e-11,
+1555,Breast Cancer,rs10156333,T,3e-10,
+1556,Breast Cancer,rs199498,T,1e-12,
+1557,Breast Cancer,rs72755295,A,3e-12,
+1558,Breast Cancer,rs77549302,T,2e-09,
+1559,Breast Cancer,rs7626646,T,6e-09,
+1560,Breast Cancer,rs33987166,T,1e-08,
+1561,Breast Cancer,rs62375245,T,1e-10,
+1562,Breast Cancer,rs3176337,A,1e-08,
+1563,Breast Cancer,rs851982,T,2e-11,
+1564,Breast Cancer,rs17211035,T,3e-08,
+1565,Breast Cancer,rs7030607,A,1e-10,
+1566,Breast Cancer,rs10828248,A,5e-21,
+1567,Breast Cancer,rs12217370,A,1e-08,
+1568,Breast Cancer,rs117662433,A,5e-08,
+1569,Breast Cancer,rs35840638,A,2e-12,
+1570,Breast Cancer,rs16991615,A,2e-13,
+1571,Breast Cancer,rs4821942,A,2.0000000000000002e-23,
+1572,Breast Cancer,rs9611271,A,2e-09,
+1573,Breast Cancer,rs2242652,A,9e-43,
+1574,Breast Cancer,rs56345976,A,2e-14,
+1575,Breast Cancer,rs7710703,T,5e-18,
+1576,Breast Cancer,rs7713218,A,5e-18,
+1577,Breast Cancer,rs851981,A,4e-10,
+1578,Breast Cancer,rs10789665,T,3e-14,
+1579,Breast Cancer,rs149934734,T,3e-32,
+1580,Breast Cancer,rs188691509,A,6e-09,
+1581,Breast Cancer,rs72993806,C,8e-16,
+1582,Breast Cancer,rs143521471,T,4e-18,
+1583,Breast Cancer,rs4322600,G,4e-06,1.18
+1584,Breast Cancer,rs2111836,G,7e-06,1.32
+1585,Breast Cancer,rs13025833,A,1e-07,1.2
+1586,Breast Cancer,rs8100241,G,4e-08,1.14
+1587,Breast Cancer,rs2284378,T,1e-08,1.16
+1588,Breast Cancer,rs17530068,C,3e-07,1.16
+1589,Breast Cancer,rs3803662,T,3e-11,1.213
+1590,Breast Cancer,rs17221259,G,7e-06,1.252
+1591,Breast Cancer,rs140068132,A,9e-18,1.67
+1592,Breast Cancer,rs4951011,G,9e-09,1.09
+1593,Breast Cancer,rs10474352,C,2e-09,1.09
+1594,Breast Cancer,rs2290203,G,4e-08,1.08
+1595,Breast Cancer,rs11082321,A,7e-07,1.08
+1596,Breast Cancer,rs9913477,G,3e-07,1.44
+1597,Breast Cancer,rs5776993,C,3e-08,1.0526316
+1598,Breast Cancer,rs34052812,A,3e-08,1.0416667
+1599,Breast Cancer,rs11065822,G,6e-09,1.0416667
+1600,Breast Cancer,rs17743054,T,2e-10,1.0416667
+1601,Breast Cancer,rs142890050,C,4e-08,1.0309278
+1602,Breast Cancer,rs4742903,C,3e-08,1.0309278
+1603,Breast Cancer,rs10838267,A,5e-08,1.0309278
+1604,Breast Cancer,rs4602255,A,2e-09,1.04
+1605,Breast Cancer,rs12962334,G,4e-09,1.04
+1606,Breast Cancer,rs13039563,A,3e-09,1.04
+1607,Breast Cancer,rs13256025,T,1e-08,1.05
+1608,Breast Cancer,rs9808759,T,6e-09,1.07
+1609,Breast Cancer,rs7760611,C,2e-09,1.0416667
+1610,Breast Cancer,rs11652463,C,4e-08,1.0416667
+1611,Breast Cancer,rs1375631,G,7e-09,1.0309278
+1612,Breast Cancer,rs2886671,C,4e-08,1.0309278
+1613,Breast Cancer,rs13277568,A,2e-08,1.0309278
+1614,Breast Cancer,rs9712235,G,5e-08,1.04
+1615,Breast Cancer,rs1061657,C,3e-10,1.04
+1616,Breast Cancer,rs188092014,C,2e-08,1.05
+1617,Breast Cancer,rs2180341,G,3e-08,1.41
+1618,Breast Cancer,rs12355688,T,6e-06,1.24
+1619,Breast Cancer,rs1219648,G,2e-13,1.32
+1620,Breast Cancer,rs2290854,A,1e-07,1.13
+1621,Breast Cancer,rs11196174,G,8e-07,1.13
+1622,Breast Cancer,rs8170,G,4e-13,1.19
+1623,Breast Cancer,rs3750817,T,8e-08,1.22
+1624,Breast Cancer,rs13393577,T,9e-14,1.53
+1625,Breast Cancer,rs16886165,G,5e-07,1.23
+1626,Breast Cancer,rs13387042,A,2e-08,1.25
+1627,Breast Cancer,rs889312,C,5e-09,1.22
+1628,Breast Cancer,rs10995190,G,5e-15,1.16
+1629,Breast Cancer,rs1562430,T,6e-07,1.17
+1630,Breast Cancer,rs909116,T,7e-07,1.17
+1631,Breast Cancer,rs4973768,T,6e-07,1.16
+1632,Breast Cancer,rs704010,A,4e-09,1.07
+1633,Breast Cancer,rs2380205,C,5e-07,1.06
+1634,Breast Cancer,rs614367,T,3e-15,1.15
+1635,Breast Cancer,rs3112612,T,4e-10,1.15
+1636,Breast Cancer,rs3734805,C,1e-07,1.19
+1637,Breast Cancer,rs10510102,G,2e-06,1.12
+1638,Breast Cancer,rs4415084,T,8e-11,1.17
+1639,Breast Cancer,rs865686,T,2e-10,1.12
+1640,Breast Cancer,rs2981582,A,2e-76,1.26
+1641,Breast Cancer,rs981782,C,9e-06,1.04
+1642,Breast Cancer,rs3817198,C,3e-09,1.07
+1643,Breast Cancer,rs1078806,C,2e-06,1.43
+1644,Breast Cancer,rs204247,G,8e-09,1.05
+1645,Breast Cancer,rs9693444,A,9e-14,1.07
+1646,Breast Cancer,rs11780156,T,3e-11,1.07
+1647,Breast Cancer,rs7072776,A,4e-14,1.07
+1648,Breast Cancer,rs11199914,C,2e-08,1.05
+1649,Breast Cancer,rs3903072,G,9e-12,1.05
+1650,Breast Cancer,rs12422552,C,4e-08,1.05
+1651,Breast Cancer,rs6504950,G,2e-13,1.06
+1652,Breast Cancer,rs2588809,T,1e-10,1.08
+1653,Breast Cancer,rs11552449,T,2e-08,1.07
+1654,Breast Cancer,rs2016394,G,1e-08,1.05
+1655,Breast Cancer,rs527616,G,2e-10,1.05
+1656,Breast Cancer,rs132390,C,3e-09,1.12
+1657,Breast Cancer,rs720475,G,7e-11,1.06
+1658,Breast Cancer,rs6472903,T,2e-17,1.1
+1659,Breast Cancer,rs10759243,A,1e-08,1.06
+1660,Breast Cancer,rs1436904,T,3e-08,1.04
+1661,Breast Cancer,rs2823093,G,7e-16,1.09
+1662,Breast Cancer,rs2236007,G,2e-13,1.08
+1663,Breast Cancer,rs941764,G,4e-10,1.06
+1664,Breast Cancer,rs13329835,G,2e-16,1.08
+1665,Breast Cancer,rs6762644,G,2e-12,1.07
+1666,Breast Cancer,rs12493607,C,2e-08,1.06
+1667,Breast Cancer,rs9790517,T,4e-08,1.05
+1668,Breast Cancer,rs6828523,C,4e-16,1.11
+1669,Breast Cancer,rs10472076,C,3e-08,1.05
+1670,Breast Cancer,rs11242675,T,7e-09,1.06
+1671,Breast Cancer,rs1550623,A,3e-08,1.06
+1672,Breast Cancer,rs1353747,T,3e-08,1.09
+1673,Breast Cancer,rs11814448,C,9e-16,1.26
+1674,Breast Cancer,rs1092913,T,2e-06,1.45
+1675,Breast Cancer,rs10411161,T,7e-06,1.42
+1676,Breast Cancer,rs9485372,G,4e-12,1.11
+1677,Breast Cancer,rs9383951,G,2e-06,1.14
+1678,Breast Cancer,rs7107217,C,5e-07,1.08
+1679,Breast Cancer,rs2048672,C,6e-06,1.11
+1680,Breast Cancer,rs10822013,T,6e-09,1.12
+1681,Breast Cancer,rs12628403,C,4e-06,1.17
+1682,Breast Cancer,rs12118297,G,4e-08,1.1
+1683,Breast Cancer,rs16992204,C,5e-08,1.13
+1684,Breast Cancer,rs13186320,T,5e-15,
+1685,Breast Cancer,rs132289,G,1.0000000000000001e-24,
+1686,Breast Cancer,rs139530473,T,1e-10,
+1687,Breast Cancer,rs140091,A,4e-10,
+1688,Breast Cancer,rs140842923,T,3e-06,
+1689,Breast Cancer,rs141448180,C,6e-06,
+1690,Breast Cancer,rs141930488,A,8e-06,
+1691,Breast Cancer,rs13162653,G,5e-07,1.010101
+1692,Breast Cancer,rs72765759,T,6e-13,
+1693,Breast Cancer,rs72807246,G,3e-06,
+1694,Breast Cancer,rs72820985,G,1e-06,
+1695,Breast Cancer,rs72953532,T,2e-18,
+1696,Breast Cancer,rs73176670,T,1e-08,
+1697,Breast Cancer,rs736801,T,8e-08,
+1698,Breast Cancer,rs74392007,T,3e-07,
+1699,Breast Cancer,rs74910854,G,5e-06,
+1700,Breast Cancer,rs7524950,T,3e-09,
+1701,Breast Cancer,rs7570,C,8e-06,
+1702,Breast Cancer,rs7619833,C,3e-45,
+1703,Breast Cancer,rs7697216,C,1.9999999999999998e-26,
+1704,Breast Cancer,rs7721647,T,2e-06,
+1705,Breast Cancer,rs77674461,C,6e-06,
+1706,Breast Cancer,rs77702473,G,2e-06,
+1707,Breast Cancer,rs78295797,A,9e-06,
+1708,Breast Cancer,rs7847854,T,5e-18,
+1709,Breast Cancer,rs78796841,G,8e-07,
+1710,Breast Cancer,rs800132,G,8e-06,
+1711,Breast Cancer,rs8050871,G,3e-06,
+1712,Breast Cancer,rs8137282,G,2e-07,
+1713,Breast Cancer,rs898097,T,2e-06,
+1714,Breast Cancer,rs1293906,T,9e-06,
+1715,Breast Cancer,rs13054095,T,4e-16,
+1716,Breast Cancer,rs113855064,C,1e-07,
+1717,Breast Cancer,rs924712,G,4e-06,
+1718,Breast Cancer,rs10096351,G,2e-64,
+1719,Breast Cancer,rs10510097,T,2e-58,
+1720,Breast Cancer,rs10683143,A,2e-06,
+1721,Breast Cancer,rs10832963,G,9e-06,
+1722,Breast Cancer,rs10923574,C,4e-07,
+1723,Breast Cancer,rs1112956,G,9e-06,
+1724,Breast Cancer,rs11146838,T,1e-06,
+1725,Breast Cancer,rs111780165,A,8e-08,
+1726,Breast Cancer,rs112257290,A,2e-07,
+1727,Breast Cancer,rs11288072,C,3e-13,
+1728,Breast Cancer,rs113167076,A,9e-07,
+1729,Breast Cancer,rs113319441,T,6e-06,
+1730,Breast Cancer,rs113687142,T,2e-06,
+1731,Breast Cancer,rs7121616,G,7e-06,
+1732,Breast Cancer,rs7149262,A,2e-21,
+1733,Breast Cancer,rs72001329,C,3e-06,
+1734,Breast Cancer,rs72396995,T,1e-07,
+1735,Breast Cancer,rs7258465,C,3e-28,
+1736,Breast Cancer,rs1357245,G,2e-07,1.06
+1737,Breast Cancer,rs1519277,T,2e-07,3.12
+1738,Breast Cancer,rs11651604,C,6e-07,2.12
+1739,Breast Cancer,rs17020562,C,7e-08,44.52
+1740,Breast Cancer,rs114971217,A,6e-07,
+1741,Breast Cancer,rs117114682,G,4e-07,2.23
+1742,Breast Cancer,rs4930561,A,3e-07,1.59
+1743,Breast Cancer,rs147512482,G,2e-07,3.85
+1744,Breast Cancer,rs77485526,T,2e-06,
+1745,Breast Cancer,rs77554484,A,1e-15,
+1746,Breast Cancer,rs77683187,C,2e-06,
+1747,Breast Cancer,rs77688320,G,3e-09,
+1748,Breast Cancer,rs7768862,A,6e-06,
+1749,Breast Cancer,rs77928427,A,3e-08,
+1750,Breast Cancer,rs7810893,C,4e-06,
+1751,Breast Cancer,rs7833090,C,2e-06,
+1752,Breast Cancer,rs7834448,C,7e-06,
+1753,Breast Cancer,rs7844233,G,6e-11,
+1754,Breast Cancer,rs7862618,A,5e-06,
+1755,Breast Cancer,rs7906315,G,2e-08,
+1756,Breast Cancer,rs7918232,C,8e-06,
+1757,Breast Cancer,rs7937840,T,1e-06,
+1758,Breast Cancer,rs79518236,A,1e-07,
+1759,Breast Cancer,rs80199833,T,7e-06,
+1760,Breast Cancer,rs8027365,C,1e-07,
+1761,Breast Cancer,rs803903,G,8e-12,
+1762,Breast Cancer,rs8074440,C,3e-06,
+1763,Breast Cancer,rs8081187,A,2e-07,
+1764,Breast Cancer,rs8082452,G,1e-10,
+1765,Breast Cancer,rs847577,A,6e-06,
+1766,Breast Cancer,rs848087,G,6e-11,
+1767,Breast Cancer,rs71557345,G,4e-10,1.0869565
+1768,Breast Cancer,rs79724016,T,4e-08,1.0752687
+1769,Breast Cancer,rs72749841,T,7e-10,1.0752687
+1770,Breast Cancer,rs12546444,A,8e-11,1.0752687
+1771,Breast Cancer,rs71559437,G,5e-12,1.0752687
+1772,Breast Cancer,rs13066793,A,1e-09,1.0638298
+1773,Breast Cancer,rs6596100,C,8e-09,1.0638298
+1774,Breast Cancer,rs1895062,A,1e-14,1.0638298
+1775,Breast Cancer,rs77528541,G,1e-09,1.0526316
+1776,Breast Cancer,rs2532263,G,7e-13,1.0526316
+1777,Breast Cancer,rs738321,C,1e-13,1.0526316
+1778,Breast Cancer,rs11117758,G,4e-09,1.0526316
+1779,Breast Cancer,rs35951924,A,1e-11,1.0526316
+1780,Breast Cancer,rs202049448,T,3e-08,1.0526316
+1781,Breast Cancer,rs3819405,C,2e-08,1.0416667
+1782,Breast Cancer,rs12479355,A,2e-08,1.0416667
+1783,Breast Cancer,rs6725517,A,3e-12,1.0416667
+1784,Breast Cancer,rs6597981,G,1e-12,1.0416667
+1785,Breast Cancer,rs4496150,C,8e-09,1.0416667
+1786,Breast Cancer,rs7971,A,2e-08,1.0416667
+1787,Breast Cancer,rs2594714,G,1e-08,1.0309278
+1788,Breast Cancer,rs12207986,A,2e-09,1.0309278
+1789,Breast Cancer,rs73034872,C,8e-06,
+1790,Breast Cancer,rs73077323,A,5e-06,
+1791,Breast Cancer,rs73098691,A,3e-06,
+1792,Breast Cancer,rs73348588,T,8e-07,
+1793,Breast Cancer,rs73487618,G,6e-06,
+1794,Breast Cancer,rs7378815,T,4e-07,
+1795,Breast Cancer,rs73822569,G,1e-06,
+1796,Breast Cancer,rs7430456,G,5e-06,
+1797,Breast Cancer,rs74433033,A,9e-07,
+1798,Breast Cancer,rs7458786,A,9e-06,
+1799,Breast Cancer,rs748476,C,7e-07,
+1800,Breast Cancer,rs7500067,G,4e-27,
+1801,Breast Cancer,rs75116627,T,1e-06,
+1802,Breast Cancer,rs7513707,A,2e-11,
+1803,Breast Cancer,rs75282042,C,2e-06,
+1804,Breast Cancer,rs75282989,A,3e-06,
+1805,Breast Cancer,rs75887402,C,3e-07,
+1806,Breast Cancer,rs76007978,A,4e-07,
+1807,Breast Cancer,rs76092474,T,3e-06,
+1808,Breast Cancer,rs76340606,A,4e-06,
+1809,Breast Cancer,rs76375990,C,1e-06,
+1810,Breast Cancer,rs7637701,A,1e-06,
+1811,Breast Cancer,rs7709328,A,3e-07,
+1812,Breast Cancer,rs77198337,T,4e-06,
+1813,Breast Cancer,rs77457752,A,8e-07,
+1814,Breast Cancer,rs58058861,A,2e-10,1.06
+1815,Breast Cancer,rs6815814,C,6e-13,1.06
+1816,Breast Cancer,rs7529522,C,2e-10,1.06
+1817,Breast Cancer,rs9833888,T,5e-10,1.06
+1818,Breast Cancer,rs116095464,C,4e-09,1.06
+1819,Breast Cancer,rs73161324,T,2e-09,1.06
+1820,Breast Cancer,rs113577745,G,4e-10,1.08
+1821,Breast Cancer,rs71801447,C,4e-08,1.09
+1822,Breast Cancer,rs67958007,T,2e-10,1.09
+1823,Breast Cancer,rs35383942,T,4e-13,1.12
+1824,Breast Cancer,rs72826962,T,5e-09,1.2
+1825,Breast Cancer,rs58847541,A,6e-13,1.08
+1826,Breast Cancer,rs78269692,C,2e-09,1.09
+1827,Breast Cancer,rs72810771,T,2e-19,
+1828,Breast Cancer,rs72814839,C,4e-13,
+1829,Breast Cancer,rs72856431,T,9e-07,
+1830,Breast Cancer,rs72932540,G,4e-08,
+1831,Breast Cancer,rs72942597,G,2e-06,
+1832,Breast Cancer,rs322144,C,7e-09,1.0526316
+1833,Breast Cancer,rs4233486,T,9e-09,1.0309278
+1834,Breast Cancer,rs1707302,G,3e-08,1.0416667
+1835,Breast Cancer,rs6882649,T,4e-09,1.0309278
+1836,Breast Cancer,rs2432539,A,4e-08,1.03
+1837,Breast Cancer,rs10760444,G,9e-09,1.03
+1838,Breast Cancer,rs2223621,T,3e-10,1.04
+1839,Breast Cancer,rs10022462,T,2e-09,1.04
+1840,Breast Cancer,rs4562056,T,5e-10,1.05
+1841,Breast Cancer,rs206966,T,4e-08,1.05
+1842,Breast Cancer,rs28539243,A,9e-15,1.05
+1843,Breast Cancer,rs17426269,A,2e-08,1.05
+1844,Breast Cancer,rs514192,A,6e-09,1.05
+1845,Breast Cancer,rs28512361,A,2e-08,1.05
+1846,Breast Cancer,rs4971059,A,5e-11,1.05
+1847,Breast Cancer,rs17268829,C,5e-13,1.05
+1848,Breast Cancer,rs6122906,G,3e-10,1.05
+1849,Breast Cancer,rs17156577,C,4e-09,1.05
+1850,Breast Cancer,rs2992756,T,2e-15,1.06
+1851,Breast Cancer,rs34207738,C,3e-15,1.06
+1852,Breast Cancer,rs62084913,T,9e-06,
+1853,Breast Cancer,rs113953597,A,1e-08,
+1854,Breast Cancer,rs1154723,C,9e-06,
+1855,Breast Cancer,rs11583393,A,4e-08,
+1856,Breast Cancer,rs116183959,C,2e-06,
+1857,Breast Cancer,rs11624333,C,6.999999999999999e-42,
+1858,Breast Cancer,rs116464256,C,4e-06,
+1859,Breast Cancer,rs11646723,T,4e-06,
+1860,Breast Cancer,rs116478824,C,5e-06,
+1861,Breast Cancer,rs11655740,C,7e-06,
+1862,Breast Cancer,rs11680449,A,4e-09,
+1863,Breast Cancer,rs11684853,T,1e-12,
+1864,Breast Cancer,rs11690035,T,6e-06,
+1865,Breast Cancer,rs11693806,G,3e-26,
+1866,Breast Cancer,rs11700530,A,4e-06,
+1867,Breast Cancer,rs117078955,T,1e-06,
+1868,Breast Cancer,rs1172821,T,4e-06,
+1869,Breast Cancer,rs117512673,G,6e-06,
+1870,Breast Cancer,rs117649165,T,1e-06,
+1871,Breast Cancer,rs117698693,G,4e-06,
+1872,Breast Cancer,rs117758012,T,5e-07,
+1873,Breast Cancer,rs6964587,T,9e-11,1.03
+1874,Breast Cancer,rs13267382,A,2e-11,1.03
+1875,Breast Cancer,rs745570,A,4e-10,1.03
+1876,Breast Cancer,rs12048493,C,9e-14,1.04
+1877,Breast Cancer,rs1053338,G,5e-11,1.05
+1878,Breast Cancer,rs11977670,A,1e-16,1.06
+1879,Breast Cancer,rs13294895,T,7e-17,1.06
+1880,Breast Cancer,rs17029056,C,4e-06,
+1881,Breast Cancer,rs17080623,G,5e-06,
+1882,Breast Cancer,rs172032,C,1e-16,
+1883,Breast Cancer,rs1744947,T,2e-14,
+1884,Breast Cancer,rs17543752,C,2e-19,
+1885,Breast Cancer,rs17598658,C,2e-09,
+1886,Breast Cancer,rs1783730,G,3e-07,
+1887,Breast Cancer,rs17838698,T,2e-14,
+1888,Breast Cancer,rs181270898,A,5e-07,
+1889,Breast Cancer,rs181337095,A,3e-07,
+1890,Breast Cancer,rs182731523,C,8e-08,
+1891,Breast Cancer,rs183421746,C,3e-11,
+1892,Breast Cancer,rs184531260,A,4e-07,
+1893,Breast Cancer,rs184886,C,2e-06,
+1894,Breast Cancer,rs185004002,T,2e-12,
+1895,Breast Cancer,rs185028854,A,7e-06,
+1896,Breast Cancer,rs1855581,G,7e-06,
+1897,Breast Cancer,rs186036693,G,2e-06,
+1898,Breast Cancer,rs187201341,T,1e-06,
+1899,Breast Cancer,rs187408367,A,8e-07,
+1900,Breast Cancer,rs189157202,T,2e-06,
+1901,Breast Cancer,rs1894633,G,2e-06,
+1902,Breast Cancer,rs1902066,C,7e-06,
+1903,Breast Cancer,rs190817902,G,7e-07,
+1904,Breast Cancer,rs191057893,G,8e-06,
+1905,Breast Cancer,rs146071273,A,7e-06,
+1906,Breast Cancer,rs146331761,A,5e-07,
+1907,Breast Cancer,rs146817970,T,4e-13,
+1908,Breast Cancer,rs147032157,A,4e-06,
+1909,Breast Cancer,rs149253773,T,5.9999999999999996e-40,
+1910,Breast Cancer,rs149936356,C,1e-18,
+1911,Breast Cancer,rs150537328,C,2e-06,
+1912,Breast Cancer,rs151170584,T,9e-06,
+1913,Breast Cancer,rs151329939,A,5e-09,
+1914,Breast Cancer,rs1514964,C,9e-06,
+1915,Breast Cancer,rs1519814,G,8e-07,
+1916,Breast Cancer,rs1552172,A,1e-08,
+1917,Breast Cancer,rs157554,T,7e-06,
+1918,Breast Cancer,rs1611579,C,8e-07,
+1919,Breast Cancer,rs1685191,T,4e-20,
+1920,Breast Cancer,rs16889471,A,9e-06,
+1921,Breast Cancer,rs16907718,T,7e-06,
+1922,Breast Cancer,rs16922097,C,1e-18,
+1923,Breast Cancer,rs16952006,T,3e-06,
+1924,Breast Cancer,rs1696803,C,2.000000000000001e-45,
+1925,Breast Cancer,rs1697139,G,9e-06,
+1926,Breast Cancer,rs56196003,A,5e-06,
+1927,Breast Cancer,rs56278937,T,1e-06,
+1928,Breast Cancer,rs56387622,C,5e-19,
+1929,Breast Cancer,rs57324102,A,6e-06,
+1930,Breast Cancer,rs58327846,C,4e-06,
+1931,Breast Cancer,rs5837757,C,1e-07,
+1932,Breast Cancer,rs58685532,A,4e-06,
+1933,Breast Cancer,rs6001982,A,1.0000000000000001e-34,
+1934,Breast Cancer,rs60037937,T,9.999999999999999e-27,
+1935,Breast Cancer,rs60504827,T,2e-07,
+1936,Breast Cancer,rs60936670,C,8e-64,
+1937,Breast Cancer,rs60954078,G,2.9999999999999995e-54,
+1938,Breast Cancer,rs61729152,T,6e-06,
+1939,Breast Cancer,rs617791,C,7e-06,
+1940,Breast Cancer,rs61865900,C,2e-09,
+1941,Breast Cancer,rs62079673,C,1e-06,
+1942,Breast Cancer,rs62193398,C,1e-07,
+1943,Breast Cancer,rs4254863,C,5e-06,
+1944,Breast Cancer,rs369574511,C,2e-07,
+1945,Breast Cancer,rs418053,C,1e-13,
+1946,Breast Cancer,rs4286946,G,9e-22,
+1947,Breast Cancer,rs4345958,A,3e-06,
+1948,Breast Cancer,rs45509595,C,5e-09,
+1949,Breast Cancer,rs4594370,G,7e-06,
+1950,Breast Cancer,rs4674124,T,1e-11,
+1951,Breast Cancer,rs4702131,C,1e-11,
+1952,Breast Cancer,rs4757319,G,3e-06,
+1953,Breast Cancer,rs4763,A,2e-08,
+1954,Breast Cancer,rs4814894,A,7e-07,
+1955,Breast Cancer,rs4820318,A,1e-13,
+1956,Breast Cancer,rs4820477,C,9e-07,
+1957,Breast Cancer,rs4848599,C,2e-20,
+1958,Breast Cancer,rs4865169,T,7e-06,
+1959,Breast Cancer,rs4940575,C,4e-06,
+1960,Breast Cancer,rs55821517,C,5e-19,
+1961,Breast Cancer,rs55834529,G,3e-09,
+1962,Breast Cancer,rs55908905,A,8e-06,
+1963,Breast Cancer,rs55986698,A,4e-06,
+1964,Breast Cancer,rs56114371,T,2e-09,
+1965,Breast Cancer,rs56138756,G,7e-09,
+1966,Breast Cancer,rs56160832,A,5e-06,
+1967,Breast Cancer,rs45589338,A,2e-10,
+1968,Breast Cancer,rs4774565,G,2e-06,
+1969,Breast Cancer,rs4820803,C,2e-06,
+1970,Breast Cancer,rs505372,C,3e-06,
+1971,Breast Cancer,rs55910451,G,4e-07,
+1972,Breast Cancer,rs56168262,C,2e-08,
+1973,Breast Cancer,rs56333866,T,3e-08,
+1974,Breast Cancer,rs57237364,C,5e-07,
+1975,Breast Cancer,rs575908,C,3e-06,
+1976,Breast Cancer,rs58742730,G,6e-09,
+1977,Breast Cancer,rs60226654,C,8e-06,
+1978,Breast Cancer,rs612683,T,3e-07,
+1979,Breast Cancer,rs62061734,C,8e-12,
+1980,Breast Cancer,rs6912005,A,2e-11,
+1981,Breast Cancer,rs6928012,T,2e-06,
+1982,Breast Cancer,rs6934651,C,6e-06,
+1983,Breast Cancer,rs6938,G,9e-08,
+1984,Breast Cancer,rs6940159,C,3e-07,
+1985,Breast Cancer,rs6946892,C,1e-07,
+1986,Breast Cancer,rs7017073,C,2e-14,
+1987,Breast Cancer,rs7017697,T,1e-06,
+1988,Breast Cancer,rs707475,A,1e-07,
+1989,Breast Cancer,rs7098100,A,1e-18,
+1990,Breast Cancer,rs7102494,T,6e-07,
+1991,Breast Cancer,rs71063528,C,8e-07,
+1992,Breast Cancer,rs71386921,A,3e-06,
+1993,Breast Cancer,rs71599425,A,6e-06,
+1994,Breast Cancer,rs71695136,C,7e-07,
+1995,Breast Cancer,rs718857,C,2e-06,
+1996,Breast Cancer,rs72806318,A,5e-19,
+1997,Breast Cancer,rs7223535,A,4e-10,
+1998,Breast Cancer,rs72314471,C,8e-06,
+1999,Breast Cancer,rs7240205,T,2e-08,
+2000,Breast Cancer,rs7249698,A,4e-07,
+2001,Breast Cancer,rs72658071,T,3e-28,
+2002,Breast Cancer,rs72751936,A,4e-12,
+2003,Breast Cancer,rs6473252,T,8e-07,
+2004,Breast Cancer,rs6558174,G,3e-06,
+2005,Breast Cancer,rs66686620,A,1e-07,
+2006,Breast Cancer,rs666930,C,5e-08,
+2007,Breast Cancer,rs66783663,T,5e-06,
+2008,Breast Cancer,rs66849333,T,1e-06,
+2009,Breast Cancer,rs66964413,C,5e-09,
+2010,Breast Cancer,rs66987842,C,3e-35,
+2011,Breast Cancer,rs67079557,A,1e-06,
+2012,Breast Cancer,rs6710503,A,5e-06,
+2013,Breast Cancer,rs6756513,A,4e-07,
+2014,Breast Cancer,rs6776003,A,3e-10,
+2015,Breast Cancer,rs6787391,T,9e-19,
+2016,Breast Cancer,rs6789440,A,3e-06,
+2017,Breast Cancer,rs68006638,A,2e-07,
+2018,Breast Cancer,rs68056147,A,5e-13,
+2019,Breast Cancer,rs68140948,T,3e-06,
+2020,Breast Cancer,rs6818581,G,9e-06,
+2021,Breast Cancer,rs6860806,G,8e-08,
+2022,Breast Cancer,rs6878727,G,6e-06,
+2023,Breast Cancer,rs6890270,G,5e-67,
+2024,Breast Cancer,rs6890610,T,6e-06,
+2025,Breast Cancer,rs6904031,T,7e-26,
+2026,Breast Cancer,rs72755643,G,3e-11,
+2027,Breast Cancer,rs72774916,T,2e-08,
+2028,Breast Cancer,rs7278690,G,6e-06,
+2029,Breast Cancer,rs188460188,C,3e-08,
+2030,Breast Cancer,rs190811224,T,5e-06,
+2031,Breast Cancer,rs1924553,G,5e-07,
+2032,Breast Cancer,rs1963045,C,2e-06,
+2033,Breast Cancer,rs1989796,C,2e-06,
+2034,Breast Cancer,rs199867187,G,1e-06,
+2035,Breast Cancer,rs200484318,G,7e-06,
+2036,Breast Cancer,rs201462698,C,1e-06,
+2037,Breast Cancer,rs2822999,G,2e-11,
+2038,Breast Cancer,rs28648619,G,5e-06,
+2039,Breast Cancer,rs2963155,G,7e-06,
+2040,Breast Cancer,rs3094054,T,1e-07,
+2041,Breast Cancer,rs2136690,G,4e-06,
+2042,Breast Cancer,rs2253762,C,2e-09,
+2043,Breast Cancer,rs2304098,C,2e-11,
+2044,Breast Cancer,rs2405064,T,4e-06,
+2045,Breast Cancer,rs250677,C,8e-06,
+2046,Breast Cancer,rs26067,A,2e-08,
+2047,Breast Cancer,rs2725207,A,6e-07,
+2048,Breast Cancer,rs310291,A,6e-08,
+2049,Breast Cancer,rs3129984,T,8e-06,
+2050,Breast Cancer,rs6020772,T,1e-06,
+2051,Breast Cancer,rs6062356,G,3e-06,
+2052,Breast Cancer,rs61495451,C,3e-06,
+2053,Breast Cancer,rs62048402,A,4.0000000000000004e-23,
+2054,Breast Cancer,rs141061110,C,5e-06,
+2055,Breast Cancer,rs141447235,C,2e-09,
+2056,Breast Cancer,rs1415174,C,6e-06,
+2057,Breast Cancer,rs141634179,C,6e-06,
+2058,Breast Cancer,rs142253798,T,8e-06,
+2059,Breast Cancer,rs142427110,A,1e-12,
+2060,Breast Cancer,rs142471995,T,2e-06,
+2061,Breast Cancer,rs144079028,T,9e-06,
+2062,Breast Cancer,rs45631563,A,7e-37,1.2345679
+2063,Breast Cancer,rs34005590,C,3e-41,1.2195122
+2064,Breast Cancer,rs676256,T,4e-53,1.098901
+2065,Breast Cancer,rs6796502,G,6e-15,1.0869565
+2066,Breast Cancer,rs6507583,A,2e-12,1.0869565
+2067,Breast Cancer,rs2787486,A,6e-29,1.0752687
+2068,Breast Cancer,rs7707921,A,2e-12,1.0416667
+2069,Breast Cancer,rs4593472,C,2e-11,1.0309278
+2070,Breast Cancer,rs12405132,C,6e-10,1.0309278
+2071,Breast Cancer,rs9257408,C,7e-08,1.02
+2072,Breast Cancer,rs2012709,T,1e-08,1.02
+2073,Breast Cancer,rs7899628,T,9e-10,
+2074,Breast Cancer,rs12152414,A,5e-06,
+2075,Breast Cancer,rs3129178,A,6e-09,
+2076,Breast Cancer,rs59867004,C,1e-10,
+2077,Breast Cancer,rs3130834,C,5e-09,
+2078,Breast Cancer,rs3132610,G,1e-06,
+2079,Breast Cancer,rs3132615,T,2e-06,
+2080,Breast Cancer,rs332529,A,9e-12,
+2081,Breast Cancer,rs34044188,T,3e-07,
+2082,Breast Cancer,rs34119086,T,8e-09,
+2083,Breast Cancer,rs34146356,T,5e-08,
+2084,Breast Cancer,rs34196306,C,1e-09,
+2085,Breast Cancer,rs34507830,T,7.0000000000000015e-31,
+2086,Breast Cancer,rs34546498,T,9e-10,
+2087,Breast Cancer,rs34662244,A,3e-09,
+2088,Breast Cancer,rs348196,C,2e-08,
+2089,Breast Cancer,rs34853779,C,9e-06,
+2090,Breast Cancer,rs35029702,A,1e-07,
+2091,Breast Cancer,rs35072154,T,3e-06,
+2092,Breast Cancer,rs35100619,A,6e-06,
+2093,Breast Cancer,rs35273427,C,2e-07,
+2094,Breast Cancer,rs35306388,G,2e-10,
+2095,Breast Cancer,rs35409891,C,3e-09,
+2096,Breast Cancer,rs35417517,C,8e-11,
+2097,Breast Cancer,rs35419901,T,8e-11,
+2098,Breast Cancer,rs35632171,G,3e-07,
+2099,Breast Cancer,rs370356098,C,2e-07,
+2100,Breast Cancer,rs372562666,G,6e-27,
+2101,Breast Cancer,rs375506010,T,5e-06,
+2102,Breast Cancer,rs3769821,T,4e-18,
+2103,Breast Cancer,rs377527229,C,6e-06,
+2104,Breast Cancer,rs3815308,A,7e-06,
+2105,Breast Cancer,rs3821902,G,3e-12,
+2106,Breast Cancer,rs3829964,C,9e-08,
+2107,Breast Cancer,rs35997229,C,3e-07,
+2108,Breast Cancer,rs36059695,T,6e-08,
+2109,Breast Cancer,rs36715,A,4e-06,
+2110,Breast Cancer,rs368032757,G,5e-06,
+2111,Breast Cancer,rs368121891,A,9e-08,
+2112,Breast Cancer,rs369304377,G,2.0000000000000002e-29,
+2113,Breast Cancer,rs369328859,G,2e-08,
+2114,Breast Cancer,rs369832192,C,4e-06,
+2115,Breast Cancer,rs3853291,A,3e-07,
+2116,Breast Cancer,rs411624,C,2e-06,
+2117,Breast Cancer,rs375066,C,2e-14,
+2118,Breast Cancer,rs377629160,T,6e-07,
+2119,Breast Cancer,rs9292195,C,4e-07,
+2120,Breast Cancer,rs930395,A,2e-58,
+2121,Breast Cancer,rs9323635,T,1e-06,
+2122,Breast Cancer,rs9350395,G,3e-07,
+2123,Breast Cancer,rs9361840,G,7e-14,
+2124,Breast Cancer,rs9379084,A,3e-06,
+2125,Breast Cancer,rs9421352,T,1e-07,
+2126,Breast Cancer,rs9449003,A,3e-06,
+2127,Breast Cancer,rs9460578,A,1e-06,
+2128,Breast Cancer,rs9562987,A,4e-06,
+2129,Breast Cancer,rs9578106,C,7e-06,
+2130,Breast Cancer,rs9619765,T,1e-06,
+2131,Breast Cancer,rs9675999,A,7e-07,
+2132,Breast Cancer,rs970821,T,2e-12,
+2133,Breast Cancer,rs9833726,T,6e-06,
+2134,Breast Cancer,rs9837602,A,1e-09,
+2135,Breast Cancer,rs9867461,T,2e-06,
+2136,Breast Cancer,rs9882792,T,2e-06,
+2137,Breast Cancer,rs9884765,C,5e-07,
+2138,Breast Cancer,rs9952980,C,2e-13,
+2139,Breast Cancer,rs9954058,C,3e-13,
+2140,Breast Cancer,rs9959491,T,5e-07,
+2141,Breast Cancer,rs11284646,C,4e-06,
+2142,Breast Cancer,rs11290052,T,8e-06,
+2143,Breast Cancer,rs11298677,T,5e-09,
+2144,Breast Cancer,rs113084984,A,5e-06,
+2145,Breast Cancer,rs1133071,G,3e-06,
+2146,Breast Cancer,rs113410521,T,2e-06,
+2147,Breast Cancer,rs11344495,C,2e-06,
+2148,Breast Cancer,rs11354714,C,3e-06,
+2149,Breast Cancer,rs62235753,T,3e-20,
+2150,Breast Cancer,rs62237039,G,5e-09,
+2151,Breast Cancer,rs62237615,G,4e-33,
+2152,Breast Cancer,rs62315512,A,5e-06,
+2153,Breast Cancer,rs62331150,T,2e-11,
+2154,Breast Cancer,rs62355901,C,3e-98,
+2155,Breast Cancer,rs62485509,T,4e-12,
+2156,Breast Cancer,rs630965,T,2.9999999999999995e-54,
+2157,Breast Cancer,rs6432241,C,3e-06,
+2158,Breast Cancer,rs643506,G,2e-07,
+2159,Breast Cancer,rs6436017,G,3e-10,
+2160,Breast Cancer,rs6449898,T,2e-06,
+2161,Breast Cancer,rs10016947,C,9e-06,
+2162,Breast Cancer,rs10051199,T,2e-06,
+2163,Breast Cancer,rs10103490,C,4e-06,
+2164,Breast Cancer,rs10169133,C,1e-08,
+2165,Breast Cancer,rs10269006,T,5e-07,
+2166,Breast Cancer,rs10796944,A,7e-10,
+2167,Breast Cancer,rs10811650,G,2e-13,
+2168,Breast Cancer,rs10883710,C,3e-06,
+2169,Breast Cancer,rs10885405,T,5e-14,
+2170,Breast Cancer,rs10906522,C,1e-07,
+2171,Breast Cancer,rs10975370,G,3e-06,
+2172,Breast Cancer,rs11039183,A,6e-06,
+2173,Breast Cancer,rs111342015,A,9e-08,
+2174,Breast Cancer,rs11135046,T,5e-31,
+2175,Breast Cancer,rs111549985,G,6e-12,
+2176,Breast Cancer,rs111605422,A,9e-13,
+2177,Breast Cancer,rs111730030,T,2e-08,
+2178,Breast Cancer,rs11205303,C,1e-14,
+2179,Breast Cancer,rs112056657,G,2e-06,
+2180,Breast Cancer,rs112332509,C,4e-06,
+2181,Breast Cancer,rs11264454,G,7e-07,
+2182,Breast Cancer,rs11779988,C,2e-06,
+2183,Breast Cancer,rs117911427,A,7e-06,
+2184,Breast Cancer,rs11822830,G,2e-14,
+2185,Breast Cancer,rs11960470,C,3e-06,
+2186,Breast Cancer,rs1200921,A,6e-06,
+2187,Breast Cancer,rs12077974,A,2e-07,
+2188,Breast Cancer,rs12091730,A,2e-10,
+2189,Breast Cancer,rs12095761,G,3e-06,
+2190,Breast Cancer,rs12110303,T,1e-11,
+2191,Breast Cancer,rs12134245,T,4e-06,
+2192,Breast Cancer,rs12189522,G,1e-06,
+2193,Breast Cancer,rs12250948,C,1e-14,
+2194,Breast Cancer,rs1230666,G,4e-10,
+2195,Breast Cancer,rs1233480,T,5e-08,
+2196,Breast Cancer,rs12458099,A,1e-12,
+2197,Breast Cancer,rs12474538,A,9e-08,
+2198,Breast Cancer,rs12481286,T,1e-07,
+2199,Breast Cancer,rs12506630,C,1e-06,
+2200,Breast Cancer,rs12519859,A,6e-09,
+2201,Breast Cancer,rs12682248,A,2e-06,
+2202,Breast Cancer,rs1268974,G,4e-36,
+2203,Breast Cancer,rs12718945,G,4e-06,
+2204,Breast Cancer,rs12765365,C,2e-08,
+2205,Breast Cancer,rs12870942,C,4e-09,
+2206,Breast Cancer,rs12904134,A,8e-06,
+2207,Breast Cancer,rs12918713,C,1e-07,
+2208,Breast Cancer,rs12920416,T,8e-07,
+2209,Breast Cancer,rs13008686,G,7e-06,
+2210,Breast Cancer,rs13079292,G,8e-06,
+2211,Breast Cancer,rs13160295,G,4e-06,
+2212,Breast Cancer,rs13183434,A,4e-17,
+2213,Breast Cancer,rs13195401,T,2e-09,
+2214,Breast Cancer,rs13214023,A,1e-09,
+2215,Breast Cancer,rs13230714,G,1e-06,
+2216,Breast Cancer,rs13416342,G,6e-06,
+2217,Breast Cancer,rs138024639,T,3e-09,
+2218,Breast Cancer,rs138672638,C,1e-08,
+2219,Breast Cancer,rs139059349,C,2e-07,
+2220,Breast Cancer,rs139424826,A,5e-13,
+2221,Breast Cancer,rs139824696,C,4e-06,
+2222,Breast Cancer,rs140035696,G,5e-06,
+2223,Breast Cancer,rs140494697,T,4e-06,
+2224,Breast Cancer,rs140614180,C,6e-08,
+2225,Breast Cancer,rs140783387,C,3e-07,
+2226,Breast Cancer,rs140945602,T,7e-08,
+2227,Breast Cancer,rs10816625,G,5e-18,1.11
+2228,Breast Cancer,rs17879961,G,1e-08,1.26
+2229,Breast Cancer,rs144727871,A,4e-06,
+2230,Breast Cancer,rs1450985,A,6e-08,
+2231,Breast Cancer,rs145407011,T,1e-06,
+2232,Breast Cancer,rs145455135,A,9e-06,
+2233,Breast Cancer,rs145711907,T,2e-06,
+2234,Breast Cancer,rs3094146,C,7e-07,
+2235,Breast Cancer,rs2045438,T,4e-06,
+2236,Breast Cancer,rs217727,A,4e-14,
+2237,Breast Cancer,rs225132,G,3e-06,
+2238,Breast Cancer,rs2271032,G,8e-06,
+2239,Breast Cancer,rs2295389,G,2e-06,
+2240,Breast Cancer,rs2303282,G,3e-07,
+2241,Breast Cancer,rs2307561,A,8e-18,
+2242,Breast Cancer,rs2384736,A,1e-06,
+2243,Breast Cancer,rs2403907,A,1.9999999999999998e-32,
+2244,Breast Cancer,rs2407156,G,2e-06,
+2245,Breast Cancer,rs245279,A,9e-07,
+2246,Breast Cancer,rs2506889,T,2e-20,
+2247,Breast Cancer,rs2523992,G,2e-07,
+2248,Breast Cancer,rs2589161,C,3e-08,
+2249,Breast Cancer,rs2617583,A,9e-07,
+2250,Breast Cancer,rs2714486,T,7e-10,
+2251,Breast Cancer,rs2724379,C,2e-07,
+2252,Breast Cancer,rs2726492,C,4e-10,
+2253,Breast Cancer,rs2732699,C,1e-10,
+2254,Breast Cancer,rs3116813,A,6e-07,
+2255,Breast Cancer,rs3124765,C,2e-06,
+2256,Breast Cancer,rs9257809,G,3e-08,
+2257,Breast Cancer,rs9262142,A,3e-06,
+2258,Breast Cancer,rs191218575,A,8e-06,
+2259,Breast Cancer,rs1937680,A,3e-07,
+2260,Breast Cancer,rs1962373,A,1e-06,
+2261,Breast Cancer,rs1966977,C,6e-07,
+2262,Breast Cancer,rs1971136,T,5e-09,
+2263,Breast Cancer,rs1973765,C,1e-37,
+2264,Breast Cancer,rs199501877,G,4e-07,
+2265,Breast Cancer,rs199817973,T,1e-06,
+2266,Breast Cancer,rs200087884,T,7e-07,
+2267,Breast Cancer,rs200255906,A,2e-14,
+2268,Breast Cancer,rs200725404,A,4e-10,
+2269,Breast Cancer,rs201177249,C,4e-06,
+2270,Breast Cancer,rs2754412,G,6e-07,
+2271,Breast Cancer,rs2771267,T,1e-06,
+2272,Breast Cancer,rs2810650,G,3e-09,
+2273,Breast Cancer,rs2853669,G,4e-21,
+2274,Breast Cancer,rs28599928,T,2e-06,
+2275,Breast Cancer,rs289997,T,3e-07,
+2276,Breast Cancer,rs2901157,G,2e-06,
+2277,Breast Cancer,rs2926585,G,3e-24,
+2278,Breast Cancer,rs3057314,C,6.9999999999999995e-25,
+2279,Breast Cancer,rs132383,A,5e-07,1.2458
+2280,Breast Cancer,rs17715065,C,1e-11,1.078
+2281,Breast Cancer,rs75174485,G,1e-07,1.3468013
+2282,Breast Cancer,rs725677,C,7e-12,1.0834
+2283,Breast Cancer,rs5809370,C,9e-07,1.084
+2284,Breast Cancer,rs2463523,A,3e-10,1.0887
+2285,Breast Cancer,rs138096085,C,4e-09,1.2026458
+2286,Breast Cancer,rs9397436,G,4e-18,1.1938874
+2287,Breast Cancer,rs12520604,C,5e-08,1.1734335
+2288,Breast Cancer,rs10096213,C,3e-09,1.094
+2289,Breast Cancer,rs12354821,T,3e-10,1.0954
+2290,Breast Cancer,rs6752414,T,2e-09,1.1307101
+2291,Breast Cancer,rs11675683,A,4e-08,1.0666
+2292,Breast Cancer,rs3974648,C,5e-07,1.0724
+2293,Breast Cancer,rs3731257,G,5e-08,1.0733
+2294,Breast Cancer,rs2736109,C,2e-08,1.0744
+2295,Breast Cancer,rs559044903,G,6e-07,1.1201972
+2296,Breast Cancer,rs747171037,C,5e-20,1.1087704
+2297,Breast Cancer,rs11150296,C,8e-12,1.0952903
+2298,Breast Cancer,rs910416,T,6e-16,1.0945709
+2299,Breast Cancer,rs199533,G,5e-08,1.078
+2300,Breast Cancer,rs7282349,C,1e-10,1.0809
+2301,Breast Cancer,rs187373836,A,5e-07,1.3374349
+2302,Breast Cancer,rs9421409,G,4e-09,1.084
+2303,Breast Cancer,rs62033406,A,3e-14,1.0901
+2304,Breast Cancer,rs7709971,A,6e-35,1.1953143
+2305,Breast Cancer,rs11957276,G,5e-11,1.0933
+2306,Breast Cancer,rs4911315,A,8e-07,1.0935
+2307,Breast Cancer,rs5995881,G,4e-16,1.1558021
+2308,Breast Cancer,rs8027730,C,3e-08,1.0638
+2309,Breast Cancer,rs4478919,A,5e-08,1.1305822
+2310,Breast Cancer,rs778040878,A,7e-07,1.1304545
+2311,Breast Cancer,rs189268208,G,7e-10,1.1225865
+2312,Breast Cancer,rs12616849,C,3e-09,1.1220826
+2313,Breast Cancer,rs576603,C,2e-08,1.0767
+2314,Breast Cancer,rs62070652,C,6e-09,1.0768
+2315,Breast Cancer,rs1250009,G,4e-09,1.0778
+2316,Breast Cancer,rs1852599,C,2e-08,1.0896807
+2317,Breast Cancer,rs10828247,G,3e-13,1.0887316
+2318,Breast Cancer,rs60778117,T,5e-09,1.0863662
+2319,Breast Cancer,rs11055888,G,6e-09,1.0829543
+2320,Breast Cancer,rs7686118,A,2e-07,1.0778185
+2321,Breast Cancer,rs2407064,A,3e-08,1.0743446
+2322,Breast Cancer,rs9289981,T,4e-10,1.0731916
+2323,Breast Cancer,rs774002109,A,4e-08,1.0729614
+2324,Breast Cancer,rs6020465,G,5e-07,1.0705492
+2325,Breast Cancer,rs56283082,A,2e-07,1.06929
+2326,Breast Cancer,rs10736577,G,8e-08,1.0634904
+2327,Breast Cancer,rs16857611,T,8e-07,1.0633773
+2328,Breast Cancer,rs1321917,G,2e-07,1.0604
+2329,Breast Cancer,rs112238765,C,1e-18,1.1053
+2330,Breast Cancer,rs2420946,A,2e-14,1.27
+2331,Breast Cancer,rs9348512,C,4e-08,1.18
+2332,Breast Cancer,rs619373,A,3e-06,1.3
+2333,Breast Cancer,rs184577,G,4e-06,1.18
+2334,Breast Cancer,rs2736108,C,2e-09,1.0638298
+2335,Breast Cancer,rs12662670,G,7e-27,1.17
+2336,Breast Cancer,rs182431363,C,4e-10,
+2337,Breast Cancer,rs2540431,T,2e-08,1.131
+2338,Breast Cancer,rs1838337,G,1e-08,1.128
+2339,Breast Cancer,rs7701466,T,2e-10,1.138
+2340,Breast Cancer,rs79160707,T,5e-08,1.2
+2341,Breast Cancer,rs6900157,C,5e-10,1.147
+2342,Breast Cancer,rs2912778,G,1e-19,1.201
+2343,Breast Cancer,rs805583,G,3e-10,1.17
+2344,Breast Cancer,rs10744856,G,1e-08,1.13
+2345,Breast Cancer,rs11161996,C,8e-07,1.1040659
+2346,Breast Cancer,rs11119434,T,8e-07,1.1362
+2347,Breast Cancer,rs6716937,G,4e-07,1.10278
+2348,Breast Cancer,rs9862599,G,1e-08,1.21574
+2349,Breast Cancer,rs61154548,T,8e-07,1.20178
+2350,Breast Cancer,rs9479169,C,1e-07,1.1070544
+2351,Breast Cancer,rs62578156,G,5e-06,1.1455
+2352,Breast Cancer,rs10842422,T,3e-06,1.0985
+2353,Breast Cancer,rs7315643,T,2e-07,1.1332666
+2354,Breast Cancer,rs1004983,A,3e-06,1.09858
+2355,Breast Cancer,rs9945779,A,7e-07,1.1705326
+2356,Breast Cancer,rs75286142,G,2e-09,1.15694
+2357,Breast Cancer,rs73006998,A,1e-10,0.93
+2358,Breast Cancer,rs8176636,T,5e-10,1.05
+2359,Breast Cancer,rs146699004,G,6e-10,0.96
+2360,Breast Cancer,rs71338792,A,3e-10,0.95
+2361,Breast Cancer,rs112776581,T,4e-14,1.21
+2362,Breast Cancer,rs2941741,A,8e-10,1.13
+2363,Breast Cancer,rs974336,T,6e-09,1.1
+2364,Breast Cancer,rs78053936,A,2e-08,1.11
+2365,Breast Cancer,rs61929345,T,5e-08,1.11
+2366,Breast Cancer,rs3803661,A,4e-08,1.08
+2367,Breast Cancer,rs12455117,A,2e-08,1.09
+2368,Breast Cancer,rs2823126,A,1e-10,0.9
+2369,Breast Cancer,rs377595512,C,4.0000000000000004e-24,0.8166771
+2370,Breast Cancer,rs1314084,T,4e-08,1.1657724
+2371,Breast Cancer,rs12483725,A,2e-09,1.1749938
+2372,Breast Cancer,rs10941678,A,7e-12,1.1487857
+2373,Breast Cancer,rs7763637,A,5e-13,1.1814078
+2374,Breast Cancer,rs17130230,A,3e-08,
+2375,Breast Cancer,rs117515012,A,2e-08,
+2376,Breast Cancer,rs700635,A,5e-16,
+2377,Breast Cancer,rs9967727,G,4e-08,
+2378,Breast Cancer,rs59885616,T,4e-14,
+2379,Breast Cancer,rs552647,A,3e-20,
+2380,Breast Cancer,rs7758080,G,1e-10,
+2381,Breast Cancer,rs6913578,C,1.9999999999999998e-30,
+2382,Breast Cancer,rs10447995,A,1e-22,
+2383,Breast Cancer,rs10092900,G,2e-17,
+2384,Breast Cancer,rs35054928,G,9e-106,
+2385,Breast Cancer,rs11012730,A,3e-10,
+2386,Breast Cancer,rs10995187,A,3e-11,
+2387,Breast Cancer,rs4980386,A,9e-17,
+2388,Breast Cancer,rs189084037,A,1e-08,
+2389,Breast Cancer,rs150460514,A,3e-08,
+2390,Breast Cancer,rs12885612,A,8e-09,
+2391,Breast Cancer,rs35378451,C,4e-15,
+2392,Breast Cancer,rs515726080,G,6e-18,
+2393,Breast Cancer,rs7193144,C,3e-16,
+2394,Breast Cancer,rs373491984,G,2e-08,
+2395,Breast Cancer,rs113934718,A,1e-08,
+2396,Breast Cancer,rs232320,C,6e-09,
+2397,Breast Cancer,rs11082442,G,3e-11,
+2398,Breast Cancer,rs145928162,T,3e-11,
+2399,Breast Cancer,rs1035142,G,3e-09,
+2400,Breast Cancer,rs2120596,A,8e-14,
+2401,Breast Cancer,rs55788307,C,4e-14,
+2402,Breast Cancer,rs6557160,C,6e-17,
+2403,Breast Cancer,rs9479090,A,5e-10,1.42
+2404,Breast Cancer,rs2277509,C,2e-11,
+2405,Breast Cancer,rs10498635,C,9e-13,
+2406,Breast Cancer,rs2290202,G,4e-20,
+2407,Breast Cancer,rs35958868,G,5e-13,
+2408,Breast Cancer,rs4277389,A,1.0000000000000001e-23,
+2409,Breast Cancer,rs244353,G,1e-31,
+2410,Breast Cancer,rs4808616,C,2.0000000000000002e-23,
+2411,Breast Cancer,rs2916074,G,2e-11,
+2412,Breast Cancer,rs3769823,A,1e-16,
+2413,Breast Cancer,rs2822991,T,6e-10,
+2414,Breast Cancer,rs1474961,C,2e-15,
+2415,Breast Cancer,rs9878602,T,4e-08,
+2416,Breast Cancer,rs6826366,G,3e-28,
+2417,Breast Cancer,rs12233670,C,8e-12,
+2418,Breast Cancer,rs381551,G,2e-12,
+2419,Breast Cancer,rs851980,T,9e-20,
+2420,Breast Cancer,rs2941478,A,5e-08,
+2421,Breast Cancer,rs4743687,C,5e-09,
+2422,Breast Cancer,rs495828,G,7e-11,
+2423,Breast Cancer,rs3814113,T,2e-43,
+2424,Breast Cancer,rs224121,A,2e-08,
+2425,Breast Cancer,rs7097066,G,7e-22,
+2426,Breast Cancer,rs4930103,G,2e-09,
+2427,Breast Cancer,rs4635969,G,2e-09,
+2428,Breast Cancer,rs13718,A,9e-09,
+2429,Breast Cancer,rs16886181,T,5e-122,
+2430,Breast Cancer,rs13212534,G,6e-09,
+2431,Breast Cancer,rs13207082,A,5e-11,
+2432,Breast Cancer,rs2524005,G,4e-08,
+2433,Breast Cancer,rs3117574,G,4e-10,
+2434,Breast Cancer,rs3217992,C,2e-21,
+2435,Breast Cancer,rs9411395,G,4.9999999999999996e-26,
+2436,Breast Cancer,rs370545,G,3e-18,
+2437,Breast Cancer,rs17474001,T,1.9999999999999998e-26,
+2438,Breast Cancer,rs12216896,T,2e-15,
+2439,Breast Cancer,rs12134456,G,9e-09,
+2440,Breast Cancer,rs1052067,A,3e-08,
+2441,Breast Cancer,rs9620778,A,2e-10,
+2442,Breast Cancer,rs70602,C,2e-15,
+2443,Breast Cancer,rs63750417,T,4e-18,
+2444,Breast Cancer,rs2887022,G,4e-13,
+2445,Breast Cancer,rs117191384,C,1e-11,
+2446,Breast Cancer,rs11244061,T,5e-11,
+2447,Breast Cancer,rs111423688,A,3e-11,
+2448,Breast Cancer,rs62056905,G,9e-20,
+2449,Breast Cancer,rs550057,T,1e-17,
+2450,Breast Cancer,rs3814316,A,1e-13,
+2451,Breast Cancer,rs199512,C,4e-18,
+2452,Breast Cancer,rs166870,T,3e-07,2.3
+2453,Breast Cancer,rs10825036,G,4e-07,2.26
+2454,Breast Cancer,rs9934948,C,6e-06,1.29
+2455,Breast Cancer,rs3784099,A,1e-07,1.49
+2456,Breast Cancer,rs4342822,G,7e-09,1.92
+2457,Breast Cancer,rs74949440,T,6e-08,2.59
+2458,Breast Cancer,rs1023996,G,2e-06,1.32
+2459,Breast Cancer,rs11013837,T,6e-06,1.37
+2460,Breast Cancer,rs1468348,T,5e-06,1.39
+2461,Breast Cancer,rs162277,C,7e-06,1.41
+2462,Breast Cancer,rs7794030,A,1e-06,1.43
+2463,Breast Cancer,rs34775372,C,6e-06,1.69
+2464,Breast Cancer,rs112822051,C,3e-06,2.56
+2465,Breast Cancer,rs113118767,T,9e-06,4.02
+2466,Breast Cancer,rs7702731,A,3e-28,
+2467,Breast Cancer,rs6451798,C,3e-21,
+2468,Breast Cancer,rs62061733,A,7e-17,
+2469,Breast Cancer,rs2905432,G,5e-22,
+2470,Breast Cancer,rs77642095,C,7e-21,
+2471,Breast Cancer,rs3809114,G,3e-10,
+2472,Breast Cancer,rs11855431,C,9e-08,
+2473,Breast Cancer,rs2281925,A,5e-08,
+2474,Breast Cancer,rs3752470,A,1e-10,
+2475,Breast Cancer,rs4147562,A,3e-09,
+2476,Breast Cancer,rs4149909,A,9e-15,
+2477,Breast Cancer,rs13001657,A,2e-08,
+2478,Breast Cancer,rs35417544,T,6e-22,
+2479,Breast Cancer,rs62408878,T,7e-09,
+2480,Breast Cancer,rs2735948,A,3e-08,
+2481,Breast Cancer,rs2853667,A,2e-13,
+2482,Breast Cancer,rs56083805,T,3e-11,
+2483,Breast Cancer,rs6554754,T,3.9999999999999996e-30,
+2484,Breast Cancer,rs851984,A,3e-23,
+2485,Breast Cancer,rs12555322,A,3e-11,
+2486,Breast Cancer,rs10768124,T,2e-08,
+2487,Breast Cancer,rs2298615,T,2e-08,
+2488,Breast Cancer,rs55811218,T,2e-08,
+2489,Breast Cancer,rs11066320,A,1e-09,
+2490,Breast Cancer,rs9316500,T,1e-08,
+2491,Breast Cancer,rs3790110,T,4e-09,
+2492,Breast Cancer,rs1763604,C,7e-09,
+2493,Breast Cancer,rs77548871,C,5e-09,
+2494,Breast Cancer,rs13007211,A,1e-09,
+2495,Breast Cancer,rs17041869,A,2e-09,
+2496,Breast Cancer,rs739704,A,3e-14,
+2497,Breast Cancer,rs17762342,A,2e-15,
+2498,Breast Cancer,rs3802173,T,3e-11,
+2499,Breast Cancer,rs9657608,T,1e-10,
+2500,Breast Cancer,rs7898685,A,3e-10,
+2501,Breast Cancer,rs568110,T,5e-12,
+2502,Breast Cancer,rs118151305,A,6e-09,
+2503,Breast Cancer,rs72932523,A,1e-09,
+2504,Breast Cancer,rs2628317,A,4e-16,
+2505,Breast Cancer,rs1469713,A,1e-10,
+2506,Coronary Artery Disease,rs10498345,T,9e-07,2.33
+2507,Coronary Artery Disease,rs10861032,C,1e-07,
+2508,Coronary Artery Disease,rs8095193,A,7e-06,1.6
+2509,Coronary Artery Disease,rs12818945,A,6e-06,2.38
+2510,Coronary Artery Disease,rs10757279,G,1e-07,
+2511,Coronary Artery Disease,rs148978709,C,2e-07,
+2512,Coronary Artery Disease,rs147555597,A,5e-21,
+2513,Coronary Artery Disease,rs147895362,C,2e-07,
+2514,Coronary Artery Disease,rs76661209,A,9e-07,
+2515,Coronary Artery Disease,rs2270836,T,9e-07,
+2516,Coronary Artery Disease,rs17005877,G,2e-07,
+2517,Coronary Artery Disease,rs9368648,T,3e-09,
+2518,Coronary Artery Disease,rs62325286,T,2e-08,
+2519,Coronary Artery Disease,rs80167961,C,2e-08,
+2520,Coronary Artery Disease,rs7123579,T,2e-08,
+2521,Coronary Artery Disease,rs4970935,C,3e-16,1.77
+2522,Coronary Artery Disease,rs9349379,A,5e-14,1.71
+2523,Coronary Artery Disease,rs11172113,T,1e-13,1.69
+2524,Coronary Artery Disease,rs6700122,T,1e-06,1.77
+2525,Coronary Artery Disease,rs28451064,G,1e-09,2.18
+2526,Coronary Artery Disease,rs189056,A,8e-06,1.35
+2527,Coronary Artery Disease,rs2015637,C,2e-09,1.79
+2528,Coronary Artery Disease,rs34370185,T,1e-12,1.34
+2529,Coronary Artery Disease,rs1146473,C,6e-09,1.32
+2530,Coronary Artery Disease,rs6828005,G,3e-11,1.29
+2531,Coronary Artery Disease,rs1507928,C,9e-09,1.25
+2532,Coronary Artery Disease,rs73102285,G,1e-08,1.27
+2533,Coronary Artery Disease,rs2736923,A,5e-08,1.44
+2534,Coronary Artery Disease,rs11021221,A,4e-15,1.47
+2535,Coronary Artery Disease,rs1689040,C,7e-10,1.28
+2536,Coronary Artery Disease,rs7326444,G,1e-10,1.31
+2537,Coronary Artery Disease,rs11838776,G,2e-18,1.5
+2538,Coronary Artery Disease,rs7174973,G,2e-13,1.54
+2539,Coronary Artery Disease,rs10851839,A,6e-11,1.32
+2540,Coronary Artery Disease,rs137507,T,3e-08,1.38
+2541,Coronary Artery Disease,rs17136627,A,2e-08,12.6
+2542,Coronary Artery Disease,rs899162,A,2e-07,3.2
+2543,Coronary Artery Disease,rs16921209,G,7e-09,32.22
+2544,Coronary Artery Disease,rs17076896,G,8e-09,21.03
+2545,Coronary Artery Disease,rs17782904,T,8e-08,45.95
+2546,Coronary Artery Disease,rs11793049,A,2e-07,
+2547,Coronary Artery Disease,rs12210919,C,4e-07,14.02
+2548,Coronary Artery Disease,rs12900413,C,7e-07,8.698
+2549,Coronary Artery Disease,rs10127456,T,1e-06,16.0
+2550,Coronary Artery Disease,rs6017006,A,2e-08,5.0
+2551,Coronary Artery Disease,rs7871579,C,5e-07,2.8
+2552,Coronary Artery Disease,rs2449565,G,2e-06,2.3
+2553,Coronary Artery Disease,rs10762437,G,4e-06,2.5
+2554,Coronary Artery Disease,rs35932034,C,4e-06,0.2
+2555,Coronary Artery Disease,rs1989051,C,4e-06,2.2
+2556,Coronary Artery Disease,rs35610040,G,9.999999999999999e-27,
+2557,Coronary Artery Disease,rs35150895,A,6e-07,3.4485
+2558,Coronary Artery Disease,rs7784948,T,2e-06,2.5804
+2559,Coronary Artery Disease,rs72935945,T,3e-06,2.2328
+2560,Coronary Artery Disease,rs4714457,C,5e-06,2.1262
+2561,Coronary Artery Disease,rs2438162,A,5e-06,2.0436
+2562,Coronary Artery Disease,rs9998058,C,6e-06,2.7108
+2563,Coronary Artery Disease,rs10421769,C,6e-06,0.4201
+2564,Coronary Artery Disease,rs3849111,A,7e-06,0.4318
+2565,Coronary Artery Disease,rs56222681,A,9e-06,2.3036
+2566,Coronary Artery Disease,rs1965492,C,9e-06,1.9761
+2567,Coronary Artery Disease,rs56076602,G,9e-06,2.7811
+2568,Coronary Artery Disease,rs12593069,C,7e-10,
+2569,Coronary Artery Disease,rs2343305,A,4e-07,
+2570,Coronary Artery Disease,rs6778944,G,7e-10,
+2571,Coronary Artery Disease,rs7835529,T,7e-10,
+2572,Coronary Artery Disease,rs200787930,T,1.0000000000000001e-29,33.333336
+2573,Coronary Artery Disease,rs61734696,G,2.0000000000000002e-29,33.333336
+2574,Coronary Artery Disease,rs199921354,T,3e-29,33.333336
+2575,Coronary Artery Disease,rs188378669,G,3e-29,33.333336
+2576,Coronary Artery Disease,rs115287176,G,9.999999999999999e-29,33.333336
+2577,Coronary Artery Disease,rs146092501,T,3e-28,25.0
+2578,Coronary Artery Disease,rs146879198,G,3e-28,25.0
+2579,Coronary Artery Disease,rs192210727,G,3e-23,10.0
+2580,Coronary Artery Disease,rs11823828,T,4e-21,1.54
+2581,Coronary Artery Disease,rs671,A,4e-15,1.41
+2582,Coronary Artery Disease,rs12734338,G,3e-07,29.0
+2583,Coronary Artery Disease,rs3853444,G,5e-06,7.69
+2584,Coronary Artery Disease,rs3883013,G,3e-07,29.0
+2585,Coronary Artery Disease,rs6905288,T,7e-08,1.23
+2586,Coronary Artery Disease,rs3869109,G,1e-09,1.14
+2587,Coronary Artery Disease,rs12524865,C,2e-07,1.11
+2588,Coronary Artery Disease,rs7136259,T,6e-10,1.11
+2589,Coronary Artery Disease,rs2123536,T,7e-11,1.12
+2590,Coronary Artery Disease,rs1842896,T,1e-11,1.14
+2591,Coronary Artery Disease,rs9268402,G,3e-15,1.16
+2592,Coronary Artery Disease,rs10757274,G,8.000000000000001e-45,1.37
+2593,Coronary Artery Disease,rs11066280,A,2e-11,1.19
+2594,Coronary Artery Disease,rs1333049,C,3e-56,1.24
+2595,Coronary Artery Disease,rs9982601,T,3e-10,1.18
+2596,Coronary Artery Disease,rs6725887,C,2e-08,1.14
+2597,Coronary Artery Disease,rs9818870,T,1e-07,1.11
+2598,Coronary Artery Disease,rs2281727,G,1e-07,1.07
+2599,Coronary Artery Disease,rs579459,C,2e-07,1.1
+2600,Coronary Artery Disease,rs9326246,C,3e-07,1.15
+2601,Coronary Artery Disease,rs3184504,T,9e-07,1.07
+2602,Coronary Artery Disease,rs1878406,T,1e-06,1.1
+2603,Coronary Artery Disease,rs2048327,C,1e-06,1.07
+2604,Coronary Artery Disease,rs4773144,G,2e-06,1.08
+2605,Coronary Artery Disease,rs1412444,T,4e-08,1.1
+2606,Coronary Artery Disease,rs365302,C,8e-07,1.11
+2607,Coronary Artery Disease,rs16893526,G,5e-06,1.13
+2608,Coronary Artery Disease,rs7865618,A,2e-27,1.18
+2609,Coronary Artery Disease,rs1994016,C,5e-13,1.19
+2610,Coronary Artery Disease,rs646776,T,8e-11,1.33
+2611,Coronary Artery Disease,rs4977574,G,5e-14,1.3
+2612,Coronary Artery Disease,rs2259816,T,5e-07,1.08
+2613,Coronary Artery Disease,rs3739998,C,1e-11,1.15
+2614,Coronary Artery Disease,rs11066015,A,5e-11,1.41
+2615,Coronary Artery Disease,rs886126,T,1e-06,1.14
+2616,Coronary Artery Disease,rs3782889,C,4e-14,1.26
+2617,Coronary Artery Disease,rs9508025,C,6e-07,1.14
+2618,Coronary Artery Disease,rs11752643,T,5e-07,1.26
+2619,Coronary Artery Disease,rs944797,C,6e-16,1.25
+2620,Coronary Artery Disease,rs17672135,T,2e-06,1.43
+2621,Coronary Artery Disease,rs688034,T,4e-06,1.11
+2622,Coronary Artery Disease,rs8055236,G,6e-06,1.91
+2623,Coronary Artery Disease,rs599839,A,4e-09,1.29
+2624,Coronary Artery Disease,rs17228212,C,2e-07,1.21
+2625,Coronary Artery Disease,rs6922269,A,3e-08,1.23
+2626,Coronary Artery Disease,rs2943634,C,2e-07,1.21
+2627,Coronary Artery Disease,rs501120,T,9e-08,1.33
+2628,Coronary Artery Disease,rs17465637,C,1e-06,1.2
+2629,Coronary Artery Disease,rs13232179,A,1e-06,1.67
+2630,Coronary Artery Disease,rs9546711,A,2e-06,1.66
+2631,Coronary Artery Disease,rs12526453,C,1e-09,1.1
+2632,Coronary Artery Disease,rs216172,C,1e-09,1.07
+2633,Coronary Artery Disease,rs46522,T,2e-08,1.06
+2634,Coronary Artery Disease,rs11206510,T,9e-08,1.08
+2635,Coronary Artery Disease,rs17114036,A,4e-19,1.17
+2636,Coronary Artery Disease,rs12190287,C,1e-12,1.08
+2637,Coronary Artery Disease,rs11556924,C,9e-18,1.09
+2638,Coronary Artery Disease,rs12413409,G,1e-09,1.12
+2639,Coronary Artery Disease,rs2895811,C,1e-10,1.07
+2640,Coronary Artery Disease,rs3798220,C,3e-11,1.51
+2641,Coronary Artery Disease,rs7651039,C,2e-06,1.06
+2642,Coronary Artery Disease,rs4937126,G,5e-06,1.06
+2643,Coronary Artery Disease,rs1746048,C,3e-10,1.09
+2644,Coronary Artery Disease,rs17609940,G,1e-08,1.07
+2645,Coronary Artery Disease,rs964184,G,1e-17,1.13
+2646,Coronary Artery Disease,rs3825807,A,1e-12,1.08
+2647,Coronary Artery Disease,rs2306374,C,3e-08,1.12
+2648,Coronary Artery Disease,rs1122608,G,1e-09,1.14
+2649,Coronary Artery Disease,rs4380028,C,4e-09,1.07
+2650,Coronary Artery Disease,rs10953541,C,3e-08,1.08
+2651,Coronary Artery Disease,rs2505083,C,4e-08,1.07
+2652,Coronary Artery Disease,rs1332844,T,6e-08,1.11
+2653,Coronary Artery Disease,rs974819,T,2e-09,1.07
+2654,Coronary Artery Disease,rs10933436,A,7e-06,1.06
+2655,Coronary Artery Disease,rs7808424,G,1e-06,1.1
+2656,Coronary Artery Disease,rs1231206,A,9e-10,1.07
+2657,Coronary Artery Disease,rs12936587,G,4e-10,1.07
+2658,Coronary Artery Disease,rs1970112,C,1e-08,1.27
+2659,Coronary Artery Disease,rs181176493,A,2e-07,3.88
+2660,Coronary Artery Disease,rs70962766,C,5e-07,0.2
+2661,Coronary Artery Disease,rs79237700,C,2e-06,1.82
+2662,Coronary Artery Disease,rs574480779,T,9e-07,2.27
+2663,Coronary Artery Disease,rs1344228,T,8e-06,1.33
+2664,Coronary Artery Disease,rs6055069,C,1e-06,0.38
+2665,Coronary Artery Disease,rs4970837,T,8e-16,1.07
+2666,Coronary Artery Disease,rs6587520,T,9e-09,1.04
+2667,Coronary Artery Disease,rs11810571,G,4e-08,1.05
+2668,Coronary Artery Disease,rs12129500,T,3e-09,1.05
+2669,Coronary Artery Disease,rs3008629,T,6e-12,1.07
+2670,Coronary Artery Disease,rs16986953,A,1e-13,1.1
+2671,Coronary Artery Disease,rs11124924,G,4e-09,1.09
+2672,Coronary Artery Disease,rs75331444,G,2e-08,1.11
+2673,Coronary Artery Disease,rs1058588,T,4e-11,1.05
+2674,Coronary Artery Disease,rs17678683,G,4e-08,1.08
+2675,Coronary Artery Disease,rs12619842,G,3e-08,1.05
+2676,Coronary Artery Disease,rs72926772,T,5e-18,1.13
+2677,Coronary Artery Disease,rs1250229,T,2e-14,1.07
+2678,Coronary Artery Disease,rs4458205,T,4e-08,1.05
+2679,Coronary Artery Disease,rs293914,G,4e-08,1.07
+2680,Coronary Artery Disease,rs11713141,C,1e-09,1.05
+2681,Coronary Artery Disease,rs12645070,A,3e-08,1.05
+2682,Coronary Artery Disease,rs11099097,T,4e-09,1.05
+2683,Coronary Artery Disease,rs11099493,A,4e-08,1.05
+2684,Coronary Artery Disease,rs1847331,G,2e-08,1.05
+2685,Coronary Artery Disease,rs73855810,A,2e-12,1.07
+2686,Coronary Artery Disease,rs34914832,G,3e-11,1.07
+2687,Coronary Artery Disease,rs9381634,A,3e-08,1.05
+2688,Coronary Artery Disease,rs6456496,C,5e-09,1.05
+2689,Coronary Artery Disease,rs3130342,C,3e-09,1.08
+2690,Coronary Artery Disease,rs67180937,G,3e-10,1.13
+2691,Coronary Artery Disease,rs12469758,A,1e-10,1.28
+2692,Coronary Artery Disease,rs2876301,T,2e-08,1.15
+2693,Coronary Artery Disease,rs2327429,T,1e-12,1.14
+2694,Coronary Artery Disease,rs10985348,C,7e-11,1.16
+2695,Coronary Artery Disease,rs9411378,A,2e-10,1.15
+2696,Coronary Artery Disease,rs11191559,C,2e-08,1.13
+2697,Coronary Artery Disease,rs11226017,C,3e-09,1.13
+2698,Coronary Artery Disease,rs1848599,C,4e-08,1.14
+2699,Coronary Artery Disease,rs933899,A,2e-09,1.15
+2700,Coronary Artery Disease,rs79105258,A,7e-32,1.31
+2701,Coronary Artery Disease,rs4773140,G,3e-09,1.14
+2702,Coronary Artery Disease,rs28455815,T,1e-08,1.12
+2703,Coronary Artery Disease,rs4533264,T,5e-08,1.14
+2704,Coronary Artery Disease,rs2738464,C,1e-09,1.13
+2705,Coronary Artery Disease,rs4803458,A,7e-09,1.12
+2706,Coronary Artery Disease,rs769446,T,2e-09,1.34
+2707,Coronary Artery Disease,rs6458545,C,1e-08,1.13
+2708,Coronary Artery Disease,rs7857345,C,1e-21,1.22
+2709,Coronary Artery Disease,rs507666,A,7e-10,1.14
+2710,Coronary Artery Disease,rs4766566,C,1.9999999999999998e-25,1.24
+2711,Coronary Artery Disease,rs1982072,T,9e-09,1.11
+2712,Coronary Artery Disease,rs56348932,A,2e-12,1.11
+2713,Coronary Artery Disease,rs55902013,C,4e-10,1.06
+2714,Coronary Artery Disease,rs12193307,A,2e-10,1.05
+2715,Coronary Artery Disease,rs56393506,T,5e-34,1.15
+2716,Coronary Artery Disease,rs2107595,A,1e-14,1.07
+2717,Coronary Artery Disease,rs2107713,T,5e-08,1.05
+2718,Coronary Artery Disease,rs2269997,G,1e-08,1.05
+2719,Coronary Artery Disease,rs328,C,3e-08,1.07
+2720,Coronary Artery Disease,rs2954026,T,5e-10,1.05
+2721,Coronary Artery Disease,rs10811650,G,2e-71,1.15
+2722,Coronary Artery Disease,rs10985343,C,4e-08,1.05
+2723,Coronary Artery Disease,rs643434,A,4e-09,1.05
+2724,Coronary Artery Disease,rs10826753,C,2e-08,1.04
+2725,Coronary Artery Disease,rs518594,T,1e-12,1.07
+2726,Coronary Artery Disease,rs2250644,T,3e-16,1.07
+2727,Coronary Artery Disease,rs7910601,G,9e-10,1.06
+2728,Coronary Artery Disease,rs2257129,C,4e-08,1.08
+2729,Coronary Artery Disease,rs360153,C,3e-08,1.04
+2730,Coronary Artery Disease,rs4757137,G,3e-08,1.05
+2731,Coronary Artery Disease,rs12801636,G,2e-08,1.05
+2732,Coronary Artery Disease,rs11226018,T,2e-08,1.04
+2733,Coronary Artery Disease,rs10488763,T,9e-10,1.06
+2734,Coronary Artery Disease,rs662799,G,6e-09,1.07
+2735,Coronary Artery Disease,rs10841443,G,1e-08,1.05
+2736,Coronary Artery Disease,rs75160195,T,2e-09,1.1
+2737,Coronary Artery Disease,rs117742247,T,3e-08,1.06
+2738,Coronary Artery Disease,rs7311541,C,2e-08,1.07
+2739,Coronary Artery Disease,rs1558803,A,1e-10,1.19
+2740,Coronary Artery Disease,rs3858704,A,3e-13,1.06
+2741,Coronary Artery Disease,rs7139170,A,7e-09,1.06
+2742,Coronary Artery Disease,rs2244608,G,2e-08,1.05
+2743,Coronary Artery Disease,rs9513116,A,3e-09,1.05
+2744,Coronary Artery Disease,rs55940034,G,4e-10,1.06
+2745,Coronary Artery Disease,rs2098297,G,4e-08,1.04
+2746,Coronary Artery Disease,rs12436072,A,5e-08,1.04
+2747,Coronary Artery Disease,rs56062135,C,5e-13,1.08
+2748,Coronary Artery Disease,rs62010554,G,3e-12,1.06
+2749,Coronary Artery Disease,rs734780,T,4e-10,1.07
+2750,Coronary Artery Disease,rs4932371,C,2e-11,1.06
+2751,Coronary Artery Disease,rs2000999,A,5e-10,1.06
+2752,Coronary Artery Disease,rs8057203,C,4e-08,1.04
+2753,Coronary Artery Disease,rs2641438,G,3e-09,1.05
+2754,Coronary Artery Disease,rs7214227,T,5e-11,1.07
+2755,Coronary Artery Disease,rs2812,C,1e-08,1.05
+2756,Coronary Artery Disease,rs3786723,T,2e-09,1.05
+2757,Coronary Artery Disease,rs2241714,T,4e-11,1.05
+2758,Coronary Artery Disease,rs56131196,A,2e-14,1.09
+2759,Coronary Artery Disease,rs7279974,C,1e-10,1.06
+2760,Coronary Artery Disease,rs6004124,G,3e-09,1.1
+2761,Coronary Artery Disease,rs7229520,A,4e-09,1.0693011
+2762,Coronary Artery Disease,rs17087335,T,5e-08,1.06
+2763,Coronary Artery Disease,rs2681472,G,6e-11,1.08
+2764,Coronary Artery Disease,rs4420638,G,7e-11,1.1
+2765,Coronary Artery Disease,rs7212798,C,2e-08,1.08
+2766,Coronary Artery Disease,rs180803,G,2e-10,1.2
+2767,Coronary Artery Disease,rs4593108,C,9e-10,1.07
+2768,Coronary Artery Disease,rs11830157,G,2e-09,1.12
+2769,Coronary Artery Disease,rs6689306,A,3e-09,1.06
+2770,Coronary Artery Disease,rs2891168,G,2e-98,1.21
+2771,Coronary Artery Disease,rs11191416,T,5e-09,1.08
+2772,Coronary Artery Disease,rs55730499,T,5.0000000000000005e-39,1.37
+2773,Coronary Artery Disease,rs10139550,G,1e-08,1.06
+2774,Coronary Artery Disease,rs7528419,A,2.0000000000000002e-23,1.12
+2775,Coronary Artery Disease,rs56336142,T,2e-08,1.07
+2776,Coronary Artery Disease,rs17514846,A,3e-07,1.05
+2777,Coronary Artery Disease,rs1870634,G,6e-15,1.08
+2778,Coronary Artery Disease,rs2954029,A,3e-06,1.04
+2779,Coronary Artery Disease,rs2519093,T,1e-11,1.08
+2780,Coronary Artery Disease,rs3918226,T,2e-09,1.14
+2781,Coronary Artery Disease,rs2128739,A,7e-11,1.07
+2782,Coronary Artery Disease,rs8042271,G,4e-08,1.1
+2783,Coronary Artery Disease,rs663129,A,3e-08,1.06
+2784,Coronary Artery Disease,rs7568458,A,4e-10,1.06
+2785,Coronary Artery Disease,rs12976411,A,1e-14,1.4925373
+2786,Coronary Artery Disease,rs10840293,A,1e-08,1.06
+2787,Coronary Artery Disease,rs72689147,G,6e-09,1.07
+2788,Coronary Artery Disease,rs4252185,C,1.9999999999999998e-32,1.34
+2789,Coronary Artery Disease,rs4468572,C,4e-16,1.08
+2790,Coronary Artery Disease,rs56289821,G,4e-15,1.14
+2791,Coronary Artery Disease,rs9970807,C,5e-14,1.13
+2792,Coronary Artery Disease,rs12202017,A,2e-11,1.07
+2793,Coronary Artery Disease,rs2487928,A,4e-11,1.06
+2794,Coronary Artery Disease,rs7421388,G,2e-10,1.2987013
+2795,Coronary Artery Disease,rs13082914,T,3e-10,1.21
+2796,Coronary Artery Disease,rs9985766,G,8e-10,1.35
+2797,Coronary Artery Disease,rs16880442,G,6e-07,1.3888888
+2798,Coronary Artery Disease,rs17775862,T,3e-07,1.55
+2799,Coronary Artery Disease,rs12541758,T,5e-13,1.25
+2800,Coronary Artery Disease,rs10738607,G,2e-13,1.2820514
+2801,Coronary Artery Disease,rs10981012,A,1e-09,1.34
+2802,Coronary Artery Disease,rs1746049,C,2e-09,1.25
+2803,Coronary Artery Disease,rs852787,T,2e-14,1.29
+2804,Coronary Artery Disease,rs9486729,G,4e-11,1.25
+2805,Coronary Artery Disease,rs17165136,A,9.999999999999999e-26,1.28
+2806,Coronary Artery Disease,rs16945184,C,6e-06,1.2048193
+2807,Coronary Artery Disease,rs2916260,T,2e-06,1.15
+2808,Coronary Artery Disease,rs2972146,T,1e-09,1.06
+2809,Coronary Artery Disease,rs12493885,C,1e-09,1.08
+2810,Coronary Artery Disease,rs1800449,T,3e-09,1.07
+2811,Coronary Artery Disease,rs11057401,T,4e-09,1.06
+2812,Coronary Artery Disease,rs17517928,C,1e-08,1.06
+2813,Coronary Artery Disease,rs17843797,G,2e-08,1.07
+2814,Coronary Artery Disease,rs748431,G,3e-08,1.05
+2815,Coronary Artery Disease,rs7623687,A,2e-08,1.08
+2816,Coronary Artery Disease,rs10857147,T,3e-08,1.06
+2817,Coronary Artery Disease,rs7678555,C,3e-08,1.06
+2818,Coronary Artery Disease,rs3851738,C,2e-08,1.05
+2819,Coronary Artery Disease,rs7500448,A,1e-08,1.06
+2820,Coronary Artery Disease,rs8108632,T,2e-08,1.05
+2821,Coronary Artery Disease,rs140570886,C,2e-21,1.92
+2822,Coronary Artery Disease,rs4977575,G,5e-23,1.24
+2823,Coronary Artery Disease,rs72675151,A,1e-05,0.7874
+2824,Coronary Artery Disease,rs118141904,C,5e-06,1.738
+2825,Coronary Artery Disease,rs12569313,A,7e-06,0.705
+2826,Coronary Artery Disease,rs189668056,A,7e-06,1.942
+2827,Coronary Artery Disease,rs145938855,A,1e-05,1.996
+2828,Coronary Artery Disease,rs78517437,A,4e-06,0.6656
+2829,Coronary Artery Disease,rs78492724,A,7e-06,1.62
+2830,Coronary Artery Disease,rs6876942,T,1e-06,1.403
+2831,Coronary Artery Disease,rs12520174,G,6e-06,0.7857
+2832,Coronary Artery Disease,rs10940235,T,8e-06,0.7881
+2833,Coronary Artery Disease,rs10940455,T,5e-06,0.7689
+2834,Coronary Artery Disease,rs282546,C,5e-06,0.7687
+2835,Coronary Artery Disease,rs26079,C,2e-06,0.7617
+2836,Coronary Artery Disease,rs6897040,T,9e-06,1.262
+2837,Coronary Artery Disease,rs75419803,C,6e-06,1.445
+2838,Coronary Artery Disease,rs79946623,A,2e-06,1.357
+2839,Coronary Artery Disease,rs76451285,A,8e-06,1.669
+2840,Coronary Artery Disease,rs10950702,A,3e-06,1.968
+2841,Coronary Artery Disease,rs141435206,G,4e-07,2.396
+2842,Coronary Artery Disease,rs1013781674,C,2e-06,2.395
+2843,Coronary Artery Disease,rs79166762,C,8e-09,2.282
+2844,Coronary Artery Disease,rs202083337,A,7e-06,2.116
+2845,Coronary Artery Disease,rs370536844,C,8e-06,2.329
+2846,Coronary Artery Disease,rs139382189,C,3e-07,1.565
+2847,Coronary Artery Disease,rs8006867,A,8e-06,1.29
+2848,Coronary Artery Disease,rs11631816,A,1e-05,1.43
+2849,Coronary Artery Disease,rs76097616,T,2e-06,2.371
+2850,Coronary Artery Disease,rs369813432,T,3e-06,2.031
+2851,Coronary Artery Disease,rs7269833,G,2e-06,1.346
+2852,Coronary Artery Disease,rs181100621,A,1e-05,2.208
+2853,Coronary Artery Disease,rs6813378,T,2e-06,1.843
+2854,Coronary Artery Disease,rs28524990,G,2e-06,1.278
+2855,Coronary Artery Disease,rs1903542,G,3e-06,1.313
+2856,Coronary Artery Disease,rs12658928,G,8e-06,1.546
+2857,Coronary Artery Disease,rs180780725,T,9e-06,2.065
+2858,Coronary Artery Disease,rs77202337,T,7e-06,1.433
+2859,Coronary Artery Disease,rs10111944,A,4e-07,2.048
+2860,Coronary Artery Disease,rs1806524,T,7e-06,0.7685
+2861,Coronary Artery Disease,rs117802009,C,8e-06,2.007
+2862,Coronary Artery Disease,rs3864814,A,6e-07,0.5708
+2863,Coronary Artery Disease,rs7110894,C,6e-07,2.348
+2864,Coronary Artery Disease,rs7132794,C,9e-06,1.255
+2865,Coronary Artery Disease,rs72656663,T,6e-06,1.634
+2866,Coronary Artery Disease,rs460452,A,8e-06,1.477
+2867,Coronary Artery Disease,rs7160041,T,4e-06,1.51
+2868,Coronary Artery Disease,rs12905312,C,1e-05,0.7286
+2869,Coronary Artery Disease,rs9897366,G,2e-06,1.402
+2870,Coronary Artery Disease,rs1550676,C,6e-09,2.607
+2871,Coronary Artery Disease,rs192256050,T,8e-07,1.452
+2872,Coronary Artery Disease,rs190283338,A,3e-07,3.946
+2873,Coronary Artery Disease,rs62125344,C,1e-06,2.937
+2874,Coronary Artery Disease,rs148894474,C,3e-06,2.171
+2875,Coronary Artery Disease,rs146397235,T,5e-07,3.412
+2876,Coronary Artery Disease,rs6552940,G,7e-06,1.431
+2877,Coronary Artery Disease,rs4646851,A,5e-06,2.978
+2878,Coronary Artery Disease,rs6922162,A,8e-06,1.515
+2879,Coronary Artery Disease,rs9389642,T,3e-06,0.6342
+2880,Coronary Artery Disease,rs13195460,G,8e-07,1.676
+2881,Coronary Artery Disease,rs146779282,C,9e-06,2.983
+2882,Coronary Artery Disease,rs375800732,C,6e-06,1.602
+2883,Coronary Artery Disease,rs55724440,C,7e-06,1.792
+2884,Coronary Artery Disease,rs150007474,A,6e-06,2.807
+2885,Coronary Artery Disease,rs148131145,C,2e-06,2.713
+2886,Coronary Artery Disease,rs145791702,T,1e-06,2.493
+2887,Coronary Artery Disease,rs985183711,G,7e-07,3.246
+2888,Coronary Artery Disease,rs139293840,A,1e-06,3.359
+2889,Coronary Artery Disease,rs142206837,G,9e-06,2.986
+2890,Coronary Artery Disease,rs79284447,C,6e-06,2.679
+2891,Coronary Artery Disease,rs148241618,A,9e-06,2.447
+2892,Coronary Artery Disease,rs2683043,G,7e-06,1.622
+2893,Coronary Artery Disease,rs1882758,C,5e-07,0.6509
+2894,Coronary Artery Disease,rs193244257,G,1e-06,2.678
+2895,Coronary Artery Disease,rs73155085,A,4e-06,1.542
+2896,Coronary Artery Disease,rs113716316,A,3e-06,
+2897,Coronary Artery Disease,rs603424,A,3e-06,
+2898,Coronary Artery Disease,rs2073533,T,3e-06,
+2899,Coronary Artery Disease,rs6736093,A,3e-06,
+2900,Coronary Artery Disease,rs7842194,A,3e-06,
+2901,Coronary Artery Disease,rs73104091,T,2e-06,
+2902,Coronary Artery Disease,rs73143584,A,2e-06,
+2903,Coronary Artery Disease,rs72945132,C,2e-06,
+2904,Coronary Artery Disease,rs79576311,A,2e-06,
+2905,Coronary Artery Disease,rs4906332,A,2e-06,
+2906,Coronary Artery Disease,rs4919044,T,4e-06,
+2907,Coronary Artery Disease,rs1223583,A,2e-06,
+2908,Coronary Artery Disease,rs9547692,A,2e-06,
+2909,Coronary Artery Disease,rs36069016,T,2e-06,
+2910,Coronary Artery Disease,rs4896604,A,1e-06,
+2911,Coronary Artery Disease,rs6905628,C,4e-06,
+2912,Coronary Artery Disease,rs587648,T,1e-06,
+2913,Coronary Artery Disease,rs67414899,C,4e-06,
+2914,Coronary Artery Disease,rs13102675,T,9e-07,
+2915,Coronary Artery Disease,rs10892564,A,4e-06,
+2916,Coronary Artery Disease,rs11809443,T,8e-07,
+2917,Coronary Artery Disease,rs2671540,T,4e-06,
+2918,Coronary Artery Disease,rs1185460,A,8e-07,
+2919,Coronary Artery Disease,rs61403071,T,8e-07,
+2920,Coronary Artery Disease,rs28522673,C,3e-06,
+2921,Coronary Artery Disease,rs10778546,A,9e-06,
+2922,Coronary Artery Disease,rs72711827,A,8e-06,
+2923,Coronary Artery Disease,rs2235642,T,8e-06,
+2924,Coronary Artery Disease,rs56307353,T,8e-06,
+2925,Coronary Artery Disease,rs12713421,A,7e-06,
+2926,Coronary Artery Disease,rs5993586,T,7e-06,
+2927,Coronary Artery Disease,rs6426551,A,7e-06,
+2928,Coronary Artery Disease,rs60724295,A,7e-06,
+2929,Coronary Artery Disease,rs4836390,T,6e-06,
+2930,Coronary Artery Disease,rs3741380,A,3e-10,
+2931,Coronary Artery Disease,rs4394694,A,6e-06,
+2932,Coronary Artery Disease,rs12144309,T,6e-06,
+2933,Coronary Artery Disease,rs13092876,A,6e-06,
+2934,Coronary Artery Disease,rs294883,T,5e-06,
+2935,Coronary Artery Disease,rs112001543,T,5e-06,
+2936,Coronary Artery Disease,rs337366,A,1e-06,
+2937,Coronary Artery Disease,rs13035055,T,4e-06,
+2938,Coronary Artery Disease,rs4934855,A,1e-06,
+2939,Coronary Artery Disease,rs360798,A,4e-06,
+2940,Coronary Artery Disease,rs62139085,A,8e-07,
+2941,Coronary Artery Disease,rs28607113,T,4e-06,
+2942,Coronary Artery Disease,rs117204111,A,2e-06,
+2943,Coronary Artery Disease,rs144961578,A,4e-06,
+2944,Coronary Artery Disease,rs72823390,T,4e-06,
+2945,Coronary Artery Disease,rs73059933,A,4e-06,
+2946,Coronary Artery Disease,rs1807214,A,5e-11,
+2947,Coronary Artery Disease,rs1050362,A,3e-11,
+2948,Coronary Artery Disease,rs2814944,A,2e-11,
+2949,Coronary Artery Disease,rs35158675,A,6e-28,
+2950,Coronary Artery Disease,rs602633,T,4e-58,
+2951,Coronary Artery Disease,rs17081933,A,1e-08,
+2952,Coronary Artery Disease,rs2843152,C,3e-08,
+2953,Coronary Artery Disease,rs2493298,A,2e-09,
+2954,Coronary Artery Disease,rs17037390,A,2e-07,
+2955,Coronary Artery Disease,rs35465346,A,9e-06,
+2956,Coronary Artery Disease,rs4072980,A,7e-10,
+2957,Coronary Artery Disease,rs11591147,T,1.9999999999999998e-25,
+2958,Coronary Artery Disease,rs4634932,T,9.999999999999999e-26,
+2959,Coronary Artery Disease,rs17416285,C,4e-13,
+2960,Coronary Artery Disease,rs950037,T,2e-06,
+2961,Coronary Artery Disease,rs11806316,A,5e-10,
+2962,Coronary Artery Disease,rs11204666,T,3e-07,
+2963,Coronary Artery Disease,rs4845625,T,6e-16,
+2964,Coronary Artery Disease,rs1892094,T,4e-13,
+2965,Coronary Artery Disease,rs6700559,T,4e-09,
+2966,Coronary Artery Disease,rs2820315,T,3e-11,
+2967,Coronary Artery Disease,rs11571537,T,8e-06,
+2968,Coronary Artery Disease,rs116843064,A,4e-10,
+2969,Coronary Artery Disease,rs12149545,A,1e-09,
+2970,Coronary Artery Disease,rs472109,C,6e-12,
+2971,Coronary Artery Disease,rs2571445,A,2e-12,
+2972,Coronary Artery Disease,rs17091891,T,5e-14,
+2973,Coronary Artery Disease,rs246600,T,7e-17,
+2974,Coronary Artery Disease,rs6494488,A,4e-08,
+2975,Coronary Artery Disease,rs55791371,A,2e-36,
+2976,Coronary Artery Disease,rs7137828,T,4e-27,
+2977,Coronary Artery Disease,rs17114046,A,8.000000000000001e-28,
+2978,Coronary Artery Disease,rs1334894,T,5e-08,
+2979,Coronary Artery Disease,rs72743461,A,6e-17,
+2980,Coronary Artery Disease,rs6743030,T,2.0000000000000002e-23,
+2981,Coronary Artery Disease,rs11170820,C,9e-13,
+2982,Coronary Artery Disease,rs4678145,C,1e-14,
+2983,Coronary Artery Disease,rs2681492,T,9e-15,
+2984,Coronary Artery Disease,rs1476098,A,9e-10,
+2985,Coronary Artery Disease,rs17608766,T,8e-10,
+2986,Coronary Artery Disease,rs9892152,T,6e-11,
+2987,Coronary Artery Disease,rs9319428,A,5e-11,
+2988,Coronary Artery Disease,rs34991912,T,3e-11,
+2989,Coronary Artery Disease,rs651821,T,7e-13,
+2990,Coronary Artery Disease,rs170041,T,4e-17,
+2991,Coronary Artery Disease,rs185244,T,2e-17,
+2992,Coronary Artery Disease,rs4803455,A,2e-17,
+2993,Coronary Artery Disease,rs9337951,A,2e-17,
+2994,Coronary Artery Disease,rs11057830,A,2e-18,
+2995,Coronary Artery Disease,rs6544713,T,2e-18,
+2996,Coronary Artery Disease,rs9515203,T,4.0000000000000004e-23,
+2997,Coronary Artery Disease,rs6728861,A,9.999999999999999e-33,
+2998,Coronary Artery Disease,rs11613352,T,5e-09,
+2999,Coronary Artery Disease,rs10947789,T,8e-12,
+3000,Coronary Artery Disease,rs11204892,A,3e-11,
+3001,Coronary Artery Disease,rs62076439,T,2e-15,
+3002,Coronary Artery Disease,rs3740390,T,5e-15,
+3003,Coronary Artery Disease,rs8003602,T,3e-16,
+3004,Coronary Artery Disease,rs8046696,T,2e-16,
+3005,Coronary Artery Disease,rs515135,T,6e-17,
+3006,Coronary Artery Disease,rs7412,T,2e-35,
+3007,Coronary Artery Disease,rs606452,A,5e-11,
+3008,Coronary Artery Disease,rs1169288,A,1e-18,
+3009,Coronary Artery Disease,rs6982502,T,8.000000000000001e-23,
+3010,Coronary Artery Disease,rs7173743,T,5e-36,
+3011,Coronary Artery Disease,rs6841581,A,5e-24,
+3012,Coronary Artery Disease,rs867186,A,7e-12,
+3013,Coronary Artery Disease,rs644045,A,3e-13,
+3014,Coronary Artery Disease,rs6909752,A,6e-14,
+3015,Coronary Artery Disease,rs789294,C,3e-15,
+3016,Coronary Artery Disease,rs2189839,A,5e-08,
+3017,Coronary Artery Disease,rs663640,T,2e-08,
+3018,Coronary Artery Disease,rs7926712,A,9e-09,
+3019,Coronary Artery Disease,rs7145159,T,4e-10,
+3020,Coronary Artery Disease,rs10237377,T,7e-09,
+3021,Coronary Artery Disease,rs11601507,A,6e-13,
+3022,Coronary Artery Disease,rs11509880,A,3e-08,
+3023,Coronary Artery Disease,rs1317507,A,8e-12,
+3024,Coronary Artery Disease,rs12897,A,1e-09,
+3025,Coronary Artery Disease,rs11107903,A,1e-12,
+3026,Coronary Artery Disease,rs7199941,A,9e-13,
+3027,Coronary Artery Disease,rs112941079,A,4e-13,
+3028,Coronary Artery Disease,rs71566846,T,3e-13,
+3029,Coronary Artery Disease,rs7251815,T,1e-13,
+3030,Coronary Artery Disease,rs2832227,A,4e-09,
+3031,Coronary Artery Disease,rs10512861,T,3e-09,
+3032,Coronary Artery Disease,rs7998440,A,1e-10,
+3033,Coronary Artery Disease,rs6984210,C,1e-11,
+3034,Coronary Artery Disease,rs6997340,T,5e-09,
+3035,Coronary Artery Disease,rs944172,T,4e-12,
+3036,Coronary Artery Disease,rs2074164,C,7e-09,
+3037,Coronary Artery Disease,rs11080107,T,3e-10,
+3038,Coronary Artery Disease,rs273909,A,5e-10,
+3039,Coronary Artery Disease,rs2252641,T,5e-13,
+3040,Coronary Artery Disease,rs7692387,A,3e-23,
+3041,Coronary Artery Disease,rs2075291,A,7e-10,1.636
+3042,Coronary Artery Disease,rs7783857,C,2e-06,
+3043,Coronary Artery Disease,rs6997330,C,8e-11,
+3044,Coronary Artery Disease,rs264,A,6e-12,
+3045,Coronary Artery Disease,rs11204085,T,5e-14,
+3046,Coronary Artery Disease,rs113756303,T,9e-07,
+3047,Coronary Artery Disease,rs12675257,T,1e-06,
+3048,Coronary Artery Disease,rs2342781,C,2e-07,
+3049,Coronary Artery Disease,rs475957,T,3e-06,
+3050,Coronary Artery Disease,rs896655,A,2e-12,
+3051,Coronary Artery Disease,rs3217978,A,2e-10,
+3052,Coronary Artery Disease,rs1322052,T,2e-07,
+3053,Coronary Artery Disease,rs4743150,T,4e-06,
+3054,Coronary Artery Disease,rs4149309,A,5e-06,
+3055,Coronary Artery Disease,rs1800978,C,4e-07,
+3056,Coronary Artery Disease,rs111245230,T,8e-09,
+3057,Coronary Artery Disease,rs10818576,T,8e-09,
+3058,Coronary Artery Disease,rs13118820,A,1e-10,
+3059,Coronary Artery Disease,rs145186794,A,9e-06,
+3060,Coronary Artery Disease,rs7696431,T,3e-08,
+3061,Coronary Artery Disease,rs4389656,A,1e-06,
+3062,Coronary Artery Disease,rs1508798,T,5e-13,
+3063,Coronary Artery Disease,rs459193,A,2e-07,
+3064,Coronary Artery Disease,rs832540,A,2e-08,
+3065,Coronary Artery Disease,rs9283706,C,2e-07,
+3066,Coronary Artery Disease,rs10056811,A,4e-06,
+3067,Coronary Artery Disease,rs113075218,A,4e-08,
+3068,Coronary Artery Disease,rs2081914,C,6e-08,
+3069,Coronary Artery Disease,rs9501744,T,2e-08,
+3070,Coronary Artery Disease,rs742115,T,4e-07,
+3071,Coronary Artery Disease,rs2876643,A,5e-12,
+3072,Coronary Artery Disease,rs9379774,A,7e-06,
+3073,Coronary Artery Disease,rs2072633,A,6e-13,
+3074,Coronary Artery Disease,rs2814993,A,1e-11,
+3075,Coronary Artery Disease,rs6930083,A,5e-07,
+3076,Coronary Artery Disease,rs1214752,T,1e-06,
+3077,Coronary Artery Disease,rs1888657,T,7e-08,
+3078,Coronary Artery Disease,rs1555321,A,3e-06,
+3079,Coronary Artery Disease,rs1254531,T,5e-07,
+3080,Coronary Artery Disease,rs1657346,C,2.0000000000000002e-24,
+3081,Coronary Artery Disease,rs2879627,A,3e-06,
+3082,Coronary Artery Disease,rs4403732,C,6e-06,
+3083,Coronary Artery Disease,rs12264252,A,2e-10,
+3084,Coronary Artery Disease,rs2246942,A,2.0000000000000002e-24,
+3085,Coronary Artery Disease,rs12765878,T,3e-09,
+3086,Coronary Artery Disease,rs7901695,T,6e-07,
+3087,Coronary Artery Disease,rs2268344,T,4e-07,
+3088,Coronary Artery Disease,rs77628708,T,3e-06,
+3089,Coronary Artery Disease,rs7941600,A,6e-06,
+3090,Coronary Artery Disease,rs11042937,T,3e-10,
+3091,Coronary Artery Disease,rs11022738,T,7e-08,
+3092,Coronary Artery Disease,rs11024074,T,7e-08,
+3093,Coronary Artery Disease,rs16917237,T,3e-06,
+3094,Coronary Artery Disease,rs2727020,C,8e-06,
+3095,Coronary Artery Disease,rs2281719,T,3e-07,
+3096,Coronary Artery Disease,rs699,A,2e-08,
+3097,Coronary Artery Disease,rs668948,A,2e-17,
+3098,Coronary Artery Disease,rs1550115,T,3e-07,
+3099,Coronary Artery Disease,rs2052923,T,3e-07,
+3100,Coronary Artery Disease,rs10495907,A,2e-07,
+3101,Coronary Artery Disease,rs898123,C,3e-06,
+3102,Coronary Artery Disease,rs1561198,T,2.0000000000000002e-23,
+3103,Coronary Artery Disease,rs10186133,T,1e-06,
+3104,Coronary Artery Disease,rs2923,C,4e-06,
+3105,Coronary Artery Disease,rs78490412,T,1e-07,
+3106,Coronary Artery Disease,rs33998987,T,1e-07,
+3107,Coronary Artery Disease,rs840616,T,3e-09,
+3108,Coronary Artery Disease,rs115654617,A,1.9999999999999998e-32,
+3109,Coronary Artery Disease,rs4566357,A,7e-06,
+3110,Coronary Artery Disease,rs1801251,A,3e-10,
+3111,Coronary Artery Disease,rs1405130,T,1e-08,
+3112,Coronary Artery Disease,rs13079221,C,2e-10,
+3113,Coronary Artery Disease,rs11718455,T,4e-06,
+3114,Coronary Artery Disease,rs7617773,T,2e-11,
+3115,Coronary Artery Disease,rs4411878,T,6e-06,
+3116,Coronary Artery Disease,rs9840892,A,2e-06,
+3117,Coronary Artery Disease,rs73222236,A,1e-08,
+3118,Coronary Artery Disease,rs16844401,A,4e-08,
+3119,Coronary Artery Disease,rs2616407,T,3e-06,
+3120,Coronary Artery Disease,rs57265257,A,2e-09,
+3121,Coronary Artery Disease,rs12500824,A,4e-10,
+3122,Coronary Artery Disease,rs2452600,T,1e-07,
+3123,Coronary Artery Disease,rs17035270,T,4e-07,
+3124,Coronary Artery Disease,rs11723436,A,6e-14,
+3125,Coronary Artery Disease,rs35879803,A,1e-06,
+3126,Coronary Artery Disease,rs6842241,A,1.0000000000000001e-23,
+3127,Coronary Artery Disease,rs4644046,A,1e-06,
+3128,Coronary Artery Disease,rs9367716,T,1e-09,
+3129,Coronary Artery Disease,rs4613862,A,1e-09,
+3130,Coronary Artery Disease,rs9486719,A,2e-07,
+3131,Coronary Artery Disease,rs1591805,A,2e-10,
+3132,Coronary Artery Disease,rs9493740,T,2e-07,
+3133,Coronary Artery Disease,rs2811686,T,1e-06,
+3134,Coronary Artery Disease,rs2153219,A,7e-07,
+3135,Coronary Artery Disease,rs12663498,T,1e-09,
+3136,Coronary Artery Disease,rs688359,A,5e-15,
+3137,Coronary Artery Disease,rs41272114,T,3e-11,
+3138,Coronary Artery Disease,rs41269133,T,2e-08,
+3139,Coronary Artery Disease,rs186696265,T,5e-92,
+3140,Coronary Artery Disease,rs10267593,A,5e-09,
+3141,Coronary Artery Disease,rs4719608,A,4e-06,
+3142,Coronary Artery Disease,rs35146811,A,2e-06,
+3143,Coronary Artery Disease,rs68170813,T,6e-06,
+3144,Coronary Artery Disease,rs10249651,T,4e-08,
+3145,Coronary Artery Disease,rs139016349,I,9e-12,1.08
+3146,Coronary Artery Disease,rs2306556,A,1e-09,1.07
+3147,Coronary Artery Disease,rs3130683,T,3e-08,1.08
+3148,Coronary Artery Disease,rs4472337,T,2e-06,1.06
+3149,Coronary Artery Disease,rs56015508,C,1e-07,1.06
+3150,Coronary Artery Disease,rs10455872,G,2.0000000000000003e-49,1.31
+3151,Coronary Artery Disease,rs112370447,T,1e-06,1.05
+3152,Coronary Artery Disease,rs2083636,T,6e-08,1.05
+3153,Coronary Artery Disease,rs56170783,A,2e-12,1.11
+3154,Coronary Artery Disease,rs585967,C,3e-08,1.07
+3155,Coronary Artery Disease,rs4299376,G,6e-10,1.06
+3156,Coronary Artery Disease,rs114123510,A,3e-19,1.13
+3157,Coronary Artery Disease,rs13003675,T,2e-06,1.04
+3158,Coronary Artery Disease,rs72627509,G,8e-08,1.06
+3159,Coronary Artery Disease,rs142695226,G,2e-09,1.071
+3160,Coronary Artery Disease,rs3993105,T,5e-08,1.048
+3161,Coronary Artery Disease,rs1964272,G,3e-08,1.047
+3162,Coronary Artery Disease,rs1887318,T,4e-12,1.06
+3163,Coronary Artery Disease,rs2839812,T,2e-11,1.06
+3164,Coronary Artery Disease,rs590121,T,2e-10,
+3165,Coronary Artery Disease,rs7947761,A,3e-09,
+3166,Coronary Artery Disease,rs12788925,A,5e-07,
+3167,Coronary Artery Disease,rs3758911,T,9e-08,
+3168,Coronary Artery Disease,rs73562014,A,1e-06,
+3169,Coronary Artery Disease,rs7933887,A,4e-07,
+3170,Coronary Artery Disease,rs3782774,A,1e-06,
+3171,Coronary Artery Disease,rs11610422,A,1e-06,
+3172,Coronary Artery Disease,rs12826942,A,2e-06,
+3173,Coronary Artery Disease,rs7306455,A,1e-08,
+3174,Coronary Artery Disease,rs9591012,A,7e-11,
+3175,Coronary Artery Disease,rs12866570,T,3e-15,
+3176,Coronary Artery Disease,rs9521678,T,2e-10,
+3177,Coronary Artery Disease,rs9583531,T,5e-08,
+3178,Coronary Artery Disease,rs12440045,A,2e-07,
+3179,Coronary Artery Disease,rs2507,A,7e-07,
+3180,Coronary Artery Disease,rs6495335,T,1.9999999999999998e-30,
+3181,Coronary Artery Disease,rs2880765,A,6e-07,
+3182,Coronary Artery Disease,rs17581137,A,1e-08,
+3183,Coronary Artery Disease,rs9972711,A,9e-07,
+3184,Coronary Artery Disease,rs1800775,A,6e-10,
+3185,Coronary Artery Disease,rs4888378,A,6e-15,
+3186,Coronary Artery Disease,rs13723,A,6e-10,
+3187,Coronary Artery Disease,rs2074158,T,2e-10,
+3188,Coronary Artery Disease,rs16948048,A,3e-16,
+3189,Coronary Artery Disease,rs3827066,T,3e-09,
+3190,Coronary Artery Disease,rs2286526,T,9e-06,
+3191,Coronary Artery Disease,rs1801689,A,8e-06,
+3192,Coronary Artery Disease,rs2836633,A,7e-06,
+3193,Coronary Artery Disease,rs35489971,A,1e-07,
+3194,Coronary Artery Disease,rs1135889,A,1e-07,
+3195,Coronary Artery Disease,rs3813127,A,2e-06,
+3196,Coronary Artery Disease,rs833509,T,2e-08,
+3197,Coronary Artery Disease,rs2000813,T,2e-06,
+3198,Coronary Artery Disease,rs34633411,T,6e-09,
+3199,Coronary Artery Disease,rs6511720,T,5e-41,
+3200,Coronary Artery Disease,rs3895874,A,1e-09,
+3201,Coronary Artery Disease,rs6129767,T,2e-08,
+3202,Coronary Artery Disease,rs8080784,T,2e-09,
+3203,Coronary Artery Disease,rs56313611,T,2e-08,
+3204,Coronary Artery Disease,rs1867624,T,8e-11,
+3205,Coronary Artery Disease,rs4148005,T,2e-06,
+3206,Coronary Artery Disease,rs2838344,A,2e-07,
+3207,Coronary Artery Disease,rs8141797,A,1e-07,
+3208,Coronary Artery Disease,rs5760293,T,9e-10,
+3209,Coronary Artery Disease,rs6006426,A,9e-08,
+3210,Coronary Artery Disease,rs17616661,A,2e-08,
+3211,Coronary Artery Disease,rs3745348,T,7e-08,
+3212,Coronary Artery Disease,rs73015714,C,8e-14,
+3213,Coronary Artery Disease,rs12980942,A,7e-15,
+3214,Coronary Artery Disease,rs2288874,T,4e-16,
+3215,Coronary Artery Disease,rs8103278,A,1e-08,
+3216,Coronary Artery Disease,rs425105,T,8e-06,
+3217,Coronary Artery Disease,rs13734,A,1e-06,
+3218,Coronary Artery Disease,rs6088590,T,2e-09,
+3219,Coronary Artery Disease,rs6060235,A,2e-07,
+3220,Coronary Artery Disease,rs73225842,T,2e-10,
+3221,Coronary Artery Disease,rs12019546,A,5e-07,
+3222,Coronary Artery Disease,rs10456100,T,5e-10,
+3223,Coronary Artery Disease,rs7766436,T,2e-12,
+3224,Coronary Artery Disease,rs1034246,T,6e-08,
+3225,Coronary Artery Disease,rs2140480,T,2e-11,
+3226,Coronary Artery Disease,rs61741262,T,2e-08,
+3227,Coronary Artery Disease,rs112941127,A,3e-08,
+3228,Coronary Artery Disease,rs10734649,T,3e-11,
+3229,Coronary Artery Disease,rs6740731,A,4e-09,
+3230,Coronary Artery Disease,rs7604735,T,3e-12,
+3231,Coronary Artery Disease,rs72862334,A,5e-06,
+3232,Coronary Artery Disease,rs685031,A,5e-10,
+3233,Coronary Artery Disease,rs4762479,T,7e-12,
+3234,Coronary Artery Disease,rs12753816,T,4e-07,
+3235,Coronary Artery Disease,rs223290,T,1e-11,
+3236,Coronary Artery Disease,rs7342694,T,1e-08,
+3237,Coronary Artery Disease,rs17263917,A,2e-12,
+3238,Coronary Artery Disease,rs112009435,A,6e-13,
+3239,Coronary Artery Disease,rs113230003,A,6e-06,
+3240,Coronary Artery Disease,rs4894803,A,2e-06,
+3241,Coronary Artery Disease,rs1077534,A,3e-10,
+3242,Coronary Artery Disease,rs148880716,A,4e-08,
+3243,Coronary Artery Disease,rs190569784,A,2e-06,
+3244,Coronary Artery Disease,rs61776719,A,1e-09,
+3245,Coronary Artery Disease,rs7795996,A,4e-06,
+3246,Coronary Artery Disease,rs11840502,A,1e-09,
+3247,Coronary Artery Disease,rs604723,T,3e-09,
+3248,Coronary Artery Disease,rs4237540,A,5e-10,
+3249,Coronary Artery Disease,rs8053891,A,3e-06,
+3250,Coronary Artery Disease,rs12999907,A,2e-11,
+3251,Coronary Artery Disease,rs4845570,T,8e-11,
+3252,Coronary Artery Disease,rs9513112,A,1e-09,
+3253,Coronary Artery Disease,rs117709627,T,3e-06,
+3254,Coronary Artery Disease,rs12495221,T,2e-07,
+3255,Coronary Artery Disease,rs73082363,T,6e-09,
+3256,Coronary Artery Disease,rs59372292,T,5e-07,
+3257,Coronary Artery Disease,rs9469890,T,1e-10,
+3258,Coronary Artery Disease,rs113244441,A,3e-07,
+3259,Coronary Artery Disease,rs17680741,T,2e-11,
+3260,Coronary Artery Disease,rs11698996,C,2e-07,
+3261,Coronary Artery Disease,rs840611,A,2e-06,
+3262,Coronary Artery Disease,rs4646248,T,2e-07,
+3263,Coronary Artery Disease,rs73193808,A,5e-09,
+3264,Coronary Artery Disease,rs8079951,A,3e-09,
+3265,Coronary Artery Disease,rs6557122,T,2e-06,
+3266,Coronary Artery Disease,rs2337157,A,2e-08,
+3267,Coronary Artery Disease,rs9964304,A,1e-09,
+3268,Coronary Artery Disease,rs8069437,T,2e-06,
+3269,Coronary Artery Disease,rs1912483,A,4e-06,
+3270,Coronary Artery Disease,rs236710,T,3e-08,
+3271,Coronary Artery Disease,rs56228609,T,3e-08,
+3272,Coronary Artery Disease,rs4918072,A,3e-09,
+3273,Coronary Artery Disease,rs10909862,A,2e-07,
+3274,Coronary Artery Disease,rs112635299,T,5e-10,
+3275,Coronary Artery Disease,rs11838267,T,1e-09,
+3276,Coronary Artery Disease,rs10131894,C,4e-09,
+3277,Coronary Artery Disease,rs41311933,T,6e-07,
+3278,Coronary Artery Disease,rs10806235,T,1e-08,
+3279,Coronary Artery Disease,rs566818,A,6e-06,
+3280,Coronary Artery Disease,rs659418,T,4e-09,
+3281,Coronary Artery Disease,rs34891485,T,3e-07,
+3282,Coronary Artery Disease,rs9912587,A,6e-07,
+3283,Coronary Artery Disease,rs12136712,A,4e-06,
+3284,Coronary Artery Disease,rs7220401,T,5e-10,
+3285,Coronary Artery Disease,rs1623003,T,6e-07,
+3286,Coronary Artery Disease,rs13088645,A,5e-07,
+3287,Coronary Artery Disease,rs216158,C,5e-07,
+3288,Coronary Artery Disease,rs35099186,T,1e-06,
+3289,Coronary Artery Disease,rs2454899,A,4e-07,
+3290,Coronary Artery Disease,rs4800401,T,4e-07,
+3291,Coronary Artery Disease,rs12154802,A,3e-07,
+3292,Coronary Artery Disease,rs67807996,A,7e-06,
+3293,Coronary Artery Disease,rs35006,C,2e-07,
+3294,Coronary Artery Disease,rs10961206,A,2e-07,
+3295,Coronary Artery Disease,rs10121140,A,4e-06,
+3296,Coronary Artery Disease,rs10055631,A,2e-06,
+3297,Coronary Artery Disease,rs256277,T,2e-07,
+3298,Coronary Artery Disease,rs60787346,A,5e-06,
+3299,Coronary Artery Disease,rs111684993,A,3e-07,
+3300,Coronary Artery Disease,rs11690462,A,2e-07,
+3301,Coronary Artery Disease,rs1291621,A,2e-07,
+3302,Coronary Artery Disease,rs13010737,A,7e-07,
+3303,Coronary Artery Disease,rs877549,A,1e-07,
+3304,Coronary Artery Disease,rs4345206,T,9e-08,
+3305,Coronary Artery Disease,rs4753788,A,7e-08,
+3306,Coronary Artery Disease,rs2546343,T,7e-07,
+3307,Coronary Artery Disease,rs12315434,A,5e-07,
+3308,Coronary Artery Disease,rs2107732,A,2e-07,
+3309,Coronary Artery Disease,rs56079296,A,2e-07,
+3310,Coronary Artery Disease,rs59950280,A,2e-06,
+3311,Coronary Artery Disease,rs17398575,A,7e-06,
+3312,Coronary Artery Disease,rs7809950,T,4e-08,
+3313,Coronary Artery Disease,rs6001960,A,3e-08,
+3314,Coronary Artery Disease,rs34156428,A,2e-08,
+3315,Coronary Artery Disease,rs57677839,A,1e-06,
+3316,Coronary Artery Disease,rs3936510,T,4e-08,
+3317,Coronary Artery Disease,rs62390615,A,4e-08,
+3318,Coronary Artery Disease,rs6541297,A,7e-06,
+3319,Coronary Artery Disease,rs147802096,A,1e-06,
+3320,Coronary Artery Disease,rs116161686,A,9e-08,
+3321,Coronary Artery Disease,rs76954792,T,2e-08,
+3322,Coronary Artery Disease,rs6460942,T,2e-06,
+3323,Coronary Artery Disease,rs4496284,A,4e-07,
+3324,Coronary Artery Disease,rs28416651,A,1e-08,
+3325,Coronary Artery Disease,rs10951983,A,1e-07,
+3326,Coronary Artery Disease,rs1008898,T,2e-06,
+3327,Coronary Artery Disease,rs1692580,T,2e-07,
+3328,Coronary Artery Disease,rs36096196,T,1e-08,
+3329,Coronary Artery Disease,rs4266144,C,3e-08,
+3330,Coronary Artery Disease,rs2679053,A,1e-07,
+3331,Coronary Artery Disease,rs582384,A,8e-09,
+3332,Coronary Artery Disease,rs1434538,T,6e-08,
+3333,Coronary Artery Disease,rs11760633,T,4e-06,
+3334,Coronary Artery Disease,rs2229357,G,3e-06,1.05
+3335,Coronary Artery Disease,rs10774625,A,9e-14,1.07
+3336,Coronary Artery Disease,rs1924981,T,2e-07,1.05
+3337,Coronary Artery Disease,rs11617955,T,4e-10,1.09
+3338,Coronary Artery Disease,rs7164479,T,6e-18,1.07
+3339,Coronary Artery Disease,rs2083460,T,1e-07,1.07
+3340,Coronary Artery Disease,rs2071382,T,7e-13,1.06
+3341,Coronary Artery Disease,rs247616,C,1e-06,1.04
+3342,Coronary Artery Disease,rs113348108,D,6e-08,1.05
+3343,Coronary Artery Disease,rs9897596,T,3e-06,1.04
+3344,Coronary Artery Disease,rs4643373,T,1e-06,1.05
+3345,Coronary Artery Disease,rs8068952,G,1e-09,1.07
+3346,Coronary Artery Disease,rs28601761,C,5e-20,
+3347,Coronary Artery Disease,rs4932373,A,1.9999999999999998e-25,
+3348,Coronary Artery Disease,rs72675530,A,3e-06,
+3349,Coronary Artery Disease,rs147055617,A,8e-14,
+3350,Coronary Artery Disease,rs4766578,A,6e-20,
+3351,Coronary Artery Disease,rs11637783,T,9.999999999999999e-31,
+3352,Coronary Artery Disease,rs17465982,A,9e-28,
+3353,Coronary Artery Disease,rs6919211,C,2e-07,
+3354,Coronary Artery Disease,rs1966248,A,3e-28,
+3355,Coronary Artery Disease,rs965652,A,1e-07,
+3356,Coronary Artery Disease,rs72934535,T,1.9999999999999998e-32,
+3357,Coronary Artery Disease,rs149487184,T,9e-06,
+3358,Coronary Artery Disease,rs157595,A,6e-06,
+3359,Coronary Artery Disease,rs11673093,A,1e-10,
+3360,Coronary Artery Disease,rs2738447,A,2e-08,
+3361,Coronary Artery Disease,rs318719,T,2e-06,
+3362,Coronary Artery Disease,rs12740374,T,2e-57,
+3363,Coronary Artery Disease,rs1629862,A,2e-07,
+3364,Coronary Artery Disease,rs11670056,T,4e-12,
+3365,Coronary Artery Disease,rs7011846,A,4e-09,
+3366,Coronary Artery Disease,rs15285,T,8e-14,
+3367,Coronary Artery Disease,rs10106652,A,7e-11,
+3368,Coronary Artery Disease,rs701145,T,4e-14,
+3369,Coronary Artery Disease,rs12414777,T,2e-12,
+3370,Coronary Artery Disease,rs655720,T,8e-12,
+3371,Coronary Artery Disease,rs57481061,C,9e-14,
+3372,Coronary Artery Disease,rs12930452,A,1e-15,
+3373,Coronary Artery Disease,rs12133641,A,3e-11,
+3374,Coronary Artery Disease,rs10131519,T,4e-08,
+3375,Coronary Artery Disease,rs7214663,A,6e-09,
+3376,Coronary Artery Disease,rs191896574,T,4e-09,
+3377,Coronary Artery Disease,rs7502499,A,1e-12,
+3378,Coronary Artery Disease,rs62068034,A,5e-07,
+3379,Coronary Artery Disease,rs7209460,T,1e-14,
+3380,Coronary Artery Disease,rs73045269,T,1e-14,
+3381,Coronary Artery Disease,rs10093110,A,2e-08,
+3382,Coronary Artery Disease,rs1321309,A,3e-08,
+3383,Coronary Artery Disease,rs11677932,A,3e-08,
+3384,Coronary Artery Disease,rs60154123,T,3e-08,
+3385,Coronary Artery Disease,rs885150,T,8e-10,
+3386,Coronary Artery Disease,rs4754698,C,7e-11,
+3387,Coronary Artery Disease,rs17228058,A,4e-17,
+3388,Coronary Artery Disease,rs10221742,A,2e-12,
+3389,Coronary Artery Disease,rs3732837,A,5e-16,
+3390,Coronary Artery Disease,rs6740322,A,5e-07,
+3391,Coronary Artery Disease,rs1250259,A,5e-11,
+3392,Coronary Artery Disease,rs495828,T,9e-12,
+3393,Coronary Artery Disease,rs11057840,A,2e-13,
+3394,Coronary Artery Disease,rs10128951,A,2e-08,
+3395,Coronary Artery Disease,rs2880099,A,1e-10,
+3396,Coronary Artery Disease,rs13131930,T,5e-19,
+3397,Coronary Artery Disease,rs2166529,T,2e-22,
+3398,Coronary Artery Disease,rs6810798,A,8e-14,
+3399,Coronary Artery Disease,rs17612693,A,6e-20,
+3400,Coronary Artery Disease,rs4773141,C,4e-17,
+3401,Coronary Artery Disease,rs10793514,T,5e-24,
+3402,Coronary Artery Disease,rs2457480,A,2e-16,
+3403,Coronary Artery Disease,rs12214416,A,9e-07,
+3404,Coronary Artery Disease,rs73596816,A,3e-10,
+3405,Coronary Artery Disease,rs145099029,A,5e-07,
+3406,Coronary Artery Disease,rs145542470,A,6e-10,
+3407,Coronary Artery Disease,rs7797644,T,2e-08,
+3408,Coronary Artery Disease,rs4752700,A,8e-11,
+3409,Coronary Artery Disease,rs975722,A,4e-08,
+3410,Coronary Artery Disease,rs260020,T,8e-10,
+3411,Coronary Artery Disease,rs667920,T,6e-15,
+3412,Coronary Artery Disease,rs3936511,A,4e-08,
+3413,Coronary Artery Disease,rs6102343,A,1e-08,
+3414,Coronary Artery Disease,rs7633770,A,1e-08,
+3415,Coronary Artery Disease,rs2145598,A,4e-08,
+3416,Coronary Artery Disease,rs7116641,T,1e-08,
+3417,Coronary Artery Disease,rs3775058,A,8e-09,
+3418,Coronary Artery Disease,rs61848342,T,6e-10,
+3419,Coronary Artery Disease,rs17080091,T,6e-09,
+3420,Coronary Artery Disease,rs74617384,T,3e-12,1.38
+3421,Coronary Artery Disease,rs10811652,C,6e-11,1.19
+3422,Coronary Artery Disease,rs564398,G,2e-07,
+3423,Coronary Artery Disease,rs980831,T,6e-06,
+3424,Coronary Artery Disease,rs12740679,G,2e-12,
+3425,Coronary Artery Disease,rs2133189,T,2e-11,
+3426,Coronary Artery Disease,rs2028900,T,2e-08,
+3427,Coronary Artery Disease,rs13065626,G,2e-08,
+3428,Coronary Artery Disease,rs13139571,A,3e-10,
+3429,Coronary Artery Disease,rs430918,T,5e-08,
+3430,Coronary Artery Disease,rs78707197,C,4e-10,
+3431,Coronary Artery Disease,rs12194592,G,2e-10,
+3432,Coronary Artery Disease,rs35237252,A,5e-08,
+3433,Coronary Artery Disease,rs1333042,G,2.0000000000000002e-72,
+3434,Coronary Artery Disease,rs150282530,T,3e-08,
+3435,Coronary Artery Disease,rs11238907,G,2e-08,
+3436,Coronary Artery Disease,rs378825,G,3e-08,
+3437,Coronary Artery Disease,rs7924772,G,2e-09,
+3438,Coronary Artery Disease,rs17696736,G,8e-11,
+3439,Coronary Artery Disease,rs638634,T,1e-08,
+3440,Coronary Artery Disease,rs11072811,C,1e-10,
+3441,Coronary Artery Disease,rs2011767,T,1e-13,
+3442,Coronary Artery Disease,rs7209400,T,2e-12,
+3443,Coronary Artery Disease,rs550780826,G,2e-08,
+3444,Coronary Artery Disease,rs56125973,C,4e-13,
+3445,Coronary Artery Disease,rs633185,C,9e-09,
+3446,Coronary Artery Disease,rs17206992,G,6e-06,2.32
+3447,Coronary Artery Disease,rs73018809,T,2e-07,3.5
+3448,Coronary Artery Disease,rs28641753,T,2e-07,2.1
+3449,Coronary Artery Disease,rs78031527,T,5e-06,1.7
+3450,Coronary Artery Disease,rs143537377,C,8e-06,1.88
+3451,Coronary Artery Disease,rs115829748,T,1e-09,3.16
+3452,Coronary Artery Disease,rs9354144,A,6e-06,1.71
+3453,Coronary Artery Disease,rs571622299,A,6e-06,4.12
+3454,Coronary Artery Disease,rs143723948,T,6e-07,1.65
+3455,Coronary Artery Disease,rs117826205,C,6e-06,2.72
+3456,Coronary Artery Disease,rs61879614,C,3e-06,2.94
+3457,Coronary Artery Disease,rs34319244,C,3e-06,1.51
+3458,Coronary Artery Disease,rs113114656,T,2e-06,2.67
+3459,Coronary Artery Disease,rs67213764,G,9e-06,1.48
+3460,Coronary Artery Disease,rs12482425,G,9e-06,1.5151515
+3461,Coronary Artery Disease,rs373009901,C,9e-06,3.94
+3462,Coronary Artery Disease,rs138760780,T,9e-06,3.48
+3463,Coronary Artery Disease,rs12344245,G,9e-06,2.52
+3464,Coronary Artery Disease,rs157333,C,1e-11,1.039
+3465,Coronary Artery Disease,rs62405422,T,3e-10,0.967
+3466,Coronary Artery Disease,rs9400480,C,4e-08,1.029
+3467,Coronary Artery Disease,rs9399136,T,2e-08,1.028
+3468,Coronary Artery Disease,rs215634,A,1e-08,1.026
+3469,Coronary Artery Disease,rs1019016,T,4e-10,1.029
+3470,Coronary Artery Disease,rs6953441,A,7e-09,1.028
+3471,Coronary Artery Disease,rs75655731,C,5e-08,0.918
+3472,Coronary Artery Disease,rs1536608,T,3e-08,1.025
+3473,Coronary Artery Disease,rs3935875,A,2e-08,0.968
+3474,Coronary Artery Disease,rs7077962,T,1e-08,1.032
+3475,Coronary Artery Disease,rs75082222,T,4e-08,0.973
+3476,Coronary Artery Disease,rs7903146,T,6e-09,1.031
+3477,Coronary Artery Disease,rs646668,A,3e-09,1.027
+3478,Coronary Artery Disease,rs2277383,T,3e-08,0.966
+3479,Coronary Artery Disease,rs62956461,A,3e-09,1.059
+3480,Coronary Artery Disease,rs8176893,A,8e-10,1.03
+3481,Coronary Artery Disease,rs12864131,A,1e-08,0.975
+3482,Coronary Artery Disease,rs10852238,A,4e-09,1.039
+3483,Coronary Artery Disease,rs111806192,T,2e-08,0.97
+3484,Coronary Artery Disease,rs16952537,A,4e-08,0.975
+3485,Coronary Artery Disease,rs16968377,T,3e-08,0.946
+3486,Coronary Artery Disease,rs8075861,A,5e-09,0.974
+3487,Coronary Artery Disease,rs5820757,G,7e-17,0.954
+3488,Coronary Artery Disease,rs11655024,T,4e-12,1.046
+3489,Coronary Artery Disease,rs11079536,T,1e-12,1.036
+3490,Coronary Artery Disease,rs2909217,T,4e-09,1.036
+3491,Coronary Artery Disease,rs2410859,T,4e-09,1.032
+3492,Coronary Artery Disease,rs9951447,T,4e-10,0.968
+3493,Coronary Artery Disease,rs9945890,T,3e-11,1.035
+3494,Coronary Artery Disease,rs12965923,A,6e-11,1.039
+3495,Coronary Artery Disease,rs11663411,T,3e-08,0.97
+3496,Coronary Artery Disease,rs476828,T,1e-08,0.968
+3497,Coronary Artery Disease,rs55997232,T,2e-44,0.892
+3498,Coronary Artery Disease,rs10422256,A,3e-10,1.032
+3499,Coronary Artery Disease,rs72658867,A,3e-14,0.821
+3500,Coronary Artery Disease,rs167479,T,6e-11,0.965
+3501,Coronary Artery Disease,rs7246865,A,2e-08,1.034
+3502,Coronary Artery Disease,rs10410487,T,3e-15,0.961
+3503,Coronary Artery Disease,rs78030362,A,1e-20,0.911
+3504,Coronary Artery Disease,rs768453105,G,7e-21,1.071
+3505,Coronary Artery Disease,rs11466359,A,5e-16,0.946
+3506,Coronary Artery Disease,rs1800469,A,4e-15,1.042
+3507,Coronary Artery Disease,rs429358,T,4e-38,0.913
+3508,Coronary Artery Disease,rs183657985,T,2e-10,1.041
+3509,Coronary Artery Disease,rs73025613,T,4e-08,1.025
+3510,Coronary Artery Disease,rs35219138,A,2e-08,0.971
+3511,Coronary Artery Disease,rs4452,T,1e-08,0.959
+3512,Coronary Artery Disease,rs738408,T,4e-09,0.971
+3513,Coronary Artery Disease,rs7413494,C,1e-09,0.965
+3514,Coronary Artery Disease,rs79598313,T,4e-08,1.1
+3515,Coronary Artery Disease,rs34232196,T,7e-20,0.948
+3516,Coronary Artery Disease,rs472495,T,4e-13,1.039
+3517,Coronary Artery Disease,rs11206803,T,7e-14,1.037
+3518,Coronary Artery Disease,rs71646019,T,6e-10,1.038
+3519,Coronary Artery Disease,rs1230666,A,5e-13,1.053
+3520,Coronary Artery Disease,rs61797068,C,4e-09,0.96
+3521,Coronary Artery Disease,rs11585169,A,1e-14,1.039
+3522,Coronary Artery Disease,rs6686750,A,2e-15,1.04
+3523,Coronary Artery Disease,rs61806987,A,7e-12,1.035
+3524,Coronary Artery Disease,rs17163363,T,5e-36,1.072
+3525,Coronary Artery Disease,rs4245791,T,1e-19,0.952
+3526,Coronary Artery Disease,rs76866386,T,2e-14,1.083
+3527,Coronary Artery Disease,rs36002015,G,8e-13,0.96
+3528,Coronary Artery Disease,rs13124853,A,3e-09,1.03
+3529,Coronary Artery Disease,rs13120678,A,4e-15,1.047
+3530,Coronary Artery Disease,rs7440763,T,4e-15,0.942
+3531,Coronary Artery Disease,rs3796587,C,6e-23,1.066
+3532,Coronary Artery Disease,rs869396,A,9e-12,0.967
+3533,Coronary Artery Disease,rs4074793,A,2e-08,0.949
+3534,Coronary Artery Disease,rs62362364,C,3e-09,0.963
+3535,Coronary Artery Disease,rs12916,T,1e-08,0.972
+3536,Coronary Artery Disease,rs112949822,A,1e-09,0.947
+3537,Coronary Artery Disease,rs13169691,T,3e-08,1.041
+3538,Coronary Artery Disease,rs4345341,A,4e-09,1.038
+3539,Coronary Artery Disease,rs6883598,A,1e-09,0.966
+3540,Coronary Artery Disease,rs10477741,T,3e-11,0.953
+3541,Coronary Artery Disease,rs249760,T,4e-08,1.032
+3542,Coronary Artery Disease,rs3776307,A,7e-12,0.965
+3543,Coronary Artery Disease,rs72836800,T,3e-11,1.052
+3544,Coronary Artery Disease,rs10176176,A,4e-31,0.944
+3545,Coronary Artery Disease,rs114192718,T,3e-08,1.056
+3546,Coronary Artery Disease,rs4662330,T,7e-12,1.047
+3547,Coronary Artery Disease,rs10928241,T,2e-14,1.042
+3548,Coronary Artery Disease,rs35611688,T,2e-08,0.971
+3549,Coronary Artery Disease,rs10930115,A,5e-11,1.041
+3550,Coronary Artery Disease,rs148812085,T,5e-50,1.121
+3551,Coronary Artery Disease,rs1250247,C,2e-18,1.049
+3552,Coronary Artery Disease,rs2161967,T,7e-11,1.033
+3553,Coronary Artery Disease,rs952227,A,1e-12,0.963
+3554,Coronary Artery Disease,rs4140748,A,1e-09,1.031
+3555,Coronary Artery Disease,rs283485,A,1e-10,1.034
+3556,Coronary Artery Disease,rs34759087,T,6e-11,0.948
+3557,Coronary Artery Disease,rs77347777,T,2e-09,0.95
+3558,Coronary Artery Disease,rs34330586,A,4e-15,1.048
+3559,Coronary Artery Disease,rs357494,A,5e-14,1.059
+3560,Coronary Artery Disease,rs34229028,A,3e-09,0.966
+3561,Coronary Artery Disease,rs17083333,T,1e-08,0.97
+3562,Coronary Artery Disease,rs781663,A,1e-11,0.958
+3563,Coronary Artery Disease,rs243071,A,3e-08,1.029
+3564,Coronary Artery Disease,rs36033161,T,1.0000000000000001e-24,1.07
+3565,Coronary Artery Disease,rs588136,T,7e-10,0.964
+3566,Coronary Artery Disease,rs112238647,T,1e-09,0.933
+3567,Coronary Artery Disease,rs7177201,T,3e-32,1.078
+3568,Coronary Artery Disease,rs2683260,T,3e-10,1.041
+3569,Coronary Artery Disease,rs7183988,T,3e-33,1.062
+3570,Coronary Artery Disease,rs12691049,A,3e-09,0.97
+3571,Coronary Artery Disease,rs12446515,T,1e-11,0.963
+3572,Coronary Artery Disease,rs12445401,A,9e-09,0.964
+3573,Coronary Artery Disease,rs10493891,T,2e-08,0.968
+3574,Coronary Artery Disease,rs7189462,T,8e-09,1.029
+3575,Coronary Artery Disease,rs4790881,A,1e-19,1.049
+3576,Coronary Artery Disease,rs12936927,T,3e-10,0.965
+3577,Coronary Artery Disease,rs12952244,A,2e-10,0.948
+3578,Coronary Artery Disease,rs8068844,T,7e-10,0.969
+3579,Coronary Artery Disease,rs8108474,T,1e-11,1.036
+3580,Coronary Artery Disease,rs1132274,A,2e-08,1.038
+3581,Coronary Artery Disease,rs6088595,A,1e-10,1.034
+3582,Coronary Artery Disease,rs17406518,A,3e-09,1.048
+3583,Coronary Artery Disease,rs2207132,A,7e-10,1.096
+3584,Coronary Artery Disease,rs8124182,A,4e-12,1.048
+3585,Coronary Artery Disease,rs2008614,T,1e-09,1.044
+3586,Coronary Artery Disease,rs6026739,A,1e-10,0.953
+3587,Coronary Artery Disease,rs71313931,C,2e-09,0.968
+3588,Coronary Artery Disease,rs12484557,A,4e-09,1.061
+3589,Coronary Artery Disease,rs5760309,T,3e-09,0.902
+3590,Coronary Artery Disease,rs139012,A,2e-08,0.968
+3591,Coronary Artery Disease,rs6656344,A,5e-09,0.974
+3592,Coronary Artery Disease,rs2285219,A,4e-09,1.028
+3593,Coronary Artery Disease,rs12468870,C,5e-10,0.973
+3594,Coronary Artery Disease,rs4954580,T,3e-09,0.965
+3595,Coronary Artery Disease,rs1430158,T,2e-08,0.974
+3596,Coronary Artery Disease,rs7622417,C,1e-08,1.025
+3597,Coronary Artery Disease,rs11721038,T,4e-09,1.046
+3598,Coronary Artery Disease,rs12641981,T,2e-09,1.028
+3599,Coronary Artery Disease,rs2652682,A,1e-09,0.971
+3600,Coronary Artery Disease,rs651007,T,1e-18,1.055
+3601,Coronary Artery Disease,rs17566555,A,4e-11,0.968
+3602,Coronary Artery Disease,rs494207,A,1.0000000000000001e-24,0.927
+3603,Coronary Artery Disease,rs1051338,T,9.999999999999999e-29,0.943
+3604,Coronary Artery Disease,rs55753709,T,2e-13,0.963
+3605,Coronary Artery Disease,rs884811,C,3e-09,1.03
+3606,Coronary Artery Disease,rs77787671,T,3e-15,0.934
+3607,Coronary Artery Disease,rs2067831,C,3e-14,1.043
+3608,Coronary Artery Disease,rs2672592,T,2e-10,0.968
+3609,Coronary Artery Disease,rs4537761,T,2e-09,0.946
+3610,Coronary Artery Disease,rs11316597,A,8e-09,1.035
+3611,Coronary Artery Disease,rs7118294,T,2e-11,0.968
+3612,Coronary Artery Disease,rs2306363,T,1e-11,0.96
+3613,Coronary Artery Disease,rs584961,A,2e-14,0.94
+3614,Coronary Artery Disease,rs1892971,A,5e-10,0.962
+3615,Coronary Artery Disease,rs10486389,A,7e-10,0.966
+3616,Coronary Artery Disease,rs2215614,A,3e-11,1.034
+3617,Coronary Artery Disease,rs12112877,T,4e-10,0.966
+3618,Coronary Artery Disease,rs13222797,T,6e-10,0.97
+3619,Coronary Artery Disease,rs756142636,T,4e-08,0.965
+3620,Coronary Artery Disease,rs4646249,T,8e-10,1.035
+3621,Coronary Artery Disease,rs268,A,4e-11,0.876
+3622,Coronary Artery Disease,rs894211,T,1e-16,0.955
+3623,Coronary Artery Disease,rs66778572,A,1e-12,0.962
+3624,Coronary Artery Disease,rs56408342,A,2e-12,1.082
+3625,Coronary Artery Disease,rs1510758,A,3e-08,1.032
+3626,Coronary Artery Disease,rs34917849,C,1e-08,1.043
+3627,Coronary Artery Disease,rs2001846,T,6e-22,1.048
+3628,Coronary Artery Disease,rs10811183,A,2e-08,1.038
+3629,Coronary Artery Disease,rs11523031,A,4e-19,1.046
+3630,Coronary Artery Disease,rs76959412,C,3e-09,0.881
+3631,Coronary Artery Disease,rs6475608,T,1e-41,0.914
+3632,Coronary Artery Disease,rs1967604,A,5e-16,1.046
+3633,Coronary Artery Disease,rs41312891,G,6e-09,0.94
+3634,Coronary Artery Disease,rs9266631,A,6e-11,0.958
+3635,Coronary Artery Disease,rs9469899,A,1e-11,1.036
+3636,Coronary Artery Disease,rs733701,T,3e-13,1.044
+3637,Coronary Artery Disease,rs11752218,T,4e-14,1.078
+3638,Coronary Artery Disease,rs9361867,T,5e-12,0.965
+3639,Coronary Artery Disease,rs2983896,A,1e-09,0.965
+3640,Coronary Artery Disease,rs35510806,T,5e-10,1.034
+3641,Coronary Artery Disease,rs2327426,T,3.9999999999999996e-30,1.063
+3642,Coronary Artery Disease,rs2492304,A,1e-12,1.036
+3643,Coronary Artery Disease,rs17080093,T,2e-08,0.951
+3644,Coronary Artery Disease,rs6932293,T,2e-37,0.769
+3645,Coronary Artery Disease,rs56195640,A,3e-10,1.096
+3646,Coronary Artery Disease,rs79018195,T,3e-09,0.708
+3647,Coronary Artery Disease,rs192425087,T,7e-13,0.706
+3648,Coronary Artery Disease,rs1998043,A,1e-20,0.94
+3649,Coronary Artery Disease,rs28867400,A,3e-15,1.439
+3650,Coronary Artery Disease,rs184278183,T,2e-33,1.445
+3651,Coronary Artery Disease,rs62435159,A,2e-08,0.963
+3652,Coronary Artery Disease,rs10790800,A,9e-09,1.031
+3653,Coronary Artery Disease,rs72447384,T,2e-11,0.945
+3654,Coronary Artery Disease,rs34606058,T,8e-09,0.971
+3655,Coronary Artery Disease,rs7133378,A,4e-09,0.969
+3656,Coronary Artery Disease,rs7485656,A,3e-22,0.936
+3657,Coronary Artery Disease,rs7296737,T,7e-13,0.964
+3658,Coronary Artery Disease,rs17086617,T,1e-13,0.961
+3659,Coronary Artery Disease,rs7991314,T,2e-08,1.029
+3660,Coronary Artery Disease,rs8000794,C,4e-08,1.027
+3661,Coronary Artery Disease,rs3783113,T,7e-15,1.041
+3662,Coronary Artery Disease,rs11619113,C,2e-19,0.935
+3663,Coronary Artery Disease,rs7333991,T,5e-17,0.951
+3664,Coronary Artery Disease,rs4907571,T,3e-08,0.965
+3665,Coronary Artery Disease,rs1177562,T,8e-11,1.033
+3666,Coronary Artery Disease,rs4938809,T,5e-08,0.971
+3667,Coronary Artery Disease,rs10171703,C,2e-08,1.21
+3668,Coronary Artery Disease,rs145306069,T,8e-06,1.15
+3669,Coronary Artery Disease,rs305960,G,8e-06,1.16
+3670,Coronary Artery Disease,rs4650716,A,1e-08,1.02
+3671,Coronary Artery Disease,rs57812455,A,4e-08,0.97
+3672,Coronary Artery Disease,rs11220480,A,4e-08,1.03
+3673,Coronary Artery Disease,rs1859440,T,1e-09,0.97
+3674,Coronary Artery Disease,rs3959554,A,7e-09,0.97
+3675,Coronary Artery Disease,rs7177107,A,6e-09,1.03
+3676,Coronary Artery Disease,rs9930506,A,4e-11,0.97
+3677,Coronary Artery Disease,rs9302604,A,1e-11,0.97
+3678,Coronary Artery Disease,rs1077715,A,4e-08,1.03
+3679,Coronary Artery Disease,rs77420750,A,7e-09,1.03
+3680,Coronary Artery Disease,rs4809766,T,5e-08,1.03
+3681,Coronary Artery Disease,rs4819811,A,6e-09,1.03
+3682,Coronary Artery Disease,rs5934659,T,6e-09,0.96
+3683,Coronary Artery Disease,rs2066280,A,5e-08,1.03
+3684,Coronary Artery Disease,rs7884019,C,4e-15,0.97
+3685,Coronary Artery Disease,rs5929743,G,5e-09,0.97
+3686,Coronary Artery Disease,rs5975828,C,9e-09,0.96
+3687,Coronary Artery Disease,rs2715879,A,6e-09,1.03
+3688,Coronary Artery Disease,rs6759676,T,2e-08,0.98
+3689,Coronary Artery Disease,rs73070813,A,2e-08,1.06
+3690,Coronary Artery Disease,rs7719168,A,4e-09,0.96
+3691,Coronary Artery Disease,rs79968656,A,5e-08,0.96
+3692,Coronary Artery Disease,rs29266,A,1e-09,0.95
+3693,Coronary Artery Disease,rs11152953,T,9e-10,0.97
+3694,Coronary Artery Disease,rs6557894,T,1e-08,1.03
+3695,Coronary Artery Disease,rs504564,A,2e-08,1.03
+3696,Coronary Artery Disease,rs1867073,A,1e-09,0.97
+3697,Coronary Artery Disease,rs7117780,A,7e-10,1.03
+3698,Coronary Artery Disease,rs4617217,T,3e-08,
+3699,Coronary Artery Disease,rs7873551,C,8e-10,
+3700,Coronary Artery Disease,rs62578408,C,8e-09,
+3701,Coronary Artery Disease,rs161231,T,2e-08,
+3702,Coronary Artery Disease,rs2218584,T,5e-09,
+3703,Coronary Artery Disease,rs17101521,T,7e-10,
+3704,Coronary Artery Disease,rs56210063,C,3e-12,
+3705,Coronary Artery Disease,rs6265,T,4e-08,
+3706,Coronary Artery Disease,rs11213945,A,5e-10,
+3707,Coronary Artery Disease,rs12820154,A,3e-08,
+3708,Coronary Artery Disease,rs143405823,T,1e-08,
+3709,Coronary Artery Disease,rs1558802,A,6e-10,
+3710,Coronary Artery Disease,rs4767278,C,4e-08,
+3711,Coronary Artery Disease,rs36127550,T,1e-08,
+3712,Coronary Artery Disease,rs1956028,T,1e-09,
+3713,Coronary Artery Disease,rs11633313,A,2e-09,
+3714,Coronary Artery Disease,rs55880988,A,5e-09,
+3715,Coronary Artery Disease,rs78532451,T,3e-10,
+3716,Coronary Artery Disease,rs191615952,A,4e-09,
+3717,Coronary Artery Disease,rs12185519,T,2e-08,
+3718,Coronary Artery Disease,rs8102320,A,9e-09,
+3719,Coronary Artery Disease,rs2152314,T,2e-08,
+3720,Coronary Artery Disease,rs12733512,T,3e-08,
+3721,Coronary Artery Disease,rs12022672,A,3e-08,
+3722,Coronary Artery Disease,rs12048743,C,1e-08,
+3723,Coronary Artery Disease,rs56236159,T,3e-08,
+3724,Coronary Artery Disease,rs4346430,A,2e-08,
+3725,Coronary Artery Disease,rs16853198,A,2e-08,
+3726,Coronary Artery Disease,rs10938398,A,5e-08,
+3727,Coronary Artery Disease,rs7439567,A,2e-08,
+3728,Coronary Artery Disease,rs1032763,T,3e-08,
+3729,Coronary Artery Disease,rs27660,C,3e-08,
+3730,Coronary Artery Disease,rs288173,A,2e-09,
+3731,Coronary Artery Disease,rs73796819,A,5e-09,
+3732,Coronary Artery Disease,rs39929,A,9e-09,
+3733,Coronary Artery Disease,rs11465228,T,3e-08,
+3734,Coronary Artery Disease,rs6597292,T,3e-08,
+3735,Coronary Artery Disease,rs62397561,T,1e-09,
+3736,Coronary Artery Disease,rs79717953,T,2e-08,
+3737,Coronary Artery Disease,rs917191,C,2e-10,
+3738,Coronary Artery Disease,rs1480146,A,8e-09,
+3739,Coronary Artery Disease,rs9298506,A,3e-08,
+3740,Coronary Artery Disease,rs3019173,T,3e-09,
+3741,Coronary Artery Disease,rs12046497,T,9e-09,
+3742,Coronary Artery Disease,rs12047439,A,2e-08,
+3743,Coronary Artery Disease,rs2064040,A,7e-09,
+3744,Coronary Artery Disease,rs137525,T,2e-08,
+3745,Coronary Artery Disease,rs1410127,T,1e-09,
+3746,Coronary Artery Disease,rs398484,T,2e-08,
+3747,Coronary Artery Disease,rs2342572,T,2e-08,
+3748,Coronary Artery Disease,rs147967693,T,2e-08,
+3749,Coronary Artery Disease,rs10740732,A,6e-07,
+3750,Coronary Artery Disease,rs4327120,A,8e-07,
+3751,Coronary Artery Disease,rs895953,T,9e-08,
+3752,Coronary Artery Disease,rs3741782,A,3e-09,
+3753,Coronary Artery Disease,rs7033354,T,1e-08,
+3754,Coronary Artery Disease,rs12423664,A,1e-08,
+3755,Coronary Artery Disease,rs2908290,A,2e-08,
+3756,Coronary Artery Disease,rs1378942,A,2e-08,
+3757,Coronary Artery Disease,rs2075650,A,7e-13,
+3758,Coronary Artery Disease,rs2943652,C,3e-09,
+3759,Coronary Artery Disease,rs998584,C,5e-10,
+3760,Coronary Artery Disease,rs539958,T,3e-10,
+3761,Coronary Artery Disease,rs10883832,G,9e-16,
+3762,Coronary Artery Disease,rs72805949,G,1e-07,1.429
+3763,Coronary Artery Disease,rs578627,G,1e-05,1.226
+3764,Coronary Artery Disease,rs7305553,T,2e-06,1.998
+3765,Coronary Artery Disease,rs117996975,T,8e-06,0.4698
+3766,Coronary Artery Disease,rs79762263,G,9e-06,1.464
+3767,Coronary Artery Disease,rs74323928,A,4e-06,1.523
+3768,Coronary Artery Disease,rs116895675,A,2e-06,1.595
+3769,Coronary Artery Disease,rs146131169,A,2e-06,2.037
+3770,Coronary Artery Disease,rs141378038,G,8e-06,1.943
+3771,Coronary Artery Disease,rs145264818,T,1e-05,1.934
+3772,Coronary Artery Disease,rs140103984,C,6e-06,1.928
+3773,Coronary Artery Disease,rs1346132,G,3e-06,1.971
+3774,Coronary Artery Disease,rs7673759,C,8e-07,1.428
+3775,Coronary Artery Disease,rs27906,T,3e-06,0.7855
+3776,Coronary Artery Disease,rs12658752,T,6e-06,0.792
+3777,Coronary Artery Disease,rs3995091,G,1e-06,0.7268
+3778,Coronary Artery Disease,rs10948713,T,4e-06,1.242
+3779,Coronary Artery Disease,rs144501645,C,5e-06,1.716
+3780,Coronary Artery Disease,rs117521141,G,9e-06,1.635
+3781,Coronary Artery Disease,rs114799463,T,1e-06,2.041
+3782,Coronary Artery Disease,rs9969220,A,6e-06,0.8041
+3783,Coronary Artery Disease,rs867517174,T,9e-06,1.794
+3784,Coronary Artery Disease,rs11606719,G,1e-05,0.6714
+3785,Coronary Artery Disease,rs75887718,G,6e-06,1.401
+3786,Coronary Artery Disease,rs528967612,T,4e-06,1.976
+3787,Coronary Artery Disease,rs12594508,C,5e-06,1.229
+3788,Coronary Artery Disease,rs8061878,G,8e-06,1.975
+3789,Coronary Artery Disease,rs564085990,A,4e-06,3.013
+3790,Coronary Artery Disease,rs139970884,G,3e-06,2.911
+3791,Coronary Artery Disease,rs1057040,A,5e-06,0.7166
+3792,Coronary Artery Disease,rs954846345,G,2e-06,2.959
+3793,Coronary Artery Disease,rs729743,A,8e-06,2.78
+3794,Coronary Artery Disease,rs2848859,C,9e-06,1.354
+3795,Coronary Artery Disease,rs145889349,G,2e-06,2.823
+3796,Coronary Artery Disease,rs139706471,C,4e-06,2.055
+3797,Coronary Artery Disease,rs144648928,A,2e-06,2.343
+3798,Coronary Artery Disease,rs188585450,A,6e-06,2.642
+3799,Coronary Artery Disease,rs11685304,T,5e-06,1.404
+3800,Coronary Artery Disease,rs543659530,A,2e-06,2.948
+3801,Coronary Artery Disease,rs144192875,T,3e-06,2.339
+3802,Coronary Artery Disease,rs17691129,G,4e-06,1.639
+3803,Coronary Artery Disease,rs62473335,C,9e-06,2.373
+3804,Coronary Artery Disease,rs535035513,T,1e-05,2.929
+3805,Coronary Artery Disease,rs116946228,G,5e-06,2.638
+3806,Coronary Artery Disease,rs776972026,A,3e-06,2.953
+3807,Coronary Artery Disease,rs534128177,T,7e-06,2.446
+3808,Coronary Artery Disease,rs180986320,G,6e-06,2.563
+3809,Coronary Artery Disease,rs1831733,C,2e-13,
+3810,Coronary Artery Disease,rs71039916,T,8e-09,
+3811,Coronary Artery Disease,rs6705971,C,3e-12,0.94
+3812,Coronary Artery Disease,rs6694817,T,2e-10,0.95
+3813,Coronary Artery Disease,rs2437935,G,3e-10,1.06
+3814,Coronary Artery Disease,rs4691707,G,6e-09,0.95
+3815,Coronary Artery Disease,rs17612742,C,1e-08,0.93
+3816,Coronary Artery Disease,rs3002124,G,3e-08,1.06
+3817,Coronary Artery Disease,rs17251589,C,3e-08,0.92
+3818,Coronary Artery Disease,rs6430076,G,2e-08,1.07
+3819,Coronary Artery Disease,rs1990760,T,1e-18,1.1
+3820,Coronary Artery Disease,rs76151170,C,3e-19,1.23
+3821,Coronary Artery Disease,rs12979495,G,3e-11,1.08
+3822,Coronary Artery Disease,rs2138161,C,3e-12,
+3823,Coronary Artery Disease,rs6780171,A,6e-12,
+3824,Coronary Artery Disease,rs9368219,T,5e-08,
+3825,Coronary Artery Disease,rs9368222,A,6e-09,
+3826,Coronary Artery Disease,rs1510224,C,4e-11,
+3827,Coronary Artery Disease,rs7041637,A,3e-14,
+3828,Coronary Artery Disease,rs7028268,A,3e-20,
+3829,Coronary Artery Disease,rs10965227,G,4e-09,
+3830,Coronary Artery Disease,rs1333040,T,1e-15,
+3831,Coronary Artery Disease,rs4007642,T,3e-27,
+3832,Coronary Artery Disease,rs11257600,T,3e-09,
+3833,Coronary Artery Disease,rs7923866,T,2e-09,
+3834,Coronary Artery Disease,rs11196175,C,1e-10,
+3835,Coronary Artery Disease,rs11196180,T,5e-10,
+3836,Coronary Artery Disease,rs34872471,C,2.9999999999999998e-40,
+3837,Coronary Artery Disease,rs753617426,G,6e-15,
+3838,Coronary Artery Disease,rs35519679,A,1e-16,
+3839,Coronary Artery Disease,rs61872790,G,3e-10,
+3840,Coronary Artery Disease,rs163177,C,3e-08,
+3841,Coronary Artery Disease,rs76895963,G,6e-11,
+3842,Coronary Artery Disease,rs4766897,C,9e-09,
+3843,Parkinson's Disease,rs7118648,G,2e-07,
+3844,Parkinson's Disease,rs3935740,T,2e-07,
+3845,Parkinson's Disease,rs17497526,G,6e-07,
+3846,Parkinson's Disease,rs183211,T,3e-07,
+3847,Parkinson's Disease,rs10121009,A,3e-06,
+3848,Parkinson's Disease,rs415430,T,7e-07,
+3849,Parkinson's Disease,rs2338971,C,4e-10,1.35
+3850,Parkinson's Disease,rs356220,T,1e-09,1.37
+3851,Parkinson's Disease,rs3129882,G,3e-08,1.31
+3852,Parkinson's Disease,rs199498,T,2e-06,1.35
+3853,Parkinson's Disease,rs11158026,C,6e-11,1.11
+3854,Parkinson's Disease,rs1555399,T,7e-14,1.1148
+3855,Parkinson's Disease,rs2414739,A,1e-11,1.113
+3856,Parkinson's Disease,rs14235,A,2e-12,1.103
+3857,Parkinson's Disease,rs17649553,C,2e-48,1.3
+3858,Parkinson's Disease,rs12456492,G,8e-12,1.11
+3859,Parkinson's Disease,rs62120679,T,6e-07,1.097
+3860,Parkinson's Disease,rs8118008,A,3e-11,1.111
+3861,Parkinson's Disease,rs591323,G,7e-08,1.09
+3862,Parkinson's Disease,rs35749011,A,1.0000000000000001e-29,1.824
+3863,Parkinson's Disease,rs823118,T,2e-16,1.122
+3864,Parkinson's Disease,rs10797576,T,5e-10,1.131
+3865,Parkinson's Disease,rs6430538,C,9e-20,1.1429
+3866,Parkinson's Disease,rs1474055,T,1e-20,1.214
+3867,Parkinson's Disease,rs12637471,G,2e-21,1.1876
+3868,Parkinson's Disease,rs34311866,C,1e-43,1.27
+3869,Parkinson's Disease,rs11724635,A,9e-18,1.126
+3870,Parkinson's Disease,rs6812193,C,3e-11,1.1
+3871,Parkinson's Disease,rs356182,G,4e-73,1.32
+3872,Parkinson's Disease,rs9275326,C,1e-12,1.21
+3873,Parkinson's Disease,rs199347,A,1e-12,1.11
+3874,Parkinson's Disease,rs117896735,A,4e-13,1.624
+3875,Parkinson's Disease,rs3793947,G,4e-07,1.0764
+3876,Parkinson's Disease,rs329648,T,1e-11,1.105
+3877,Parkinson's Disease,rs76904798,T,5e-14,1.155
+3878,Parkinson's Disease,rs11060180,A,6e-12,1.105
+3879,Parkinson's Disease,rs6599388,T,4e-12,1.16
+3880,Parkinson's Disease,rs1491942,G,6e-14,1.27
+3881,Parkinson's Disease,rs34372695,T,4e-12,1.47
+3882,Parkinson's Disease,rs6710823,G,7e-09,1.1
+3883,Parkinson's Disease,rs11711441,G,8e-12,1.19
+3884,Parkinson's Disease,rs356219,G,2e-47,1.29
+3885,Parkinson's Disease,rs2102808,C,4e-10,1.18
+3886,Parkinson's Disease,rs12817488,T,3e-13,1.14
+3887,Parkinson's Disease,rs2942168,G,9.999999999999999e-29,1.27
+3888,Parkinson's Disease,rs4698412,A,2e-06,1.14
+3889,Parkinson's Disease,rs4964469,A,2e-07,1.16
+3890,Parkinson's Disease,rs12185268,A,3e-14,1.3
+3891,Parkinson's Disease,rs10513789,T,3e-10,1.25
+3892,Parkinson's Disease,rs6599389,A,4e-08,1.31
+3893,Parkinson's Disease,rs4130047,C,2e-07,1.16
+3894,Parkinson's Disease,rs11868035,G,6e-08,1.18
+3895,Parkinson's Disease,rs34637584,A,1.9999999999999997e-28,9.62
+3896,Parkinson's Disease,rs823156,A,1e-07,1.21
+3897,Parkinson's Disease,rs2823357,A,6e-07,1.15
+3898,Parkinson's Disease,rs1223271,G,5e-06,1.18
+3899,Parkinson's Disease,rs7077361,T,5e-06,1.19
+3900,Parkinson's Disease,rs2736990,C,2e-16,1.23
+3901,Parkinson's Disease,rs199533,C,1e-14,1.28
+3902,Parkinson's Disease,rs393152,A,2e-16,1.3
+3903,Parkinson's Disease,rs823128,A,7e-08,1.52
+3904,Parkinson's Disease,rs17115100,G,7e-08,1.25
+3905,Parkinson's Disease,rs6532197,G,1e-07,1.32
+3906,Parkinson's Disease,rs12431733,T,3e-06,1.13
+3907,Parkinson's Disease,rs11248051,T,3e-09,1.46
+3908,Parkinson's Disease,rs1564282,T,7e-07,1.7
+3909,Parkinson's Disease,rs11012,T,6e-08,1.43
+3910,Parkinson's Disease,rs4837628,A,1e-06,1.27
+3911,Parkinson's Disease,rs10464059,A,3e-06,1.33
+3912,Parkinson's Disease,rs7617877,A,3e-06,1.23
+3913,Parkinson's Disease,rs943437,A,2e-07,
+3914,Parkinson's Disease,rs28624974,T,8e-12,
+3915,Parkinson's Disease,rs181870458,A,2e-07,
+3916,Parkinson's Disease,rs11203810,T,2e-08,
+3917,Parkinson's Disease,rs1450522,A,6e-08,
+3918,Parkinson's Disease,rs13294100,T,3e-10,
+3919,Parkinson's Disease,rs34884217,A,1e-11,
+3920,Parkinson's Disease,rs12651314,T,2e-11,
+3921,Parkinson's Disease,rs12643261,T,4e-11,
+3922,Parkinson's Disease,rs10516839,T,4e-17,
+3923,Parkinson's Disease,rs13107325,T,7e-08,
+3924,Parkinson's Disease,rs77669894,A,4e-08,
+3925,Parkinson's Disease,rs138895122,T,6e-12,
+3926,Parkinson's Disease,rs28370664,A,7e-26,
+3927,Parkinson's Disease,rs144029582,A,4e-07,
+3928,Parkinson's Disease,rs11060112,A,2e-10,
+3929,Parkinson's Disease,rs8005172,T,6e-10,
+3930,Parkinson's Disease,rs3889108,T,7e-09,
+3931,Parkinson's Disease,rs1027647,A,2e-06,
+3932,Parkinson's Disease,rs140820592,T,1e-08,
+3933,Parkinson's Disease,rs113564729,A,2e-11,
+3934,Parkinson's Disease,rs148534175,T,1e-08,
+3935,Parkinson's Disease,rs8087969,T,5e-06,
+3936,Parkinson's Disease,rs302714,A,4e-06,
+3937,Parkinson's Disease,rs4915466,T,1e-06,
+3938,Parkinson's Disease,rs3805,T,4e-11,
+3939,Parkinson's Disease,rs4653767,T,6e-08,
+3940,Parkinson's Disease,rs12467316,A,5e-07,
+3941,Parkinson's Disease,rs4667572,A,4e-13,
+3942,Parkinson's Disease,rs113732002,A,3e-07,
+3943,Parkinson's Disease,rs13078687,A,9e-09,
+3944,Parkinson's Disease,rs55740225,T,3e-07,
+3945,Parkinson's Disease,rs1293298,A,6e-11,
+3946,Parkinson's Disease,rs2276765,A,2e-07,
+3947,Parkinson's Disease,rs4921739,T,6e-06,
+3948,Parkinson's Disease,rs140278703,T,2e-11,
+3949,Parkinson's Disease,rs2278973,T,3e-07,
+3950,Parkinson's Disease,rs10906923,A,3e-07,
+3951,Parkinson's Disease,rs144814361,T,2e-12,
+3952,Parkinson's Disease,rs3802920,T,7e-09,
+3953,Parkinson's Disease,rs17483653,A,5e-07,
+3954,Parkinson's Disease,rs1867598,A,7e-10,
+3955,Parkinson's Disease,rs6875262,T,3e-09,
+3956,Parkinson's Disease,rs2647062,A,6e-12,
+3957,Parkinson's Disease,rs6060983,T,6e-07,
+3958,Parkinson's Disease,rs11701722,T,5e-08,
+3959,Parkinson's Disease,rs56379273,A,9e-08,
+3960,Parkinson's Disease,rs2979160,A,3e-06,
+3961,Parkinson's Disease,rs9468195,A,2e-09,
+3962,Parkinson's Disease,rs12600861,A,1e-08,
+3963,Parkinson's Disease,rs12951632,T,1e-09,
+3964,Parkinson's Disease,rs2269906,A,6e-10,
+3965,Parkinson's Disease,rs850738,A,1e-11,
+3966,Parkinson's Disease,rs62053943,T,4e-68,
+3967,Parkinson's Disease,rs117615688,A,7e-16,
+3968,Parkinson's Disease,rs11658976,A,4e-08,
+3969,Parkinson's Disease,rs61169879,T,9e-10,
+3970,Parkinson's Disease,rs666463,A,3e-09,
+3971,Parkinson's Disease,rs1941685,T,2e-08,
+3972,Parkinson's Disease,rs55818311,T,4e-10,
+3973,Parkinson's Disease,rs77351827,T,9e-09,
+3974,Parkinson's Disease,rs2248244,A,3e-11,
+3975,Parkinson's Disease,rs35643925,A,8e-22,
+3976,Parkinson's Disease,rs4954162,A,2e-08,
+3977,Parkinson's Disease,rs356228,C,1e-48,
+3978,Parkinson's Disease,rs356203,T,5e-149,
+3979,Parkinson's Disease,rs9267659,A,4e-11,
+3980,Parkinson's Disease,rs181609621,A,8e-11,
+3981,Parkinson's Disease,rs117073808,T,2e-20,
+3982,Parkinson's Disease,rs141128804,T,6e-14,
+3983,Parkinson's Disease,rs138017112,C,7e-12,
+3984,Parkinson's Disease,rs114138760,C,4e-09,
+3985,Parkinson's Disease,rs76763715,T,2e-22,
+3986,Parkinson's Disease,rs6658353,C,6e-12,
+3987,Parkinson's Disease,rs11578699,T,4e-09,
+3988,Parkinson's Disease,rs11557080,A,3e-22,
+3989,Parkinson's Disease,rs76116224,A,1e-08,
+3990,Parkinson's Disease,rs2042477,A,1e-08,
+3991,Parkinson's Disease,rs11683001,A,8e-13,
+3992,Parkinson's Disease,rs57891859,A,5e-14,
+3993,Parkinson's Disease,rs73038319,A,6e-13,
+3994,Parkinson's Disease,rs6808178,T,8e-12,
+3995,Parkinson's Disease,rs12497850,T,1e-10,
+3996,Parkinson's Disease,rs55961674,T,1e-11,
+3997,Parkinson's Disease,rs11707416,A,1e-10,
+3998,Parkinson's Disease,rs873786,T,2e-21,
+3999,Parkinson's Disease,rs34025766,A,3e-10,
+4000,Parkinson's Disease,rs6825004,C,1e-09,
+4001,Parkinson's Disease,rs4101061,A,5e-19,
+4002,Parkinson's Disease,rs6854006,T,6e-21,
+4003,Parkinson's Disease,rs5019538,A,1e-36,
+4004,Parkinson's Disease,rs13117519,T,1e-12,
+4005,Parkinson's Disease,rs62333164,A,2e-10,
+4006,Parkinson's Disease,rs26431,C,2e-09,
+4007,Parkinson's Disease,rs11950533,A,7e-09,
+4008,Parkinson's Disease,rs4140646,A,6e-12,
+4009,Parkinson's Disease,rs9261484,T,2e-08,
+4010,Parkinson's Disease,rs112485576,A,7e-28,
+4011,Parkinson's Disease,rs12528068,T,2e-10,
+4012,Parkinson's Disease,rs997368,A,2e-09,
+4013,Parkinson's Disease,rs75859381,T,1e-10,
+4014,Parkinson's Disease,rs199351,A,4.9999999999999996e-26,
+4015,Parkinson's Disease,rs76949143,A,1e-08,
+4016,Parkinson's Disease,rs620513,T,3e-15,
+4017,Parkinson's Disease,rs2280104,T,1e-08,
+4018,Parkinson's Disease,rs2086641,T,2e-08,
+4019,Parkinson's Disease,rs10756907,A,5e-17,
+4020,Parkinson's Disease,rs6476434,T,7e-09,
+4021,Parkinson's Disease,rs896435,T,3e-13,
+4022,Parkinson's Disease,rs10748818,A,1e-09,
+4023,Parkinson's Disease,rs72840788,A,2e-11,
+4024,Parkinson's Disease,rs7938782,A,2e-09,
+4025,Parkinson's Disease,rs12283611,A,3e-10,
+4026,Parkinson's Disease,rs7134559,T,4e-08,
+4027,Parkinson's Disease,rs10847864,T,1e-37,
+4028,Parkinson's Disease,rs11610045,A,2e-10,
+4029,Parkinson's Disease,rs9568188,T,1e-08,
+4030,Parkinson's Disease,rs4771268,T,1e-09,
+4031,Parkinson's Disease,rs12147950,T,4e-08,
+4032,Parkinson's Disease,rs3742785,A,2e-09,
+4033,Parkinson's Disease,rs979812,T,6e-11,
+4034,Parkinson's Disease,rs2251086,T,6e-18,
+4035,Parkinson's Disease,rs6497339,A,3e-11,
+4036,Parkinson's Disease,rs2904880,C,8e-10,
+4037,Parkinson's Disease,rs11150601,A,5e-20,
+4038,Parkinson's Disease,rs6500328,A,2e-09,
+4039,Parkinson's Disease,rs3104783,A,1e-12,
+4040,Parkinson's Disease,rs10221156,A,1e-10,
+4041,Parkinson's Disease,rs144755950,T,2e-10,
+4042,Parkinson's Disease,rs17686238,T,8e-27,
+4043,Parkinson's Disease,rs9912362,T,2e-13,
+4044,Parkinson's Disease,rs7221167,T,1e-37,
+4045,Parkinson's Disease,rs7225002,A,2e-40,
+4046,Parkinson's Disease,rs199453,T,9e-67,
+4047,Parkinson's Disease,rs2295545,T,8e-11,
+4048,Parkinson's Disease,rs190807041,G,7e-11,
+4049,Parkinson's Disease,rs113434679,A,9e-13,
+4050,Parkinson's Disease,rs9275152,C,2e-08,
+4051,Parkinson's Disease,rs246814,C,6e-10,1.11
+4052,Parkinson's Disease,rs2270968,G,3e-08,1.178
+4053,Parkinson's Disease,rs1384236,C,8e-12,1.551
+4054,Parkinson's Disease,rs3115534,G,2e-14,1.58
+4055,Parkinson's Disease,rs67460515,C,1e-06,1.059
+4056,Parkinson's Disease,rs17767294,G,2e-07,1.107
+4057,Parkinson's Disease,rs2921073,C,1e-07,1.0615711
+4058,Parkinson's Disease,rs8017172,G,2e-07,1.0615711
+4059,Parkinson's Disease,rs5910,C,4e-06,1.056
+4060,Parkinson's Disease,rs353116,C,3e-08,1.0638298
+4061,Parkinson's Disease,rs143918452,A,3e-08,1.4705882
+4062,Parkinson's Disease,rs78738012,C,5e-11,1.13
+4063,Parkinson's Disease,rs2694528,C,5e-15,1.15
+4064,Parkinson's Disease,rs2740594,A,6e-12,1.09
+4065,Parkinson's Disease,rs10929159,A,7e-08,1.0626993
+4066,Parkinson's Disease,rs10463554,T,2e-07,1.0649627
+4067,Parkinson's Disease,rs2296887,C,2e-07,1.084
+4068,Parkinson's Disease,rs9516970,A,5e-07,1.065
+4069,Parkinson's Disease,rs316619,C,7e-06,1.0548522
+4070,Parkinson's Disease,rs6416935,G,4e-07,1.081081
+4071,Parkinson's Disease,rs34043159,C,5e-11,1.08
+4072,Parkinson's Disease,rs4073221,G,2e-08,1.1
+4073,Parkinson's Disease,rs9468199,A,1e-12,1.11
+4074,Parkinson's Disease,rs11343,T,9e-11,1.07
+4075,Parkinson's Disease,rs4784227,T,1e-10,1.09
+4076,Parkinson's Disease,rs116504637,T,1e-06,
+4077,Parkinson's Disease,rs11949046,T,2e-06,
+4078,Parkinson's Disease,rs78926797,A,2e-06,
+4079,Parkinson's Disease,rs6932127,T,3e-06,
+4080,Parkinson's Disease,rs55971529,A,4e-06,
+4081,Parkinson's Disease,rs988295487,C,5e-06,
+4082,Parkinson's Disease,rs13330839,A,7e-06,
+4083,Parkinson's Disease,rs145330152,C,1e-09,2.22123
+4084,Parkinson's Disease,rs187989831,C,8e-10,0.000359353
+4085,Parkinson's Disease,rs983361,T,6e-09,0.819506
+4086,Parkinson's Disease,rs137887044,C,2e-08,1.8504
+4087,Parkinson's Disease,rs78837976,C,3e-18,16.6736
+4088,Parkinson's Disease,rs74125032,T,2e-10,4.49847e-10
+4089,Parkinson's Disease,rs117672332,T,2e-15,7.6928
+4090,Parkinson's Disease,rs199501,A,8e-12,0.794626
+4091,Parkinson's Disease,rs3806789,C,9e-10,0.8265
+4092,Parkinson's Disease,rs74125084,T,1e-07,0.0001058
+4093,Parkinson's Disease,rs11653889,A,1e-14,0.0499
+4094,Parkinson's Disease,rs3773384,C,4e-06,2.3255813
+4095,Parkinson's Disease,rs34656641,C,8e-06,3.26
+4096,Parkinson's Disease,rs17833740,T,9e-06,2.17
+4097,Parkinson's Disease,rs12771445,T,1e-08,0.663
+4098,Parkinson's Disease,rs7752646,T,4e-07,0.489
+4099,Parkinson's Disease,rs111841435,C,4e-06,1.1
+4100,Parkinson's Disease,rs28602900,A,4e-07,1.11
+4101,Parkinson's Disease,rs7066890,T,1e-08,1.1
+4102,Parkinson's Disease,rs11796528,A,1e-06,1.08
+4103,Parkinson's Disease,rs41306249,T,1e-07,1.15
+4104,Parkinson's Disease,rs34594498,T,4e-20,
+4105,Parkinson's Disease,rs34778348,C,3e-30,
+4106,Parkinson's Disease,rs61204179,T,1e-09,
+4107,Parkinson's Disease,rs421016,G,1e-14,
+4108,Parkinson's Disease,rs11164870,C,3e-09,
+4109,Parkinson's Disease,rs146143531,T,2e-10,
+4110,Parkinson's Disease,rs35682329,A,1.0000000000000001e-75,
+4111,Parkinson's Disease,rs10737170,A,3e-10,
+4112,Parkinson's Disease,rs35161831,T,1e-15,
+4113,Parkinson's Disease,rs17442721,C,9e-27,
+4114,Parkinson's Disease,rs17443414,A,3e-10,
+4115,Parkinson's Disease,rs11177328,A,3e-11,
+4116,Parkinson's Disease,rs1442190,A,2e-15,
+4117,Parkinson's Disease,rs6806917,T,3e-09,
+4118,Parkinson's Disease,rs71314284,T,1e-08,
+4119,Parkinson's Disease,rs16843452,T,3e-07,
+4120,Parkinson's Disease,rs1550556,T,1e-08,
+4121,Parkinson's Disease,rs112288215,T,3e-07,
+4122,Parkinson's Disease,rs28648524,A,3e-08,
+4123,Parkinson's Disease,rs79483792,T,3e-17,
+4124,Parkinson's Disease,rs78327649,C,2e-12,
+4125,Parkinson's Disease,rs145138919,T,5e-09,
+4126,Parkinson's Disease,rs7434295,T,2e-11,
+4127,Parkinson's Disease,rs11956597,A,8e-08,
+4128,Parkinson's Disease,rs9393826,A,1e-08,
+4129,Parkinson's Disease,rs6469271,T,2e-07,
+4130,Parkinson's Disease,rs10756905,T,2e-20,
+4131,Parkinson's Disease,rs118117788,T,4.0000000000000004e-23,
+4132,Parkinson's Disease,rs148163066,A,7e-11,
+4133,Parkinson's Disease,rs4421827,A,2e-14,
+4134,Parkinson's Disease,rs28370650,A,3e-33,
+4135,Parkinson's Disease,rs17411858,A,5e-09,
+4136,Parkinson's Disease,rs1108439,A,2e-08,
+4137,Parkinson's Disease,rs16833168,T,3e-12,
+4138,Parkinson's Disease,rs6582586,A,6e-08,
+4139,Parkinson's Disease,rs78299420,T,3e-09,
+4140,Parkinson's Disease,rs28659953,T,3e-08,
+4141,Parkinson's Disease,rs1127021,T,2e-08,
+4142,Parkinson's Disease,rs8018800,A,4e-16,
+4143,Parkinson's Disease,rs8012377,T,2e-10,
+4144,Parkinson's Disease,rs4859676,A,8e-08,
+4145,Parkinson's Disease,rs114762839,A,1e-10,
+4146,Parkinson's Disease,rs34133110,T,1e-09,
+4147,Parkinson's Disease,rs3104776,A,4e-12,
+4148,Parkinson's Disease,rs113487377,A,1e-08,
+4149,Parkinson's Disease,rs11650438,A,1e-07,
+4150,Parkinson's Disease,rs665268,A,2e-07,
+4151,Parkinson's Disease,rs62066707,A,9e-11,
+4152,Parkinson's Disease,rs7225082,T,6e-16,
+4153,Parkinson's Disease,rs34724124,A,7e-08,
+4154,Parkinson's Disease,rs148528915,T,5e-10,
+4155,Parkinson's Disease,rs77483524,A,3e-07,
+4156,Parkinson's Disease,rs4485435,C,3e-09,
+4157,Parkinson's Disease,rs4588066,A,1.9999999999999997e-28,
+4158,Parkinson's Disease,rs75344947,T,9e-10,
+4159,Parkinson's Disease,rs4815573,T,6e-11,
+4160,Parkinson's Disease,rs73174657,A,5e-07,
+4161,Parkinson's Disease,rs10775809,A,6e-08,
+4162,Parkinson's Disease,rs12734374,A,4e-68,
+4163,Parkinson's Disease,rs10903,A,2e-09,
+4164,Parkinson's Disease,rs12118655,A,1.9999999999999998e-32,
+4165,Parkinson's Disease,rs1326293,T,1e-17,
+4166,Parkinson's Disease,rs12987123,A,3.9999999999999995e-42,
+4167,Parkinson's Disease,rs6803771,A,5e-11,
+4168,Parkinson's Disease,rs7636454,A,3e-09,
+4169,Parkinson's Disease,rs11729193,A,2e-11,
+4170,Parkinson's Disease,rs75072999,A,4e-19,
+4171,Parkinson's Disease,rs11941559,C,5e-10,
+4172,Parkinson's Disease,rs7673321,A,8e-11,
+4173,Parkinson's Disease,rs1372518,A,2e-79,
+4174,Parkinson's Disease,rs79214011,A,1e-16,
+4175,Parkinson's Disease,rs75541595,A,3e-24,
+4176,Parkinson's Disease,rs246815,C,3e-12,
+4177,Parkinson's Disease,rs9461359,T,2e-09,
+4178,Parkinson's Disease,rs9487736,A,4e-15,
+4179,Parkinson's Disease,rs41286192,A,3e-11,
+4180,Parkinson's Disease,rs34096562,T,6e-17,
+4181,Parkinson's Disease,rs11783129,A,6e-11,
+4182,Parkinson's Disease,rs13664,T,1e-12,
+4183,Parkinson's Disease,rs2178923,A,2e-13,
+4184,Parkinson's Disease,rs3796661,C,4e-13,0.69
+4185,Parkinson's Disease,rs708726,T,2e-08,0.75
+4186,Parkinson's Disease,rs2451713,C,5e-08,1.88
+4187,Parkinson's Disease,rs708723,C,7e-08,0.76
+4188,Parkinson's Disease,rs139422381,A,2e-06,4.02
+4189,Parkinson's Disease,rs947211,A,3e-06,0.69
+4190,Parkinson's Disease,rs10746109,A,4e-06,1.46
+4191,Parkinson's Disease,rs12748961,T,5e-06,0.69
+4192,Parkinson's Disease,rs1949132,C,7e-06,1.78
+4193,Parkinson's Disease,rs4910150,T,1e-11,
+4194,Parkinson's Disease,rs6592142,T,5e-12,
+4195,Parkinson's Disease,rs73273590,A,9e-17,
+4196,Parkinson's Disease,rs34773022,A,2e-09,
+4197,Parkinson's Disease,rs1078514,T,2e-09,
+4198,Parkinson's Disease,rs1956438,A,2e-09,
+4199,Parkinson's Disease,rs1561758,C,9e-10,
+4200,Parkinson's Disease,rs1870293,T,4.0000000000000004e-24,
+4201,Parkinson's Disease,rs850731,T,7e-10,
+4202,Parkinson's Disease,rs8327,A,4e-11,
+4203,Parkinson's Disease,rs713522,T,1e-38,
+4204,Parkinson's Disease,rs8091977,T,4e-09,
+4205,Parkinson's Disease,rs1736020,A,1e-09,
+4206,Parkinson's Disease,rs1941184,C,4e-06,
+4207,Parkinson's Disease,rs17565841,A,3e-06,
+4208,Parkinson's Disease,rs10918270,A,8e-06,
+4209,Parkinson's Disease,rs10767971,T,5e-07,
+4210,Parkinson's Disease,rs7577851,T,9e-06,
+4211,Parkinson's Disease,rs6465122,T,7e-07,1.67
+4212,Parkinson's Disease,rs816535,C,1e-06,1.8
+4213,Parkinson's Disease,rs5870994,C,1e-06,
+4214,Parkinson's Disease,rs7870456,T,2e-06,
+4215,Parkinson's Disease,rs72767442,A,2e-06,
+4216,Parkinson's Disease,rs6741991,G,3e-06,
+4217,Parkinson's Disease,rs35950207,T,5e-06,
+4218,Parkinson's Disease,rs74709761,C,6e-06,
+4219,Parkinson's Disease,rs4436579,T,7e-06,
+4220,Parkinson's Disease,rs12813102,C,8e-06,
+4221,Parkinson's Disease,rs4128840,A,8e-06,
+4222,Parkinson's Disease,rs429358,C,3e-13,
+4223,Parkinson's Disease,rs143371462,G,7e-07,
+4224,Parkinson's Disease,rs113730632,G,2e-06,
+4225,Parkinson's Disease,rs34105455,G,4e-06,
+4226,Parkinson's Disease,rs2956605,A,4e-06,
+4227,Parkinson's Disease,rs5755468,C,4e-06,
+4228,Parkinson's Disease,rs148603475,T,6e-06,
+4229,Parkinson's Disease,rs1124933,A,8e-06,
+4230,Parkinson's Disease,rs6488987,C,2e-06,
+4231,Parkinson's Disease,rs17092224,C,4e-06,
+4232,Parkinson's Disease,rs224750,T,1e-06,
+4233,Parkinson's Disease,rs11634227,C,1e-06,
+4234,Parkinson's Disease,rs79987229,T,3e-06,
+4235,Parkinson's Disease,rs62343939,T,3e-06,
+4236,Parkinson's Disease,rs10253857,T,4e-06,
+4237,Parkinson's Disease,rs13424530,A,4e-06,
+4238,Parkinson's Disease,rs4802739,C,1e-06,
+4239,Parkinson's Disease,rs17554587,C,3e-06,
+4240,Parkinson's Disease,rs17367669,T,3e-06,
+4241,Parkinson's Disease,rs344650,G,1e-11,3.4
+4242,Parkinson's Disease,rs117267308,A,9e-11,4.55
+4243,Parkinson's Disease,rs80306347,C,7e-09,3.23
+4244,Parkinson's Disease,rs78294974,A,4e-08,3.9

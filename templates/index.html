@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload SNP Files</title>
+    <link rel="stylesheet" href="sendSNP_styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.min.js"></script> <!-- PDF.js -->
+</head>
+<body>
+    <div>
+        <div class="heading">
+            <h1>Upload SNP Files</h1>
+            <p class="subtitles">Upload SNP files to Helixify</p>
+            <p class="subtitles">Supported file formats: .csv, .tsv, .txt, .vcf</p>
+        </div>
+
+        <div class="form-section">
+            <h2>Upload SNP File</h2>
+            <form action="http://localhost:5000/process_snp_upload" method="POST" enctype="multipart/form-data">
+                <label for="snp_file">Select SNP File (CSV, TXT, TSV, or VCF only):</label>
+                <input type="file" name="snp_file" accept=".csv, .tsv, .txt, .vcf" required>
+                <button type="submit">Upload File</button>
+            </form>
+            
+        </div>
+
+        <div class="finalReport">
+            <h1>Final Report</h1>
+            <p>Here's the final report:</p>
+            <div class="pdf-container">
+                <canvas id="pdf-viewer"></canvas>
+            </div>
+            <button id="downloadPdf" class="download-button">Download PDF</button>
+        </div>
+    </div>
+
+    <script src="sendSNP.js"></script>
+</body>
+</html>

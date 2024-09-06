@@ -29,6 +29,7 @@ nav {
     font-family: 'Yeseva One', cursive;
     font-size: 2rem;
     font-weight: bold;
+    cursor: pointer;
 }
 
 nav ul {
@@ -61,6 +62,8 @@ nav ul li a {
     align-items: center;
     color: white;
 }
+
+
 
 .breadcrumb {
     font-size: 1rem;

@@ -30,6 +30,7 @@ nav {
     font-family: 'Yeseva One', cursive;
     font-size: 2rem;
     font-weight: bold;
+    cursor: pointer;
 }
 
 nav ul {

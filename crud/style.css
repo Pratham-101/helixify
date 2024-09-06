@@ -1,0 +1,166 @@
+/* Reset and Box Sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Body Styling */
+body {
+    background-color: #f0f4f8;
+    color: #333;
+    padding: 20px; /* Added padding for spacing */
+}
+
+/* Container Styling */
+.container {
+    width: 100%;
+    max-width: 900px;  /* Container width is good for readability */
+    margin: 40px auto; /* Center the container with margin */
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Logo Styling */
+.logo {
+    width: 100%;  /* Fill the width of the container */
+    max-width: 300px;  /* Set the max-width to 300px to increase size */
+    height: 100px;  /* Maintain the aspect ratio */
+    display: block;
+    margin: 0 auto 20px;  /* Center the logo and add bottom margin */
+}
+
+
+
+
+/* Header Styling */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 34px;
+    margin-bottom: 10px;
+    color: #0066cc;
+}
+
+header p {
+    color: #555555;
+    font-size: 14px;
+}
+
+/* Form Styling */
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: #0066cc;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="tel"],
+.form-group input[type="date"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    color: #333333;
+    font-size: 15px;
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus {
+    border-color: #0066cc;
+    outline: none;
+}
+
+/* Radio Button Styling */
+.radio-group {
+    display: flex;
+    justify-items: start;
+    justify-content: space-evenly;
+}
+
+.radio-group label {
+    color: #333333;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.radio-group input[type="radio"] {
+    margin-right: 8px;
+}
+
+/* Placeholder Text Styling */
+.form-group input::placeholder {
+    color: #999999;
+}
+/* Consent Section */
+.consent-section {
+    margin-bottom: 30px; /* Add some space before the submit button */
+}
+
+.consent-section h2 {
+    font-size: 18px;
+    color: #333333;
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #666666;
+    margin-bottom: 10px;
+}
+
+.form-group input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+    accent-color: #0066ff; /* Customize the color of the checkbox */
+}
+
+
+/* Submit Button Styling */
+.submit-group {
+    text-align: center;
+    margin-top: 10px; /* Adjusted margin for spacing */
+}
+
+.submit-group button {
+    padding: 14px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #0066cc;
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.submit-group button:hover {
+    background-color: #004da1;
+    transform: scale(1.05);
+}

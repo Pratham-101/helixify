@@ -1,6 +1,6 @@
 <?php
 // Include connection
-include(__DIR__ . "/crud/connection.php");
+include(__DIR__ . "/../crud/connection.php");
 
 // Get the appointment ID from the URL parameter
 $appointmentId = $_GET['id'] ?? 0;
