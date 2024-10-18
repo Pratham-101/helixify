@@ -1,0 +1,74 @@
+disease_name,rsid,positive_response,neutral_response,negative_response,drug,p_value
+IschemicStroke,rs9923231,TG,CT,GG TT CA GA AC CG GT AG TA TC AA GC CC AT,Vitamin K antagonists,0.159
+IschemicStroke,rs10849757,AG,GG CG AC AA TC,CA CT GT TG AT GA GC TA TT CC,hmg coa reductase inhibitors,0.01
+IschemicStroke,rs7634096,GT AT GC AC CC,TT,AG TC CG TA GG TG CT GA CA AA,clopidogrel,0.809
+IschemicStroke,rs1799853,GC TA GA,TT CT AC GG GT CG CA TG AT,AA TC CC AG,Vitamin K antagonists,0.885
+IschemicStroke,rs1491974,TG TC CC CT GT AG AT AA TA,GG AC CA TT CG,GC GA,clopidogrel,0.511
+IschemicStroke,rs1057910,CA TA GT,TG CG,AA AC TT AG TC GG CC GC CT AT GA,Vitamin K antagonists,0.889
+IschemicStroke,rs1128503,TG AT TC GA CG CC CT TT GT GC,AC CA,GG AA TA AG,clopidogrel,0.006
+IschemicStroke,rs699,TA CC GC,TC TT AG CG GA CA TG,AC AA GT AT GG CT,"Ace Inhibitors, Plain",0.02
+IschemicStroke,rs9859538,AC TT,GC GA CG,CA AG CC CT TA TC AA AT GT GG TG,clopidogrel,0.849
+IschemicStroke,rs11039149,AA,GA AT TT GG CC TC,GC AG TG CA GT TA CT CG AC,atenolol,0.003
+IschemicStroke,rs12041331,AG TG GG TA GC AA TC,TT GT CG AC,CC CT CA AT GA,Platelet aggregation inhibitors excl. heparin,0.03
+IschemicStroke,rs2108622,CA GG CG AG GT AT,TA CT GC CC TG GA TT AA,AC TC,Vitamin K antagonists,0.019
+IschemicStroke,rs16863336,GA GT TG AT TC CT AC AG GC,GG TA TT,CG AA CC CA,clopidogrel,0.145
+IschemicStroke,rs2768759,GT AA CT TC CG CA GG,AC TT GA TG TA GC,AT AG CC,Platelet aggregation inhibitors excl. heparin,0.03
+IschemicStroke,rs12497330,CG AC TC AT AG GC,TG GA TT CT CC,TA AA CA GT GG,clopidogrel,0.499
+IschemicStroke,rs12221497,AA GT AG AC AT TG,TC TT GG GA CA CC GC CT,TA CG,verapamil,0.016
+IschemicStroke,rs2244613,TC CA AG,CG AA CC AC TT TG,CT GC GG TA GT AT GA,dabigatran,0.602
+IschemicStroke,rs7196161,AA AC,TG AG CC TC GA CG TA TT AT GG GC GT,CT CA,warfarin,
+IschemicStroke,rs12487835,CG,TA AT GA AG TC,TG GT TT CC GG AA GC CA CT AC,clopidogrel,0.415
+IschemicStroke,rs12566888,AC GG TT,AG TA TG GT AT CA GC TC,GA CG CC AA CT,Platelet aggregation inhibitors excl. heparin,0.08
+IschemicStroke,rs9934438,AA AT CT GA AC CA TC TA TG,CG GT GC CC,GG TT AG,Vitamin K antagonists,0.159
+IschemicStroke,rs1801133,CG AT,CT TC CC TT AC AA GT,TG GC GG CA TA GA AG,vitamin b12 and folic acid,0.0015
+IschemicStroke,rs9923231,CT,CC CG AT,AC GC GG TT TA AA AG GT TC GA CA TG,acenocoumarol,0.025
+IschemicStroke,rs6798347,CC CT,TA AA,GC TG TC TT AT GG GA AC GT AG CA CG,clopidogrel,0.405
+IschemicStroke,rs4244285,AG AT AA,GC TA GT TG CC TT CG CT CA,TC AC GG GA,aspirin,0.037
+IschemicStroke,rs1907637,CT GG AG TC GA GC,TT CC,AA TG GT CA AC CG TA AT,clopidogrel,0.946
+IschemicStroke,rs6798637,CA GT,AG AC AA CT TG TA GG CC CG GC,AT GA TC TT,clopidogrel,0.792
+IschemicStroke,rs4603933,CC GT,CG CA TG,CT GC AT TA AC AA GA TT TC AG GG,clopidogrel,0.549
+IschemicStroke,rs9934438,CG GC TG CA TA GG CT AC,AG TT,CC AT GA TC AA GT,warfarin,
+IschemicStroke,rs168753,AA CT GC TA CC TT GT CA GG AT,AG CG AC TG TC,GA,aspirin,0.015
+IschemicStroke,rs6025,CT GT TA CA TT GA CG CC,AG AA AT TC,GG AC TG GC,hormonal contraceptives for systemic use,
+IschemicStroke,rs10935842,GT AA,TG TT AT TA AG GG CC TC GC GA AC CT,CA CG,clopidogrel,0.927
+IschemicStroke,rs1062535,AT AC GC TA AA CT GG CG GT TC GA CA CC,TT,TG AG,clopidogrel,0.900
+IschemicStroke,rs71647871,CG CA AC TG AG TA GT GG CC CT GC AA,AT TC TT,GA,aspirin,0.12
+IschemicStroke,rs776746,AT GC GA TC GT AA,CT,TG AC TA CC CG TT AG GG CA,clopidogrel,0.016
+IschemicStroke,rs1062535,GA TT AT CT GG TC AC,TG CG TA,GT GC AA CC CA AG,clopidogrel,0.900
+IschemicStroke,rs4244285,TT GC CG CC GG,CT CA TA AT AG TC AA GA,AC GT TG,clopidogrel,0.05
+IschemicStroke,rs4693075,CA AT TG TA TC TT GC CC GT AC CG AG,CT GG GA,AA,hmg coa reductase inhibitors,0.001
+IschemicStroke,rs6025,GG CC AC,CA GT TA AG TG AT GA CT,TT GC AA TC CG,hormonal contraceptives for systemic use,
+IschemicStroke,rs699,TG AT TA AA CA CT CG TC AG CC GT TT GA,GC AC,GG,"Ace Inhibitors, Plain",
+IschemicStroke,rs4986893,GG CT AA AG AC GC TC,TA CC GA TG,TT AT GT CG CA,clopidogrel,0.05
+IschemicStroke,rs4244285,TT GC AT GA TG,CG TA GT,CC AA CT TC CA AG AC GG,clopidogrel,0.742
+IschemicStroke,rs762551,AT TA AG TC,GG GA AA GT TT CT AC,CA CC GC TG CG,clopidogrel,0.793
+IschemicStroke,rs776746,TG AT GT GG GA CG,AC AG TT CA TA GC AA CT TC,CC,clopidogrel,0.018
+IschemicStroke,rs35068180,CA AT GG AC CC CT CG GC AA TC TG,GA AG,TA GT TT,lisinopril,0.009
+IschemicStroke,rs1801253,AG TA GA TG,AA CT,TC CA AT CG AC TT CC GG GC GT,Antihypertensives,0.012
+IschemicStroke,rs1799983,CA AG,AC,GT AT TA TT AA CC GC GG CT TG GA CG TC,clopidogrel,0.414
+IschemicStroke,rs669,TA CG CT GC,CC GT GA AG AA AT TT TC TG,GG CA AC,Enzymes,7.44E-6
+IschemicStroke,rs16863356,GT AA TG TT GA,TA AC GG CC CG CA CT,AG AT TC GC,clopidogrel,0.771
+IschemicStroke,rs12041331,GA TT AG CA TA AC,GG TG CG AT CC AA GT TC CT,GC,clopidogrel,0.924
+IschemicStroke,rs1799963,AG,AT CA,GA GC AA TC CC GT TT CG CT TA AC TG GG,hormonal contraceptives for systemic use,
+IschemicStroke,rs662,TC GG TG GA CA GC,AG,CG AA AC CC GT AT TT TA CT,clopidogrel,0.91
+IschemicStroke,rs1126643,AG GT,TA AT TG GC GA,CT AC TT CC CG GG TC AA CA,clopidogrel,0.930
+IschemicStroke,rs2242480,AT,AC GC TG GG AA,AG CT TC TT CC GT CG GA CA TA,clopidogrel,0.91
+IschemicStroke,rs1801020,GC AG CA CT GT CC AT GA,TA AC AA TC GG TT,TG CG,Enzymes,1.85E-4
+IschemicStroke,rs2046934,TA GG,GT TG TT TC CC GA AA CA AG CT AC,GC CG AT,clopidogrel,0.197
+IschemicStroke,rs2279238,AC GA,CG CC CA AT TA AA TG CT,GG AG TT TC GT GC,verapamil,0.031
+IschemicStroke,rs1934980,AG GG CA AT CC GA,CT,TA TC GC GT AA CG AC TG TT,clopidogrel,0.91
+IschemicStroke,rs17110453,CG,AC,TA CT GA AG TT CA GG AA AT CC TG TC GC GT,clopidogrel,0.68
+IschemicStroke,rs35068180,GA,CC AG TA GG CG,TC CA AA GC TG AT CT GT TT AC,lisinopril,0.007
+IschemicStroke,rs12637988,GC GG AC GA CT TA TC CG GT CA,AA AT TG TT,AG CC,clopidogrel,0.295
+IschemicStroke,rs4986893,TT,GT AT TG GC CT AA CC TC GG TA,AG GA CG AC CA,clopidogrel,0.007
+IschemicStroke,rs12041331,CG CT TC TG AT GT TT GA,GG CC CA AA GC,AC TA AG,aspirin,0.009
+IschemicStroke,rs4148738,CC CG AA GT,GC AT GG AG TC,TT TA TG AC CA GA CT,dabigatran,0.022
+IschemicStroke,rs12143842,GT CT TG AC CA GC TT TA AA CC AT,AG CG GA GG,TC,amlodipine,
+IschemicStroke,rs2768759,GC,AG AC AA CA TA AT TT TC TG GA,CT GT CG GG CC,aspirin,0.037
+IschemicStroke,rs4148738,TC,AA TT AG TG CA CC CT AT TA AC,GC GA GG GT CG,dabigatran,0.024
+IschemicStroke,rs200148,TT CA GA AA AC AT,AG CG CT,GT GG TG GC CC TA TC,chlorthalidone,
+IschemicStroke,rs1045642,AC CC GT GG GA AA CT TC TA TG CA TT,AG CG,AT GC,clopidogrel,0.214
+IschemicStroke,rs8192950,GA TG,GC AT TC CC CT TT CA CG,AG AC GG GT AA TA,clopidogrel,0.029
+IschemicStroke,rs9934438,CG GG TC CT AC TT AT TG,CC GA TA,GC AA CA AG GT,warfarin,0.05
+IschemicStroke,rs2244613,CA AA TG CG GG TC GC TA AT TT CT,CC GT,GA AC AG,dabigatran,0.003
+IschemicStroke,rs11548336,TA AT CA AC CG CC GC GA CT TG GG,TC AG,AA GT TT,hmg coa reductase inhibitors,0.05

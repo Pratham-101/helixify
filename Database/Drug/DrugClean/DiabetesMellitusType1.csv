@@ -1,0 +1,3 @@
+disease_name,rsid,positive_response,neutral_response,negative_response,drug,p_value
+DiabetesMellitusType1,rs1799752,CA,AT CC AG GC AA AC GA TT GG TC CT TA,CG TG GT,lisinopril,0.05
+DiabetesMellitusType1,rs72554665,AT CG AG GG,CC,AA TG TA CA GA CT GC TC TT AC GT,insulin recombinant,

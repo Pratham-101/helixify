@@ -1,0 +1,9 @@
+disease_name,rsid,positive_response,neutral_response,negative_response,drug,p_value
+PulmonaryFibrosis,rs2076295,CT,AT CA AC TC TA CG CC,TT GA AG GC AA GT GG TG,nintedanib,0.004
+PulmonaryFibrosis,rs35705950,AC AG GT CG AA CC TA CT GA CA,TT TG GC AT TC,GG,acetylcysteine,0.03
+PulmonaryFibrosis,rs5743894,TT CA TC,CT GT AG CC AA TA AT CG GC TG GA GG,AC,acetylcysteine,0.03
+PulmonaryFibrosis,rs5743890,GA TG,CA AA CC GC TT GT,CT AG TC TA AT CG AC GG,pirfenidone,0.0457
+PulmonaryFibrosis,rs5743890,GA AA,CC TC GT CA AT TT TA TG AC AG GC GG CT,CG,acetylcysteine,0.03
+PulmonaryFibrosis,rs5743854,CC,GT CG AA,AT CT TG GG TA AG CA TC GC GA AC TT,acetylcysteine,0.03
+PulmonaryFibrosis,rs762551,CG AG GG TC TG TT GT GC CC AC,CT GA CA,AA TA AT,pirfenidone,0.020
+PulmonaryFibrosis,rs3750920,GA GG AA,AT TG CA CT AC TT GT TA CG TC AG GC,CC,acetylcysteine,0.03

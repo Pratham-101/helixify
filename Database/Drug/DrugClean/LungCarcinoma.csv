@@ -1,0 +1,141 @@
+disease_name,rsid,positive_response,neutral_response,negative_response,drug,p_value
+LungCarcinoma,rs4148323,CC AG,GG GC AT GT CT CG AA GA AC,TT TA TG CA TC,irinotecan,0.0001
+LungCarcinoma,rs1042522,GT AT AC,AG GG CT TT TA CC,AA CA GC GA TG TC CG,carboplatin,0.05
+LungCarcinoma,rs7686909,AC TA TG CT,TT AA TC AT,CG GT GA GC CC CA GG AG,Platinum compounds,
+LungCarcinoma,rs836554,GA AA CG GC TG AG TA,CC AC TC TT CT CA GT AT,GG,platinum,
+LungCarcinoma,rs1799971,GG,CC,AT TC GC CT AC CG AA TT AG TG GA CA TA GT,morphine,0.005
+LungCarcinoma,rs6275,CT GG GA TC AG,GC CC AC CA AA CG AT GT TT,TG TA,morphine,0.37
+LungCarcinoma,rs6832850,CT GG CA CG TG TC,GT AG CC AT AC GA GC,AA TA TT,Platinum compounds,
+LungCarcinoma,rs1128503,CA AG GC,TG GA CG GT AC TA GG,AA TC AT CT TT CC,sufentanil,0.05
+LungCarcinoma,rs4148323,AT GG CC CA CT TC TT GT AA,AG CG,TA GA TG GC AC,irinotecan,0.0006
+LungCarcinoma,rs1045411,AT CA TA AG GC,TG,AC TC CC GA GT TT CT CG GG AA,Platinum compounds,
+LungCarcinoma,rs1045642,TT,CA TG GC GG CC,AT CG GA TC AC GT AA AG TA CT,sufentanil,0.05
+LungCarcinoma,rs9344,GC AC TG AA CC GG,TT CG,TC CA AG GT CT TA GA AT,pemetrexed,0.05
+LungCarcinoma,rs1045642,TG,AA GA TA CT CA CC TC GC,AT CG AC GT AG GG TT,morphine,0.08
+LungCarcinoma,rs2977549,AA CT AG AT TA,AC GC CC CG GG,CA TC TG GA TT GT,Platinum compounds,0.017
+LungCarcinoma,rs2032582,GG CA CT AT TA GC,CG TT TC GT AG CC AA,GA AC TG,sufentanil,0.05
+LungCarcinoma,rs376695472,AC TC,TT GT CG CT CC AA TG TA GC AG AT GA GG,CA,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors,0.0009
+LungCarcinoma,rs2107425,CC,GG CG GT TC AG TG TA,TT CT AC GA GC AT AA CA,Platinum compounds,0.77
+LungCarcinoma,rs1323040,GA GC GG,TT TG CG,AA CT CA CC AT AG TA GT TC AC,sufentanil,0.05
+LungCarcinoma,rs1208,GG TC CG TA GA TT AG TG CA,CC GC AT GT AC CT,AA,paclitaxel,0.05
+LungCarcinoma,rs1799971,AA TG CT GC,GG CC AC,AT GT CA GA CG TC AG TA TT,sufentanil,0.05
+LungCarcinoma,rs11265375,CA TC CT TA,TT TG AT AG,GA GG GC AA CG AC GT CC,cisplatin,0.02
+LungCarcinoma,rs7305534,CT TT AG TC AC GT AT TA GC CC AA,GA,TG CG CA GG,platinum,0.018
+LungCarcinoma,rs563649,GT GA TA TG TC GC AG,CA CG AA,AT AC GG TT CC CT,sufentanil,0.05
+LungCarcinoma,rs1718125,AG AA GT CG TG GA TA AC CT CA,AT GC,GG TC CC TT,fentanyl,0.05
+LungCarcinoma,rs4680,CG GG AT TC GA TA,TT GC AA AC GT AG CC TG CT,CA,morphine,0.008
+LungCarcinoma,rs1051660,GG GT CG,GA CC CT TT,AC AG CA TC AA TG TA GC AT,morphine,0.37
+LungCarcinoma,rs3780126,CG CC AT GG GC TC GT AG TT GA AC,AA CT,CA TG TA,bevacizumab,0.04
+LungCarcinoma,rs973541788,GT TA,CG AA GC TT GA CA GG AT,AC CT AG CC TG TC,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors,0.005
+LungCarcinoma,rs461872,AT AA TT,CG TG CC GG TA AG,GC CA GT CT AC GA TC,platinum,0.046
+LungCarcinoma,rs1899663,AG AA TT GC TC,TA CC CT CA,GG CG AC GT GA AT TG,Platinum compounds,0.13
+LungCarcinoma,rs9344,CT,GG TG AC GT CC GC AA TT,GA CG TA AG AT TC CA,Platinum compounds,0.035
+LungCarcinoma,rs2900420,CT GA AC,TT TA TG CC AG,AA CG GC GG AT GT TC CA,Platinum compounds,0.021
+LungCarcinoma,rs6983267,GA GT AG CA AT,TA AA CC CT GG GC CG TT TC,TG AC,Platinum compounds,0.02
+LungCarcinoma,rs945665113,CA TG GC AG GG TA TT CG AT,AA CC GA GT CT,TC AC,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors,0.0012
+LungCarcinoma,rs195862,AC GA TG,AT CA TC GG GT,GC CC CG CT AG TT TA AA,platinum,0.0006
+LungCarcinoma,rs2234918,GA CC,TT AC GC AG TG AA TA CG,GG TC GT CT AT CA,morphine,0.64
+LungCarcinoma,rs1057451,TA GC CA TC,GT GA AC AG AT AA TT,TG CC CT CG GG,platinum,0.0006
+LungCarcinoma,rs563649,GA,TG CG GG AT AC TT AA AG TC GC GT CC CA TA,CT,sufentanil,0.05
+LungCarcinoma,rs25487,GG TT CC TG GC CT AG TC CG GA,AC,AT TA GT AA CA,platinum,0.0
+LungCarcinoma,rs13181,AG TC,GT AC TA GA GC AA,TG GG CG CT AT TT CA CC,carboplatin,0.05
+LungCarcinoma,rs9535826,CT TA AA TC AT CA AC CG TT,GG CC GC AG,GT TG GA,Platinum compounds,0.01
+LungCarcinoma,rs1799782,GG TC CT GC CA CC,CG GA GT TG TT TA AG AT,AC AA,Platinum compounds,0.01
+LungCarcinoma,rs1045642,AG TA CC GC TT GT CA AA CG TC GA AC GG CT,AT,TG,sufentanil,0.05
+LungCarcinoma,rs4788184,TA CA AA AG TG CC GT AT GA TC GC CT GG AC,CG,TT,platinum,0.0006
+LungCarcinoma,rs324420,CC AC,GA AT GG TT GC,AG TA CT CA AA TC TG CG GT,morphine,0.23
+LungCarcinoma,rs4788186,AC AT GT GG AG,CA CT AA TC CG GA,CC GC TG TA TT,platinum,0.0006
+LungCarcinoma,rs2074216,GT CT CA AC GC GA TG TT,AA,GG AG CC TA CG TC AT,afatinib,0.003
+LungCarcinoma,rs2032582,GA AG AT AC CG TC CA GT TG,AA,GG CT CC TA TT GC,sufentanil,0.05
+LungCarcinoma,rs1051298,CG GC TT CT TA AA GA AG GT AT GG TG,TC CA AC,CC,bevacizumab,0.01
+LungCarcinoma,rs10956697,CT TT TA TC CC AT GT GA CG TG,CA,AC GC AA AG GG,Platinum compounds,0.004
+LungCarcinoma,rs7204252,GC CG AT GT CC GG TT CT,AC AG AA,GA TA TC CA TG,platinum,0.0006
+LungCarcinoma,rs1799971,AG AC AA GC GT GA CG GG CT TA,TC TT AT,TG CC CA,morphine,0.17
+LungCarcinoma,rs1128503,GC,TC CT AG TA CA TG AC TT AA CC GT,GA CG GG AT,sufentanil,0.05
+LungCarcinoma,rs619586,CT GA CC CA GC AG,TA TT TC GT AT AC,AA TG GG CG,Platinum compounds,0.04
+LungCarcinoma,rs1323040,CT GG AT TC CC TA GT AC AG,GC CG,TG TT AA CA GA,sufentanil,0.05
+LungCarcinoma,rs2839698,AG TT GG,CG CC TG AC TC AA TA GC CA,AT CT GT GA,Platinum compounds,0.04
+LungCarcinoma,rs1883306,CG TT GT CA TG,GC AT CT AG GA GG AA,TC CC TA AC,platinum,0.0006
+LungCarcinoma,rs2071554,CG GT AT TC CC CT AG,TG GG,GA GC AC CA TA AA TT,Platinum compounds,0.040
+LungCarcinoma,rs3746444,TT GG CA,CT TA CG AC AG,AA TG AT GC GA CC GT TC,cisplatin,0.044
+LungCarcinoma,rs1799971,TA TG GA AC AT TT,TC AA,CT GT AG CC CG GC GG CA,sufentanil,0.05
+LungCarcinoma,rs1799930,CC TG GG TT GT CG AT CA GA TA AA AG,CT,GC TC AC,irinotecan,0.01
+LungCarcinoma,rs2444933,TA AG,AT CC CT TT GA TG TC CA GC CG AC GT,GG AA,platinum,0.0006
+LungCarcinoma,rs1071748,CG GC GA,TT AT CC TC AA GG GT CT,TA CA AG TG AC,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors,0.008
+LungCarcinoma,rs7999812,TT CA,CT GC TA GT AT CG,AC GA AA TC GG AG CC TG,Platinum compounds,0.05
+LungCarcinoma,rs1061472,CG TA,TG CC GG AA GA GT,TT GC AT CT AC TC AG CA,Platinum compounds,0.05
+LungCarcinoma,rs3823036,AC,AT CC TT CG CT TC GC TG CA AA TA GT GG,GA AG,platinum,0.0006
+LungCarcinoma,rs1799931,TA TT GC CA GA AC GT,AA CT CG AT CC,GG TC TG AG,irinotecan,0.02
+LungCarcinoma,rs195854,GT GA TG AC AG CT GC TT CC GG TA TC AT AA,CG,CA,platinum,0.0006
+LungCarcinoma,rs7958904,GC TA AG CC GA CG TT AT AC TG,CA CT GG AA,TC GT,Platinum compounds,0.01
+LungCarcinoma,rs9535828,TG GT CC CA CG GG GA TC,AG AC,TT AA CT GC TA AT,Platinum compounds,0.01
+LungCarcinoma,rs4680,GT AT TA,AC TT TC CT CC GC CG,CA GG GA AA AG TG,morphine,0.34
+LungCarcinoma,rs2231142,TA,TC AC TT CC CG GC AG GA GT AA CT,TG GG CA AT,gefitinib,0.0046
+LungCarcinoma,rs172731,AC CC GC CT TT AG CG GT TC TG,AT AA GA TA,CA GG,platinum,0.0006
+LungCarcinoma,rs588765,GG AA GA TA,TC TT AG TG AT AC CA CC CT GC,GT CG,nicotine,0.277
+LungCarcinoma,rs184278615,CG AC TG CT CA CC GT GG AA GA TA,AT AG,TT TC GC,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors,0.001
+LungCarcinoma,rs896412,GT TG CG AT GG AG TC CC AA,CT GA TA GC CA,AC TT,platinum,0.0006
+LungCarcinoma,rs4148323,AT CA AC GA AA,GC,TC TT TA GT CC CT GG AG CG TG,irinotecan,0.0004
+LungCarcinoma,rs1333049,TA TG GT GA TT AG TC CC GG CT,AT GC AA,AC CG CA,Platinum compounds,0.28
+LungCarcinoma,rs16969968,AT,GG,GA CC CT CG AC AA CA AG GC TA TC TG TT GT,nicotine,0.388
+LungCarcinoma,rs7251786,GC AC GG GA AA,AT AG CA TG CT TA,TT CG CC TC GT,platinum,0.0006
+LungCarcinoma,rs2229959,GC AA GG AT CG CC TC CA TT GT CT TG TA,AG AC,GA,nicotine,0.003
+LungCarcinoma,rs1869641,AC GA GT TG,TC CT CG GG CA,AG TA TT GC AT AA CC,platinum,0.0006
+LungCarcinoma,rs2070995,AC CC TG CG,GT GG CA TC GA,AG CT GC TT AA AT TA,morphine,0.66
+LungCarcinoma,rs2236196,GC CA TA GA,TT,AC TG GT GG AG AT AA TC CT CC CG,nicotine,0.128
+LungCarcinoma,rs1047840,TT CT GA TG GC AG AC CC,AT GG CA AA TA GT CG,TC,pemetrexed,0.001
+LungCarcinoma,rs1044396,GT,AG TT GG TG GA AA AT CC GC CT TC,CG TA CA AC,nicotine,0.018
+LungCarcinoma,rs201469165,AT AA TG GT CC GG AC GA GC TT TC CA TA,CT,CG AG,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors,0.005
+LungCarcinoma,rs3738514,CG TC CT AG GC CA,CC GG TA GA GT AA AT TG,AC TT,platinum,0.027
+LungCarcinoma,rs662,TC AC TT GC CT GT AA GG CC,CA CG GA AT TA TG,AG,nicotine,0.308
+LungCarcinoma,rs578776,CC,GG,TT TA CA CT AC CG TG AG TC GA GT GC AA AT,nicotine,0.003
+LungCarcinoma,rs7305534,AA,CG TT CA AC TA CC,GA GC TC AG GT TG GG AT CT,platinum,0.0006
+LungCarcinoma,rs3759125,TC CA AT AC TA GC GG CG,AG AA TG CC,GT GA CT TT,platinum,0.0006
+LungCarcinoma,rs461872,CT AC CA GT GG CC GA,AT TC CG TG AG AA,TA TT GC,platinum,0.0006
+LungCarcinoma,rs2977551,GC AG AT TC GA,GG CC CA,CG AC AA CT GT TT TG TA,Platinum compounds,0.032
+LungCarcinoma,rs3759125,CC TT TC TA AG,CG AA GA CT,GC CA GT AT AC GG TG,platinum,0.012
+LungCarcinoma,rs1867380,AG CG CC,GC TG AC CT AT GG CA GA TC TT,GT AA TA,platinum,0.0006
+LungCarcinoma,rs4149117,AA GA CG AT TT GG GT TC GC CT,TA TG CA,AC AG CC,carboplatin,0.00279
+LungCarcinoma,rs2261988,GG CG,GT GA AA TA TT CA TC AC,CT GC TG AT CC AG,afatinib,0.003
+LungCarcinoma,rs4759314,AT,TG TT AC CC AG CG GA CA GC TA GG,GT AA TC CT,Platinum compounds,0.66
+LungCarcinoma,rs10875989,AT CA TT AA AG,TG TC GC GA GT CG CC GG TA AC,CT,platinum,0.0006
+LungCarcinoma,rs1448784,TA AG GA GG GT CG,AT CA TT AA TG GC CT,CC TC AC,Platinum compounds,0.040
+LungCarcinoma,rs10875989,TT CT AG AT GA CG CA TG,GG GT AC CC,AA TA GC TC,platinum,0.025
+LungCarcinoma,rs7224199,TG CA AG,TA GA TT,GT AT GC AA TC AC CC CG GG CT,morphine,0.115
+LungCarcinoma,rs854565,AG GG TA AA,TT TG GT AT AC CT GA CG,CA GC TC CC,nicotine,0.863
+LungCarcinoma,rs11545077,CC GA AT TG AC GG CT,GT,TT CA AG AA GC TA TC CG,bevacizumab,0.06
+LungCarcinoma,rs7314734,TG CA GG GA GT TA AT AG CG CT CC,TC GC,AC AA TT,platinum,0.0006
+LungCarcinoma,rs3807598,CC AG TT TG GA CG GC,TA GT,AT CA GG TC CT AA AC,Platinum compounds,0.92
+LungCarcinoma,rs2929973,GG TG TT CG GT AT CC TC,CA AG AA,TA AC GC CT GA,Platinum compounds,0.015
+LungCarcinoma,rs3740556,GA CA CT AC GT,GG GC CG TT TA TG CC,TC AG AA AT,carboplatin,0.01
+LungCarcinoma,rs3759126,GT TC AT CG AG,GC AA TG CC CA TT AC GA CT,GG TA,platinum,0.0006
+LungCarcinoma,rs3806915,AA TC AG CT GT TG,CG TT TA CC GG AT CA GC AC,GA,cisplatin,0.04
+LungCarcinoma,rs296766,TA TC,CA AA CC CT AT GT TT AG TG,GC CG GA GG AC,platinum,0.0006
+LungCarcinoma,rs854552,GT TT TC CA GC,CG GG AG AT,CT CC TA TG AC GA AA,nicotine,0.863
+LungCarcinoma,rs1653586,TC AA CA TG TT CC GG,GA AG,AC GC CG GT AT TA CT,pemetrexed,0.002
+LungCarcinoma,rs4148323,TG AA GC CC AT AG GT CA CT TT AC GA,GG CG TA,TC,irinotecan,0.22
+LungCarcinoma,rs13306698,CC,CA GC AC TG CT AT GA AG GT TA CG,TT TC GG AA,nicotine,0.872
+LungCarcinoma,rs121434569,TC AC GG GT CT TT TG AT,TA GA AG GC CG CA CC,AA,erlotinib,
+LungCarcinoma,rs1042173,GA AT CA TA TG,GG TC AA AC CG AG GT CT GC CC,TT,morphine,0.001
+LungCarcinoma,rs1523130,TT TC GG TG AC CA CT GT AG AA CG CC GC GA,AT,TA,carboplatin,0.00792
+LungCarcinoma,rs6941,AC,CC CG TA AA CA AT GG AG TG GC,CT GT TC TT GA,platinum,0.006
+LungCarcinoma,rs116907618,GT CA AT GA TT AG,CC GG AC,TG TC CT GC CG AA TA,Platinum compounds,0.30
+LungCarcinoma,rs316003,AA TC GT AC TG TA,GC CT CC TT GG GA AT CA AG,CG,Platinum compounds,0.029
+LungCarcinoma,rs1859168,CA AC GG TG CC TT CT AA,CG AG AT,GA GC GT TC TA,Platinum compounds,0.75
+LungCarcinoma,rs9523,TT CC,TC CA AT AA TA CT CG GG GA AC GC AG,GT TG,afatinib,0.003
+LungCarcinoma,rs8023369,TA GA CT AC GT AG TG CG TC AT CA,GC TT GG,AA CC,platinum,0.0006
+LungCarcinoma,rs2249825,GA AC GT CA AG TA TT TG,CT AT AA CG GC CC,TC GG,Platinum compounds,0.03
+LungCarcinoma,rs1523127,CC GG CA TC GA,GC CT,GT AT TG CG AC TA AA TT AG,carboplatin,0.01395
+LungCarcinoma,rs1412125,CC,TC GA GG TG,AG GT AA TT CT CG AT TA GC AC CA,Platinum compounds,0.013
+LungCarcinoma,rs5883064,GC CC AC,TG AG GT GA CA TT AA CG TC CT,GG TA AT,Platinum compounds,0.82
+LungCarcinoma,rs854573,GC AA GA CG TG CA CC AT GT AG,CT,TA TT AC TC GG,nicotine,0.863
+LungCarcinoma,rs2077737,GT AG AC CT GA CA TA GG TT CC GC AA AT,CG,TG TC,platinum,0.0006
+LungCarcinoma,rs1051685,TA,CC GG GT AA GA TT CG CT TG AC CA TC GC,AT AG,platinum,0.041
+LungCarcinoma,rs9920375,GG CA TA AT AC AG CT CG AA,TC TG GT TT GA GC,CC,platinum,0.0006
+LungCarcinoma,rs1554203,AG AA,CA TT TC CC AC AT GC,TA GT GA CT CG TG GG,platinum,0.0006
+LungCarcinoma,rs1799931,CC GA GC TC GG AT TT,TA TG GT CA AC AA AG CT,CG,paclitaxel,0.0023
+LungCarcinoma,rs854572,CC,CT TA AA CG AG TG AC TT GA GG GT TC AT,GC CA,nicotine,0.487
+LungCarcinoma,rs854568,TA AT AC GT CC CA AG AA,CT TC GG CG,TG TT GA GC,nicotine,0.903
+LungCarcinoma,rs1516400,GG AC CT AA TA TG,TC CA GC GA AG GT AT,CG CC TT,platinum,0.0006
+LungCarcinoma,rs10120688,TC CT AT,AA CA TT TA GA GC CC GT,AG CG TG GG AC,Platinum compounds,0.19
+LungCarcinoma,rs11541557,TA AA CC TC TG CG TT AT GT GC AG GG,GA CT CA,AC,afatinib,0.0001
