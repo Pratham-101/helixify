@@ -58,7 +58,7 @@ export default function SidebarDrawer() {
                     <BsFillInfoSquareFill />
                   </ListItemIcon>
                   <ListItemText
-                    primary="About"
+                    primary="Personal"
                     sx={{ ml: -2, color: "inherit" }}
                   />
                 </ListItemButton>
@@ -101,7 +101,7 @@ export default function SidebarDrawer() {
                     <TbClipboardCheck />
                   </ListItemIcon>
                   <ListItemText
-                                      primary="Symptoms"
+                                      primary="Predictive diagnosis"
                                       sx={{ ml: -2, color: "inherit" }}
                                     />
                                   </ListItemButton>
@@ -109,7 +109,7 @@ export default function SidebarDrawer() {
                                 </Link>
                     
                                 {/* Blogs Link */}
-                                <Link to="/blogs" style={{ textDecoration: "none" }}>
+                                { <Link to="/Chat bot" style={{ textDecoration: "none" }}>
                                   <ListItem disablePadding>
                                     <ListItemButton
                                       sx={{
@@ -123,12 +123,12 @@ export default function SidebarDrawer() {
                                         <SiBlogger />
                                       </ListItemIcon>
                                       <ListItemText
-                                        primary="Blogs"
+                                        primary="Chat bot"
                                         sx={{ ml: -2, color: "inherit" }}
                                       />
                                     </ListItemButton>
                                   </ListItem>
-                                </Link>
+                                </Link> }
                     
                                 {/* Connect Doctors Link */}
                                 <Link to="/connect-doctors" style={{ textDecoration: "none" }}>

@@ -10,15 +10,15 @@ export default function About() {
 
   // State to store user information
   const [userInfo, setUserInfo] = useState({
-    name: '',
-    phone: '',
-    email: '',
-    age: '',
-    weight: '',
-    height: '',
-    allergies: '',
-    pastIllnesses: '',
-    currentMedication: ''
+    name: 'Pratham',
+    phone: '72086**630',
+    email: 'xyz@gmail.com',
+    age: '20',
+    weight: '63',
+    height: '175',
+    allergies: 'no',
+    pastIllnesses: 'no',
+    currentMedication: 'no'
   });
 
   // State to manage form visibility (edit mode)

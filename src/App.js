@@ -3,11 +3,9 @@ import SidebarDrawer from "./components/SidebarDrawer";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Appointment from "./components/Appointment";
-import Symptoms from "./components/Symptoms";  // Import Symptoms component
-import ConnectDoctors from "./components/ConnectDoctors";  // Import ConnectDoctors component
+import Symptoms from "./components/Symptoms";  
+import ConnectDoctors from "./components/ConnectDoctors";  
 import User from "./components/User";
-import Blogs from "./components/Blogs";
-import BlogsId from "./components/BlogsId";
 import Home from "./components/Home";
 import Login from "./components/Login";
 import PrivateRoute from "./components/PrivateRoute";
@@ -59,22 +57,6 @@ export const appRouter = createBrowserRouter([
         element: (
           <PrivateRoute>
             <User />
-          </PrivateRoute>
-        ),
-      },
-      {
-        path: "blogs",
-        element: (
-          <PrivateRoute>
-            <Blogs />
-          </PrivateRoute>
-        ),
-      },
-      {
-        path: "blogs/:id",
-        element: (
-          <PrivateRoute>
-            <BlogsId />
           </PrivateRoute>
         ),
       },

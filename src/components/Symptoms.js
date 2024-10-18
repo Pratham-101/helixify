@@ -144,9 +144,9 @@ Exercise: ${exerciseHours} hours per week`);
         <FormControl fullWidth sx={{ mb: 3 }}>
           <InputLabel>Diet/Nutrition</InputLabel>
           <Select value={diet} onChange={(e) => setDiet(e.target.value)} label="Diet/Nutrition">
-            <MenuItem value="Never">Never</MenuItem>
-            <MenuItem value="Occasional">Occasional</MenuItem>
-            <MenuItem value="Frequently">Frequently</MenuItem>
+            <MenuItem value="Never">healthy</MenuItem>
+            <MenuItem value="Occasional">balanced</MenuItem>
+            <MenuItem value="Frequently">junk</MenuItem>
           </Select>
         </FormControl>
       </Box>
