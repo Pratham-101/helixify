@@ -12,6 +12,7 @@ import { TbCalendarEvent, TbClipboardCheck } from "react-icons/tb";
 import { MdConnectWithoutContact } from "react-icons/md";  // Icon for Connect Doctors
 import { Link } from "react-router-dom";
 import { useTheme } from "@mui/material/styles";
+import './SidebarDrawer.css';  // Custom CSS for enhanced styles
 
 export default function SidebarDrawer() {
   const theme = useTheme();
@@ -26,136 +27,84 @@ export default function SidebarDrawer() {
       <Drawer
         variant="permanent"
         sx={{
-          width: 190,
+          width: 220,  // Increase the width to give more space for icons and text
           flexShrink: 0,
           [`& .MuiDrawer-paper`]: {
-            width: 190,
+            width: 220,
             boxSizing: "border-box",
-            backgroundColor: "#f4f4f4",
+            backgroundColor: "#2E8B8C",  // Teal green background color
+            color: "#F1F1F1",  // Light color for text
             [theme.breakpoints.down("md")]: {
-              width: 150,
+              width: 180,
             },
             [theme.breakpoints.down("sm")]: {
-              width: 120,
+              width: 150,
             },
           },
         }}
       >
         <Box sx={{ overflow: "auto", mt: 8 }}>
           <List>
-            {/* About Link */}
-            <Link to="/about" style={{ textDecoration: "none" }}>
+            {/* Personal Information Link */}
+            <Link to="/about" className="custom-link">
               <ListItem disablePadding>
-                <ListItemButton
-                  sx={{
-                    "&:hover": {
-                      backgroundColor: "var(--main-bg-color)",
-                      color: "#fff",
-                    },
-                  }}
-                >
-                  <ListItemIcon sx={{ color: "var(--main-bg-color)" }}>
+                <ListItemButton className="list-item aqua-hover">
+                  <ListItemIcon className="icon">
                     <BsFillInfoSquareFill />
                   </ListItemIcon>
-                  <ListItemText
-                    primary="Personal"
-                    sx={{ ml: -2, color: "inherit" }}
-                  />
+                  <ListItemText primary="Personal" />
                 </ListItemButton>
               </ListItem>
             </Link>
 
             {/* Book Appointment Button */}
             <ListItem disablePadding>
-              <ListItemButton
-                onClick={handleBookAppointment}
-                sx={{
-                  "&:hover": {
-                    backgroundColor: "var(--main-bg-color)",
-                    color: "#fff",
-                  },
-                }}
-              >
-                <ListItemIcon sx={{ color: "var(--main-bg-color)" }}>
+              <ListItemButton onClick={handleBookAppointment} className="list-item aqua-hover">
+                <ListItemIcon className="icon">
                   <TbCalendarEvent />
                 </ListItemIcon>
-                <ListItemText
-                  primary="Book Appointment"
-                  sx={{ ml: -2, color: "inherit" }}
-                />
+                <ListItemText primary="Book Appointment" />
               </ListItemButton>
             </ListItem>
 
-            {/* Symptoms Link */}
-            <Link to="/symptoms" style={{ textDecoration: "none" }}>
+            {/* Predictive Diagnosis */}
+            <Link to="/symptoms" className="custom-link">
               <ListItem disablePadding>
-                <ListItemButton
-                  sx={{
-                    "&:hover": {
-                      backgroundColor: "var(--main-bg-color)",
-                      color: "#fff",
-                    },
-                  }}
-                >
-                  <ListItemIcon sx={{ color: "var(--main-bg-color)" }}>
+                <ListItemButton className="list-item aqua-hover">
+                  <ListItemIcon className="icon">
                     <TbClipboardCheck />
                   </ListItemIcon>
-                  <ListItemText
-                                      primary="Predictive diagnosis"
-                                      sx={{ ml: -2, color: "inherit" }}
-                                    />
-                                  </ListItemButton>
-                                </ListItem>
-                                </Link>
-                    
-                                {/* Blogs Link */}
-                                { <Link to="/Chat bot" style={{ textDecoration: "none" }}>
-                                  <ListItem disablePadding>
-                                    <ListItemButton
-                                      sx={{
-                                        "&:hover": {
-                                          backgroundColor: "var(--main-bg-color)",
-                                          color: "#fff",
-                                        },
-                                      }}
-                                    >
-                                      <ListItemIcon sx={{ color: "var(--main-bg-color)" }}>
-                                        <SiBlogger />
-                                      </ListItemIcon>
-                                      <ListItemText
-                                        primary="Chat bot"
-                                        sx={{ ml: -2, color: "inherit" }}
-                                      />
-                                    </ListItemButton>
-                                  </ListItem>
-                                </Link> }
-                    
-                                {/* Connect Doctors Link */}
-                                <Link to="/connect-doctors" style={{ textDecoration: "none" }}>
-                                  <ListItem disablePadding>
-                                    <ListItemButton
-                                      sx={{
-                                        "&:hover": {
-                                          backgroundColor: "var(--main-bg-color)",
-                                          color: "#fff",
-                                        },
-                                      }}
-                                    >
-                                    <ListItemIcon sx={{ color: "var(--main-bg-color)" }}>
-                                        <MdConnectWithoutContact />  {/* Icon for Connect Doctors */}
-                                      </ListItemIcon>
-                                      <ListItemText
-                                        primary="Connect Doctors"
-                                        sx={{ ml: -2, color: "inherit" }}
-                                      />
-                                    </ListItemButton>
-                                  </ListItem>
-                                </Link>
-                              </List>
-                            </Box>
-                          </Drawer>
-                        </Box>
-                      );
-                    }
-                                      
-                    
+                  <ListItemText primary="Predictive diagnosis" />
+                </ListItemButton>
+              </ListItem>
+            </Link>
+
+            {/* Chat bot */}
+            <Link to="/Chat bot" className="custom-link">
+              <ListItem disablePadding>
+                <ListItemButton className="list-item aqua-hover">
+                  <ListItemIcon className="icon">
+                    <SiBlogger />
+                  </ListItemIcon>
+                  <ListItemText primary="Chat bot" />
+                </ListItemButton>
+              </ListItem>
+            </Link>
+
+            {/* Connect Doctors */}
+            <Link to="/connect-doctors" className="custom-link">
+              <ListItem disablePadding>
+                <ListItemButton className="list-item aqua-hover">
+                  <ListItemIcon className="icon">
+                    <MdConnectWithoutContact />
+                  </ListItemIcon>
+                  <ListItemText primary="Connect Doctors" />
+                </ListItemButton>
+              </ListItem>
+            </Link>
+          </List>
+        </Box>
+      </Drawer>
+    </Box>
+  );
+}
