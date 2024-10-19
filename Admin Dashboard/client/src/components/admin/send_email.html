@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Send Email Notification</title>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+</head>
+<body>
+    <h1>Sending Email...</h1>
+    <p id="message"></p>
+
+    <script>
+        // Initialize EmailJS with your User ID
+        (function() {
+            emailjs.init("hSbvdswraDwpnAg-H"); // Replace with your EmailJS user ID
+        })();
+
+        // Get email and status from URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const email = urlParams.get('email');
+        const status = urlParams.get('status');
+
+        // Set the appropriate template ID based on the status
+        let templateID = "";
+        if (status === "successful") {
+            templateID = "template_aw2kwra"; // Replace with your success template ID
+        } else if (status === "cancelled") {
+            templateID = "template_twjg1vd"; // Replace with your cancel template ID
+        }
+
+        // Send email using EmailJS
+        emailjs.send("service_eyml65i", templateID, {
+            to_email: email, // Patient's email address
+            status: status // Pass the status to the email template
+        })
+        .then(function(response) {
+            document.getElementById("message").textContent = "Email sent successfully!";
+            console.log("Email sent successfully!", response.status, response.text);
+        }, function(error) {
+            document.getElementById("message").textContent = "Failed to send email. Please try again.";
+            console.error("Failed to send email:", error);
+        });
+
+        // Redirect back to admin dashboard after a delay
+        setTimeout(function() {
+            window.location.href = "http://localhost/helixify/client/src/components/crud/form.php";
+        }, 3000); // Wait for 3 seconds before redirecting
+    </script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV to PDF Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f9;
+        }
+        #container {
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            text-align: center;
+        }
+        input[type="file"] {
+            margin: 20px 0;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #download-link {
+            display: none;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="container">
+    <h1>Upload your CSV and Download PDF</h1>
+
+    <form id="upload-form" enctype="multipart/form-data">
+        <input type="file" id="csv-file" name="file" accept=".csv" required>
+        <br>
+        <button type="submit">Upload and Generate PDF</button>
+    </form>
+
+    <div id="download-link" style="display: none;">
+        <h3>Download the generated PDF:</h3>
+        <a id="pdf-link" href="#" download>Download PDF</a>
+    </div>
+</div>
+
+<script>
+    document.getElementById('upload-form').addEventListener('submit', async function (e) {
+        e.preventDefault();
+        const formData = new FormData();
+        formData.append('file', document.getElementById('csv-file').files[0]);
+
+        try {
+            const response = await fetch('/upload', {
+                method: 'POST',
+                body: formData
+            });
+
+            if (response.ok) {
+                const blob = await response.blob();
+                const url = window.URL.createObjectURL(blob);
+                
+                const pdfLink = document.getElementById('pdf-link');
+                pdfLink.href = url;
+
+                document.getElementById('download-link').style.display = 'block';
+            } else {
+                // Display error message returned by the backend
+                const errorMessage = await response.text();
+                alert(`Error: ${errorMessage}`);
+            }
+        } catch (err) {
+            console.error(err);
+            alert('Something went wrong');
+        }
+    });
+</script>
+
+</body>
+</html>
