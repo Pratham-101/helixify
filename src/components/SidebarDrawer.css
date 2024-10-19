@@ -1,0 +1,34 @@
+/* Custom Styles for Sidebar Drawer */
+.custom-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .list-item {
+    color: #FFF;  /* White text */
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  /* Hover effect to replicate the flat design with shadow and slight scaling */
+  .flat-hover:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+    transform: translateY(-3px); /* Slight float effect */
+  }
+  
+  /* Styling for icons, similar to the design */
+  .icon {
+    color: #FFF;
+    font-size: 1.7em;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+  }
+  
+  /* Darker gradient background for the sidebar */
+  .MuiDrawer-paper {
+    background: linear-gradient(180deg, #008d85 25%, #017b5c 75%, #07d8ab 100%) !important; /* Darker Green-Teal gradient */
+  }
+  
+  
