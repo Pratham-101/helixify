@@ -1,14 +1,13 @@
-import * as React from "react";
-import Button from "@mui/material/Button";
-import Box from "@mui/material/Box";
+import React from "react";
+import { Button, Box, Typography } from "@mui/material";
 import { useRouteError, Link } from "react-router-dom";
-import Typography from "@mui/material/Typography";
 import ErrorIcon from "@mui/icons-material/Error";
 import { useTheme } from "@mui/material/styles";
 
 export default function Error() {
   const err = useRouteError();
   const theme = useTheme();
+
   return (
     <Box
       sx={{
@@ -19,49 +18,20 @@ export default function Error() {
         justifyContent: "center",
         alignItems: "center",
         bgcolor: "#e6f0ff",
-        [theme.breakpoints.down("md")]: {
-          pl: 2,
-        },
+        pl: { md: 0, sm: 2 },
       }}
     >
       <Typography
         variant="h1"
-        sx={{
-          [theme.breakpoints.down("md")]: {
-            fontSize: 55,
-          },
-          [theme.breakpoints.down("sm")]: {
-            fontSize: 45,
-          },
-        }}
         gutterBottom
+        sx={{ fontSize: { md: 55, sm: 45 } }}
       >
         <ErrorIcon
-          sx={{
-            fontSize: 85,
-            color: "#ff4d4d",
-            [theme.breakpoints.down("md")]: {
-              fontSize: 55,
-            },
-            [theme.breakpoints.down("sm")]: {
-              fontSize: 45,
-            },
-          }}
+          sx={{ fontSize: { md: 55, sm: 45 }, color: "#ff4d4d" }}
         />{" "}
         Error {err.status}
       </Typography>
-      <Typography
-        variant="h4"
-        sx={{
-          [theme.breakpoints.down("md")]: {
-            fontSize: 25,
-          },
-          [theme.breakpoints.down("sm")]: {
-            fontSize: 20,
-          },
-        }}
-        gutterBottom
-      >
+      <Typography variant="h4" gutterBottom sx={{ fontSize: { md: 25, sm: 20 } }}>
         {err.data}
       </Typography>
       <Box sx={{ mt: 2 }}>
@@ -71,9 +41,7 @@ export default function Error() {
               color: "black",
               textTransform: "none",
               bgcolor: "#80ff80",
-              "&:hover": {
-                bgcolor: "#e6e6e6",
-              },
+              "&:hover": { bgcolor: "#e6e6e6" },
             }}
           >
             Back to Home
