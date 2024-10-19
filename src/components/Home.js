@@ -1,5 +1,6 @@
 import React from "react";
-import { Box, Typography } from "@mui/material";
+import Box from "@mui/material/Box";
+import Typography from "@mui/material/Typography";
 import { useTheme } from "@mui/material/styles";
 import HomeRemedies from "./HomeRemedies";
 import HealthCharts from "./HealthCharts";
@@ -11,25 +12,68 @@ export default function Home() {
     <Box
       sx={{
         mt: 10,
-        ml: { xs: 18, sm: 18, md: 22, lg: 30 },
+        ml: 30,
         textAlign: "center",
+        [theme.breakpoints.down("md")]: {
+          ml: 22,
+        },
+        [theme.breakpoints.down("sm")]: {
+          ml: 18,
+        },
       }}
     >
-      {["Welcome to the", "User Dashboard Panel", "Have a Good Day!"].map((text, idx) => (
-        <Typography
-          key={idx}
-          variant={idx === 2 ? "h5" : "h4"}
-          sx={{ fontSize: { xs: 18, sm: 22, md: 26 } }}
-          gutterBottom
-        >
-          {text}
-        </Typography>
-      ))}
+      <Typography
+        variant="h4"
+        sx={{
+          [theme.breakpoints.down("md")]: {
+            fontSize: 26,
+          },
+          [theme.breakpoints.down("sm")]: {
+            fontSize: 22,
+          },
+        }}
+        gutterBottom
+      >
+        Welcome to the
+      </Typography>
+      <Typography
+        variant="h4"
+        sx={{
+          [theme.breakpoints.down("md")]: {
+            fontSize: 26,
+          },
+          [theme.breakpoints.down("sm")]: {
+            fontSize: 22,
+          },
+        }}
+        gutterBottom
+      >
+         User Dashboard Panel
+      </Typography>
+      <Typography
+        variant="h5"
+        sx={{
+          [theme.breakpoints.down("md")]: {
+            fontSize: 22,
+          },
+          [theme.breakpoints.down("sm")]: {
+            fontSize: 18,
+          },
+        }}
+        gutterBottom
+      >
+        Have a Good Day!
+      </Typography>
 
-      <Box sx={{ mt: 10 }} /> {/* Spacing */}
+      {/* Adding spacing between "Have a Good Day!" and the next section */}
+      <Box sx={{ mt: 10 }} />  {/* Adjust the marginTop value (mt) for more or less spacing */}
 
+      {/* Adding new sections to Home */}
       <HomeRemedies />
+      {/* <Stats/> */}
+      {/* <NewsPanel /> */}
       <HealthCharts />
+      
     </Box>
   );
 }
