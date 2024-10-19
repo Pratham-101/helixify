@@ -4,6 +4,7 @@ import pandas as pd
 
 import disease_detection
 import drug_recommendation
+import lifestyle_recommendation
 
 
 app = Flask(__name__)
@@ -46,6 +47,9 @@ def upload_file():
 
             drug_insights = drug_recommendation.get_drug_efficacy(drug_features, disease_insights)
             print(drug_insights, "\n")
+
+            lifestyle_insights = lifestyle_recommendation.get_lifestyle_changes(disease_insights)
+            print(lifestyle_insights, "\n")
             
         return "Processed", 200
 
