@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Raw DNA File</title>
+    <style>
+        :root {
+            --primary-color: #37AE9A;
+            --dark-color: #0a2540;
+            --light-gray: #f6f9fc;
+            --mid-gray: #e0e0e0;
+            --text-color: #425466;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: var(--light-gray);
+            color: var(--text-color);
+        }
+
+        #container {
+            width: 100%;
+            max-width: 600px;
+            padding: 40px;
+            background-color: white;
+            box-shadow: 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);
+            border-radius: 8px;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 30px;
+            color: var(--dark-color);
+        }
+
+        #upload-form {
+            border: 2px dashed var(--mid-gray);
+            border-radius: 8px;
+            padding: 40px 20px;
+            text-align: center;
+            background-color: var(--light-gray);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        #upload-form:hover {
+            border-color: var(--primary-color);
+            background-color: #f0f4f8;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        #upload-form::before {
+            content: "+";
+            font-size: 48px;
+            color: var(--primary-color);
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        #upload-form::after {
+            content: "Drag & drop or click to upload Raw DNA File";
+            color: var(--text-color);
+            font-size: 16px;
+            display: block;
+        }
+
+        #file-info {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: var(--light-gray);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+        }
+
+        #file-info::before {
+            content: "\1F4C4";  /* File emoji Unicode */
+            font-size: 24px;
+            margin-right: 10px;
+            color: var(--primary-color);
+        }
+
+        #file-name {
+            flex-grow: 1;
+            font-size: 14px;
+        }
+
+        #download-link {
+            margin-top: 20px;
+        }
+
+        #pdf-link {
+            display: inline-block;
+            width: 100%;
+            padding: 12px 16px;
+            background-color: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: all 0.2s ease;
+            font-size: 16px;
+            font-weight: 600;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+        }
+
+        #pdf-link:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
+        }
+
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.8);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .loading-bar-container {
+            width: 300px;
+            height: 20px;
+            background-color: var(--light-gray);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .loading-bar {
+            width: 0%;
+            height: 100%;
+            background-color: var(--primary-color);
+            transition: width 0.5s ease;
+        }
+
+        .loading-text {
+            margin-top: 10px;
+            font-size: 16px;
+            color: var(--text-color);
+        }
+
+        .status-message {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: var(--text-color);
+        }
+    </style>
+</head>
+<body>
+
+<div id="container">
+    <h1>DNA File to PDF Converter</h1>
+
+    <form id="upload-form" enctype="multipart/form-data">
+        <input type="file" id="csv-file" name="file" accept=".csv" required>
+    </form>
+
+    <div id="file-info" style="display: none;">
+        <span id="file-name"></span>
+    </div>
+
+    <div id="status-message" class="status-message"></div>
+
+    <div id="download-link" style="display: none;">
+        <a id="pdf-link" href="#" download>Download PDF</a>
+    </div>
+</div>
+
+<div id="loading-overlay" class="loading-overlay" style="display: none;">
+    <div class="loading-bar-container">
+        <div id="loading-bar" class="loading-bar"></div>
+    </div>
+    <div id="loading-text" class="loading-text">Processing: 0%</div>
+</div>
+
+<script>
+    const form = document.getElementById('upload-form');
+    const fileInput = document.getElementById('csv-file');
+    const fileInfo = document.getElementById('file-info');
+    const fileName = document.getElementById('file-name');
+    const downloadLink = document.getElementById('download-link');
+    const loadingOverlay = document.getElementById('loading-overlay');
+    const loadingBar = document.getElementById('loading-bar');
+    const loadingText = document.getElementById('loading-text');
+    const statusMessage = document.getElementById('status-message');
+
+    form.addEventListener('click', () => fileInput.click());
+
+    fileInput.addEventListener('change', async (e) => {
+        if (e.target.files.length > 0) {
+            const file = e.target.files[0];
+            fileName.textContent = file.name;
+            fileInfo.style.display = 'flex';
+            downloadLink.style.display = 'none';
+            statusMessage.textContent = '';
+            
+            const formData = new FormData();
+            formData.append('file', file);
+
+            try {
+                loadingOverlay.style.display = 'flex';
+                loadingBar.style.width = '0%';
+                loadingText.textContent = 'Processing: 0%';
+                statusMessage.textContent = 'Processing your DNA file...';
+                
+                // Simulate progress (replace this with actual progress if your server supports it)
+                let progress = 0;
+                const interval = setInterval(() => {
+                    progress += Math.random() * 10;
+                    if (progress > 100) progress = 100;
+                    loadingBar.style.width = `${progress}%`;
+                    loadingText.textContent = `Processing: ${Math.round(progress)}%`;
+                    if (progress === 100) clearInterval(interval);
+                }, 500);
+
+                const response = await fetch('/upload', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                clearInterval(interval);
+                loadingBar.style.width = '100%';
+                loadingText.textContent = 'Processing: 100%';
+
+                if (response.ok) {
+                    const blob = await response.blob();
+                    const url = window.URL.createObjectURL(blob);
+                    
+                    const pdfLink = document.getElementById('pdf-link');
+                    pdfLink.href = url;
+
+                    downloadLink.style.display = 'block';
+                    statusMessage.textContent = 'Your PDF is ready for download!';
+                } else {
+                    const errorMessage = await response.text();
+                    statusMessage.textContent = `Error: ${errorMessage}`;
+                }
+            } catch (err) {
+                console.error(err);
+                statusMessage.textContent = 'An unexpected error occurred. Please try again.';
+            } finally {
+                loadingOverlay.style.display = 'none';
+            }
+        }
+    });
+
+    // Prevent the default drag-and-drop behavior
+    ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+        form.addEventListener(eventName, preventDefaults, false);
+        document.body.addEventListener(eventName, preventDefaults, false);
+    });
+
+    function preventDefaults(e) {
+        e.preventDefault();
+        e.stopPropagation();
+    }
+
+    // Handle drop
+    form.addEventListener('drop', handleDrop, false);
+
+    function handleDrop(e) {
+        let dt = e.dataTransfer;
+        let files = dt.files;
+
+        fileInput.files = files;
+        if (files.length > 0) {
+            fileInput.dispatchEvent(new Event('change'));
+        }
+    }
+</script>
+
+</body>
+</html>
