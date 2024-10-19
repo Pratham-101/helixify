@@ -41,7 +41,7 @@ def  get_disease_prediction(features, prs_values):
     # new_dataset = pd.concat([dataset, final_features], ignore_index=True)
     # new_dataset.to_csv(r'Database\Dataset.csv', index=False)
 
-    predictions = disease_ml.model_output(final_features.iloc[:, :-10])
+    predictions = disease_ml.model_output(final_features)
     return predictions
 
 
