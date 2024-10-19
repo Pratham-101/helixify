@@ -1,6 +1,6 @@
 
 
-def calculate_efficacy(features, disease_insights):
+def get_drug_efficacy(features, disease_insights):
     
     drug_efficacy = {}
 
