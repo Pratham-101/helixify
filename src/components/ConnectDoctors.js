@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import { Box, TextField, Card, CardContent, Button, Typography } from "@mui/material";
+import { Box, TextField, Card, CardContent, Button, Typography, Grid, Paper } from "@mui/material";
+import { motion } from "framer-motion"; // For animations
 
 // Sample data for doctors (unchanged)
 const doctorsData = [
@@ -41,41 +42,82 @@ const ConnectDoctors = () => {
         boxSizing: "border-box",
       }}
     >
-      <Typography variant="h4" sx={{ marginBottom: 2 }}>
+      <Typography
+        variant="h4"
+        sx={{ marginBottom: 3, fontWeight: "bold", color: "primary.main" }}
+        component={motion.div}
+        initial={{ opacity: 0, y: -20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+      >
         Connect with Doctors
       </Typography>
-      
+
       <TextField
         label="Search by Disease"
         variant="outlined"
         fullWidth
         value={searchTerm}
         onChange={handleSearchChange}
-        sx={{ marginBottom: 2 }}
+        sx={{ marginBottom: 3 }}
+        component={motion.div}
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.2, duration: 0.5 }}
       />
 
-      <Box sx={{ maxHeight: "calc(100vh - 200px)", overflowY: "auto" }}>
+      <Grid container spacing={2}>
         {filteredDoctors.length > 0 ? (
           filteredDoctors.map((doctor) => (
-            <Card key={doctor.id} sx={{ marginBottom: 2 }}>
-              <CardContent>
-                <Typography variant="h6">{doctor.name}</Typography>
-                <Typography variant="body2">Specialty: {doctor.specialty}</Typography>
-                <Button
-                  variant="contained"
-                  color="primary"
-                  onClick={() => handleBookAppointment(doctor.name)}
-                  sx={{ marginTop: 1 }}
-                >
-                  Book Appointment
-                </Button>
-              </CardContent>
-            </Card>
+            <Grid item xs={12} md={6} lg={4} key={doctor.id}>
+              <Card
+                component={motion.div}
+                whileHover={{ scale: 1.05 }}
+                transition={{ type: "spring", stiffness: 300 }}
+                sx={{
+                  borderRadius: "12px",
+                  boxShadow: 3,
+                  backgroundColor: "#f9f9f9",
+                }}
+              >
+                <CardContent>
+                  <Typography
+                    variant="h6"
+                    sx={{ fontWeight: "bold", marginBottom: 1 }}
+                    color="primary"
+                  >
+                    {doctor.name}
+                  </Typography>
+                  <Typography variant="body2" color="textSecondary" sx={{ marginBottom: 2 }}>
+                    Specialty: {doctor.specialty}
+                  </Typography>
+                  <Button
+                    variant="contained"
+                    color="primary"
+                    onClick={() => handleBookAppointment(doctor.name)}
+                    sx={{ width: "100%" }}
+                  >
+                    Book Appointment
+                  </Button>
+                </CardContent>
+              </Card>
+            </Grid>
           ))
         ) : (
-          <Typography variant="body1">No doctors found for your search.</Typography>
+          <Grid item xs={12}>
+            <Paper
+              component={motion.div}
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              sx={{ padding: 3, textAlign: "center", boxShadow: 3 }}
+            >
+              <Typography variant="body1" color="textSecondary">
+                No doctors found for your search.
+              </Typography>
+            </Paper>
+          </Grid>
         )}
-      </Box>
+      </Grid>
     </Box>
   );
 };
