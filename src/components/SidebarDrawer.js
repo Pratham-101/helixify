@@ -141,5 +141,21 @@ export default function SidebarDrawer() {
                                         },
                                       }}
                                     >
+                                    <ListItemIcon sx={{ color: "var(--main-bg-color)" }}>
+                                        <MdConnectWithoutContact />  {/* Icon for Connect Doctors */}
+                                      </ListItemIcon>
+                                      <ListItemText
+                                        primary="Connect Doctors"
+                                        sx={{ ml: -2, color: "inherit" }}
+                                      />
+                                    </ListItemButton>
+                                  </ListItem>
+                                </Link>
+                              </List>
+                            </Box>
+                          </Drawer>
+                        </Box>
+                      );
+                    }
                                       
                     
