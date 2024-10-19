@@ -1,6 +1,11 @@
+import matplotlib
+matplotlib.use('Agg')
+
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import pickle
+import shap
 from sklearn.metrics import classification_report, accuracy_score
 from sklearn.model_selection import train_test_split
 from xgboost import XGBClassifier
@@ -53,6 +58,7 @@ def model_output(features):
 
     predictions = {}
     for disease, model in models.items():
+
         predictions[disease] = model.predict(features.to_numpy())[0]
-    
+
     return predictions

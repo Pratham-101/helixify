@@ -4,12 +4,12 @@ import random
 
 def get_lifestyle_changes(disease_insights):
 
-    if  all(value == 0 for value in disease_insights.values()):
-        lifestyle_association = pd.read_csv(r'./Database/LifestyleAssociation.csv', index_col='disease_name')
-        lifestyle_recommendations = lifestyle_association['lifestyle_changes'].str.split(', ').to_dict()
+    if all(value == 0 for value in disease_insights.values()):
+        lifestyle_recommendations = {}
 
     else:
-        lifestyle_recommendations = {}
+        lifestyle_association = pd.read_csv(r'./Database/LifestyleAssociation.csv', index_col='disease_name')
+        lifestyle_recommendations = lifestyle_association['lifestyle_changes'].str.split(', ').to_dict()
 
     return {
         disease: lifestyle_recommendations[disease]
