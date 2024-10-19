@@ -58,7 +58,7 @@ export default function Navbar() {
                 fontSize: { xs: "16px", sm: "20px", md: "22px" },
               }}
             >
-              Dashboard Panel
+              Helixify Dashboard
             </Typography>
           </Link>
         </Box>
