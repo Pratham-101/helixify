@@ -1,5 +1,4 @@
 import pandas as pd
-import random
 
 
 def get_lifestyle_changes(disease_insights):
