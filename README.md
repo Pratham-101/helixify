@@ -1,1 +1,5 @@
-# Add content
+# HELIXIFY
+<b>Problem Statement</b><br>
+Current healthcare systems are reactive and generalized, focusing on late treatment rather than early detection. With 68% of all deaths caused by Non-Communicable Diseases and the fact that all diseases have genetic influence, there are currently zero solutions that integrate genomic data with environmental and lifestyle factors. This lack of personalization has resulted in 50% of patients receiving ineffective treatments due to genetic variations, leading to over 84 lakh preventable deaths in India annually.
+<br><br><b>Proposed Solution</b><br>
+We propose a web based personalized health platform that integrates genomic data with environmental and lifestyle factors to enable precise disease detection, tailored treatment recommendations, and actionable lifestyle adjustments. Users are connected with local DNA sequencing labs and healthcare professionals, ensuring cheap and accessible personalized care. This innovative solution promises to transform healthcare by moving from reactive to proactive management.
