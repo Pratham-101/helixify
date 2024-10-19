@@ -1,4 +1,4 @@
-import { React, useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
@@ -7,6 +7,7 @@ import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 import IconButton from "@mui/material/IconButton";
 import { Link, useNavigate } from "react-router-dom";
 import { useTheme } from "@mui/material/styles";
+import { Box } from "@mui/material";
 
 export default function Navbar() {
   const getEmail = localStorage.getItem("emailData");
@@ -14,72 +15,65 @@ export default function Navbar() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const navigate = useNavigate();
   const theme = useTheme();
+
   useEffect(() => {
-    if (!getEmail && !getPassword) {
-      setIsLoggedIn(false);
-    } else {
-      setIsLoggedIn(true);
-    }
+    setIsLoggedIn(!!getEmail && !!getPassword);
   }, [getEmail, getPassword]);
 
-  const handleClick = () => {
+  const handleLogout = () => {
     setIsLoggedIn(false);
     localStorage.clear();
     navigate("/login");
   };
+
   return (
     <AppBar
       position="fixed"
-      sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}
+      sx={{
+        backgroundColor: "#00695f", // Adjusting the background color to fit the theme
+        boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.1)",
+        zIndex: theme.zIndex.drawer + 1,
+      }}
     >
       <Toolbar
         sx={{
-          bgcolor: "var(--main-bg-color)",
           display: "flex",
           justifyContent: "space-between",
+          alignItems: "center",
+          px: 3,
         }}
       >
-        <Toolbar
-          sx={{
-            ml: -3,
-          }}
-        >
-          <Link to="/">
+        {/* Left Side: Logo / Dashboard Title */}
+        <Box>
+          <Link to="/" style={{ textDecoration: "none" }}>
             <Typography
               variant="h6"
               sx={{
                 color: "white",
-                [theme.breakpoints.down("md")]: {
-                  fontSize: 18,
+                fontWeight: 600,
+                "&:hover": {
+                  color: "#b2dfdb", // Subtle hover effect
                 },
-                [theme.breakpoints.down("sm")]: {
-                  fontSize: 16,
-                },
+                transition: "color 0.3s ease",
+                fontSize: { xs: "16px", sm: "20px", md: "22px" },
               }}
             >
               Dashboard Panel
             </Typography>
           </Link>
-        </Toolbar>
-        <Toolbar
-          sx={{
-            mr: -3,
-          }}
-        >
+        </Box>
+
+        {/* Right Side: User Icon and Buttons */}
+        <Box sx={{ display: "flex", alignItems: "center", gap: 2 }}>
           <Link to="/user">
-            <IconButton title="User">
+            <IconButton title="User Profile">
               <AccountCircleIcon
                 sx={{
                   color: "#e6f0ff",
-                  fontSize: 40,
+                  fontSize: { xs: 30, sm: 35, md: 40 },
+                  transition: "color 0.3s ease",
                   "&:hover": {
-                    color: "#e6e6e6",
-                  },
-                  [theme.breakpoints.down("md")]: {
-                    fontSize: 30,
-                  },
-                  [theme.breakpoints.down("sm")]: {
-                    fontSize: 25,
+                    color: "#b2dfdb",
                   },
                 }}
               />
@@ -87,39 +81,45 @@ export default function Navbar() {
           </Link>
           {isLoggedIn ? (
             <Button
+              variant="contained"
               sx={{
-                color: "black",
-                bgcolor: "#e6f0ff",
+                color: "white",
+                backgroundColor: "#00796b",
                 "&:hover": {
-                  bgcolor: "#e6e6e6",
+                  backgroundColor: "#004d40",
                 },
-                [theme.breakpoints.down("md")]: {
-                  fontSize: 10,
-                },
-                [theme.breakpoints.down("sm")]: {
-                  fontSize: 6,
-                },
+                px: 3,
+                py: 1,
+                fontSize: { xs: "10px", sm: "12px", md: "14px" },
+                fontWeight: 500,
+                transition: "background-color 0.3s ease",
               }}
-              onClick={handleClick}
+              onClick={handleLogout}
             >
               Logout
             </Button>
           ) : (
-            <Link to="/login">
+            <Link to="/login" style={{ textDecoration: "none" }}>
               <Button
+                variant="contained"
                 sx={{
-                  color: "black",
-                  bgcolor: "#e6f0ff",
+                  color: "white",
+                  backgroundColor: "#00796b",
                   "&:hover": {
-                    bgcolor: "#e6e6e6",
+                    backgroundColor: "#004d40",
                   },
+                  px: 3,
+                  py: 1,
+                  fontSize: { xs: "10px", sm: "12px", md: "14px" },
+                  fontWeight: 500,
+                  transition: "background-color 0.3s ease",
                 }}
               >
                 Login
               </Button>
             </Link>
           )}
-        </Toolbar>
+        </Box>
       </Toolbar>
     </AppBar>
   );
