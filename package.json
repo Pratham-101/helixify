@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "d3": "^7.9.0",
+    "d3-geo": "^3.1.1",
+    "letter": "^0.0.1",
+    "mongodb": "^6.8.1",
+    "mongoose": "^8.6.1",
+    "numpy": "^0.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-svg-worldmap": "^2.0.0-alpha.16",
+    "react-world-maps": "^0.0.1",
+    "typescript": "^5.5.4"
+  }
+}
